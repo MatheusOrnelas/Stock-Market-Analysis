@@ -1,0 +1,4213 @@
+Ticker,Descrição,Valor
+AAGR11,Aplicação em 12 meses,"R$ 50.000,00"
+AAGR11,Montante final na POUPANÇA,"R$ 53.000,00"
+AAGR11,Montante final no FUNDO,"R$ 54.921,42"
+AAGR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.243,10"
+AAGR11,Valorização patrimonial no fundo,"R$ 51.678,32"
+AAGR11,AAGR11 X POUPANÇA,"3,63%"
+AATH11,Aplicação em 12 meses,"R$ 50.000,00"
+AATH11,Montante final na POUPANÇA,"R$ 53.000,00"
+AATH11,Montante final no FUNDO,N/A
+AATH11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+AATH11,Valorização patrimonial no fundo,"R$ 58.118,40"
+AATH11,AATH11 X POUPANÇA,N/A
+AAZQ11,Aplicação em 12 meses,"R$ 50.000,00"
+AAZQ11,Montante final na POUPANÇA,"R$ 53.000,00"
+AAZQ11,Montante final no FUNDO,"R$ 51.176,83"
+AAZQ11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.866,77"
+AAZQ11,Valorização patrimonial no fundo,"R$ 42.310,06"
+AAZQ11,AAZQ11 X POUPANÇA,"-3,44%"
+ABCP11,Aplicação em 12 meses,"R$ 50.000,00"
+ABCP11,Montante final na POUPANÇA,"R$ 53.000,00"
+ABCP11,Montante final no FUNDO,"R$ 55.142,32"
+ABCP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.762,84"
+ABCP11,Valorização patrimonial no fundo,"R$ 50.379,48"
+ABCP11,ABCP11 X POUPANÇA,"4,04%"
+AEFI11,Aplicação em 12 meses,"R$ 50.000,00"
+AEFI11,Montante final na POUPANÇA,"R$ 53.000,00"
+AEFI11,Montante final no FUNDO,N/A
+AEFI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+AEFI11,Valorização patrimonial no fundo,"R$ 50.000,00"
+AEFI11,AEFI11 X POUPANÇA,N/A
+AFCR11,Aplicação em 12 meses,"R$ 50.000,00"
+AFCR11,Montante final na POUPANÇA,N/A
+AFCR11,Montante final no FUNDO,N/A
+AFCR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+AFCR11,Valorização patrimonial no fundo,N/A
+AFCR11,AFCR11 X POUPANÇA,N/A
+AFHI11,Aplicação em 12 meses,"R$ 50.000,00"
+AFHI11,Montante final na POUPANÇA,"R$ 53.000,00"
+AFHI11,Montante final no FUNDO,"R$ 57.687,16"
+AFHI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.078,48"
+AFHI11,Valorização patrimonial no fundo,"R$ 51.608,68"
+AFHI11,AFHI11 X POUPANÇA,"8,84%"
+AFOF11,Aplicação em 12 meses,"R$ 50.000,00"
+AFOF11,Montante final na POUPANÇA,N/A
+AFOF11,Montante final no FUNDO,N/A
+AFOF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+AFOF11,Valorização patrimonial no fundo,N/A
+AFOF11,AFOF11 X POUPANÇA,N/A
+AGCX11,Aplicação em 12 meses,"R$ 50.000,00"
+AGCX11,Montante final na POUPANÇA,"R$ 53.000,00"
+AGCX11,Montante final no FUNDO,N/A
+AGCX11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+AGCX11,Valorização patrimonial no fundo,"R$ 50.000,00"
+AGCX11,AGCX11 X POUPANÇA,N/A
+AGRX11,Aplicação em 12 meses,"R$ 50.000,00"
+AGRX11,Montante final na POUPANÇA,"R$ 53.000,00"
+AGRX11,Montante final no FUNDO,N/A
+AGRX11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+AGRX11,Valorização patrimonial no fundo,"R$ 48.815,12"
+AGRX11,AGRX11 X POUPANÇA,N/A
+AIEC11,Aplicação em 12 meses,"R$ 50.000,00"
+AIEC11,Montante final na POUPANÇA,"R$ 53.000,00"
+AIEC11,Montante final no FUNDO,"R$ 47.838,54"
+AIEC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.027,52"
+AIEC11,Valorização patrimonial no fundo,"R$ 39.811,02"
+AIEC11,AIEC11 X POUPANÇA,"-9,74%"
+AJFI11,Aplicação em 12 meses,"R$ 50.000,00"
+AJFI11,Montante final na POUPANÇA,"R$ 53.000,00"
+AJFI11,Montante final no FUNDO,"R$ 45.958,23"
+AJFI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.831,98"
+AJFI11,Valorização patrimonial no fundo,"R$ 42.126,25"
+AJFI11,AJFI11 X POUPANÇA,"-13,29%"
+ALMI11,Aplicação em 12 meses,"R$ 50.000,00"
+ALMI11,Montante final na POUPANÇA,"R$ 53.000,00"
+ALMI11,Montante final no FUNDO,"R$ 43.457,59"
+ALMI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 476,35"
+ALMI11,Valorização patrimonial no fundo,"R$ 42.981,23"
+ALMI11,ALMI11 X POUPANÇA,"-18,00%"
+ALMI11B,Aplicação em 12 meses,"R$ 50.000,00"
+ALMI11B,Montante final na POUPANÇA,N/A
+ALMI11B,Montante final no FUNDO,N/A
+ALMI11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ALMI11B,Valorização patrimonial no fundo,N/A
+ALMI11B,ALMI11B X POUPANÇA,N/A
+ALZC11,Aplicação em 12 meses,"R$ 50.000,00"
+ALZC11,Montante final na POUPANÇA,"R$ 53.000,00"
+ALZC11,Montante final no FUNDO,"R$ 57.100,50"
+ALZC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.418,00"
+ALZC11,Valorização patrimonial no fundo,"R$ 54.682,50"
+ALZC11,ALZC11 X POUPANÇA,"7,74%"
+ALZR11,Aplicação em 12 meses,"R$ 50.000,00"
+ALZR11,Montante final na POUPANÇA,"R$ 53.000,00"
+ALZR11,Montante final no FUNDO,"R$ 52.928,41"
+ALZR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.723,16"
+ALZR11,Valorização patrimonial no fundo,"R$ 48.205,25"
+ALZR11,ALZR11 X POUPANÇA,"-0,14%"
+AMAZ11,Aplicação em 12 meses,"R$ 50.000,00"
+AMAZ11,Montante final na POUPANÇA,N/A
+AMAZ11,Montante final no FUNDO,N/A
+AMAZ11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+AMAZ11,Valorização patrimonial no fundo,N/A
+AMAZ11,AMAZ11 X POUPANÇA,N/A
+ANCR11B,Aplicação em 12 meses,"R$ 50.000,00"
+ANCR11B,Montante final na POUPANÇA,"R$ 53.000,00"
+ANCR11B,Montante final no FUNDO,"R$ 47.220,37"
+ANCR11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 636,24"
+ANCR11B,Valorização patrimonial no fundo,"R$ 46.584,13"
+ANCR11B,ANCR11B X POUPANÇA,"-10,90%"
+APTO11,Aplicação em 12 meses,"R$ 50.000,00"
+APTO11,Montante final na POUPANÇA,"R$ 53.000,00"
+APTO11,Montante final no FUNDO,"R$ 54.402,86"
+APTO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.782,70"
+APTO11,Valorização patrimonial no fundo,"R$ 48.620,16"
+APTO11,APTO11 X POUPANÇA,"2,65%"
+APXM11,Aplicação em 12 meses,"R$ 50.000,00"
+APXM11,Montante final na POUPANÇA,"R$ 53.000,00"
+APXM11,Montante final no FUNDO,"R$ 45.737,56"
+APXM11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.201,07"
+APXM11,Valorização patrimonial no fundo,"R$ 42.536,49"
+APXM11,APXM11 X POUPANÇA,"-13,70%"
+APXR11,Aplicação em 12 meses,"R$ 50.000,00"
+APXR11,Montante final na POUPANÇA,"R$ 53.000,00"
+APXR11,Montante final no FUNDO,N/A
+APXR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+APXR11,Valorização patrimonial no fundo,"R$ 50.505,00"
+APXR11,APXR11 X POUPANÇA,N/A
+APXU11,Aplicação em 12 meses,"R$ 50.000,00"
+APXU11,Montante final na POUPANÇA,N/A
+APXU11,Montante final no FUNDO,N/A
+APXU11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+APXU11,Valorização patrimonial no fundo,N/A
+APXU11,APXU11 X POUPANÇA,N/A
+AQLL11,Aplicação em 12 meses,"R$ 50.000,00"
+AQLL11,Montante final na POUPANÇA,"R$ 53.000,00"
+AQLL11,Montante final no FUNDO,N/A
+AQLL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+AQLL11,Valorização patrimonial no fundo,"R$ 50.000,00"
+AQLL11,AQLL11 X POUPANÇA,N/A
+ARCT11,Aplicação em 12 meses,"R$ 50.000,00"
+ARCT11,Montante final na POUPANÇA,"R$ 53.000,00"
+ARCT11,Montante final no FUNDO,N/A
+ARCT11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ARCT11,Valorização patrimonial no fundo,"R$ 40.354,40"
+ARCT11,ARCT11 X POUPANÇA,N/A
+ARFI11B,Aplicação em 12 meses,"R$ 50.000,00"
+ARFI11B,Montante final na POUPANÇA,"R$ 53.000,00"
+ARFI11B,Montante final no FUNDO,N/A
+ARFI11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ARFI11B,Valorização patrimonial no fundo,"R$ 50.000,00"
+ARFI11B,ARFI11B X POUPANÇA,N/A
+AROA11,Aplicação em 12 meses,"R$ 50.000,00"
+AROA11,Montante final na POUPANÇA,"R$ 53.000,00"
+AROA11,Montante final no FUNDO,"R$ 50.639,95"
+AROA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.494,95"
+AROA11,Valorização patrimonial no fundo,"R$ 47.145,00"
+AROA11,AROA11 X POUPANÇA,"-4,45%"
+ARRI11,Aplicação em 12 meses,"R$ 50.000,00"
+ARRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+ARRI11,Montante final no FUNDO,"R$ 57.873,61"
+ARRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.628,80"
+ARRI11,Valorização patrimonial no fundo,"R$ 51.244,81"
+ARRI11,ARRI11 X POUPANÇA,"9,20%"
+ARXD11,Aplicação em 12 meses,"R$ 50.000,00"
+ARXD11,Montante final na POUPANÇA,"R$ 53.000,00"
+ARXD11,Montante final no FUNDO,"R$ 57.522,61"
+ARXD11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.162,75"
+ARXD11,Valorização patrimonial no fundo,"R$ 51.359,86"
+ARXD11,ARXD11 X POUPANÇA,"8,53%"
+ASMT11,Aplicação em 12 meses,"R$ 50.000,00"
+ASMT11,Montante final na POUPANÇA,"R$ 53.000,00"
+ASMT11,Montante final no FUNDO,"R$ 38.620,22"
+ASMT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.039,50"
+ASMT11,Valorização patrimonial no fundo,"R$ 37.580,72"
+ASMT11,ASMT11 X POUPANÇA,"-27,13%"
+ASRF11,Aplicação em 12 meses,"R$ 50.000,00"
+ASRF11,Montante final na POUPANÇA,"R$ 53.000,00"
+ASRF11,Montante final no FUNDO,"R$ 54.433,56"
+ASRF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.025,31"
+ASRF11,Valorização patrimonial no fundo,"R$ 53.408,24"
+ASRF11,ASRF11 X POUPANÇA,"2,70%"
+ATCR11,Aplicação em 12 meses,"R$ 50.000,00"
+ATCR11,Montante final na POUPANÇA,N/A
+ATCR11,Montante final no FUNDO,N/A
+ATCR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ATCR11,Valorização patrimonial no fundo,N/A
+ATCR11,ATCR11 X POUPANÇA,N/A
+ATSA11,Aplicação em 12 meses,"R$ 50.000,00"
+ATSA11,Montante final na POUPANÇA,"R$ 53.000,00"
+ATSA11,Montante final no FUNDO,"R$ 51.291,62"
+ATSA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 642,24"
+ATSA11,Valorização patrimonial no fundo,"R$ 50.649,38"
+ATSA11,ATSA11 X POUPANÇA,"-3,22%"
+ATSA11B,Aplicação em 12 meses,"R$ 50.000,00"
+ATSA11B,Montante final na POUPANÇA,N/A
+ATSA11B,Montante final no FUNDO,N/A
+ATSA11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ATSA11B,Valorização patrimonial no fundo,N/A
+ATSA11B,ATSA11B X POUPANÇA,N/A
+ATWN11,Aplicação em 12 meses,"R$ 50.000,00"
+ATWN11,Montante final na POUPANÇA,N/A
+ATWN11,Montante final no FUNDO,N/A
+ATWN11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ATWN11,Valorização patrimonial no fundo,N/A
+ATWN11,ATWN11 X POUPANÇA,N/A
+AURB11,Aplicação em 12 meses,"R$ 50.000,00"
+AURB11,Montante final na POUPANÇA,"R$ 53.000,00"
+AURB11,Montante final no FUNDO,"R$ 45.649,20"
+AURB11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 642,40"
+AURB11,Valorização patrimonial no fundo,"R$ 45.006,80"
+AURB11,AURB11 X POUPANÇA,"-13,87%"
+AZIN11,Aplicação em 12 meses,"R$ 50.000,00"
+AZIN11,Montante final na POUPANÇA,N/A
+AZIN11,Montante final no FUNDO,N/A
+AZIN11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+AZIN11,Valorização patrimonial no fundo,N/A
+AZIN11,AZIN11 X POUPANÇA,N/A
+AZPL11,Aplicação em 12 meses,"R$ 50.000,00"
+AZPL11,Montante final na POUPANÇA,N/A
+AZPL11,Montante final no FUNDO,N/A
+AZPL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+AZPL11,Valorização patrimonial no fundo,N/A
+AZPL11,AZPL11 X POUPANÇA,N/A
+BARI11,Aplicação em 12 meses,"R$ 50.000,00"
+BARI11,Montante final na POUPANÇA,"R$ 53.000,00"
+BARI11,Montante final no FUNDO,"R$ 51.936,25"
+BARI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.481,81"
+BARI11,Valorização patrimonial no fundo,"R$ 46.454,44"
+BARI11,BARI11 X POUPANÇA,"-2,01%"
+BBFI11B,Aplicação em 12 meses,"R$ 50.000,00"
+BBFI11B,Montante final na POUPANÇA,"R$ 53.000,00"
+BBFI11B,Montante final no FUNDO,"R$ 60.582,15"
+BBFI11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 12.381,44"
+BBFI11B,Valorização patrimonial no fundo,"R$ 48.200,71"
+BBFI11B,BBFI11B X POUPANÇA,"14,31%"
+BBFO11,Aplicação em 12 meses,"R$ 50.000,00"
+BBFO11,Montante final na POUPANÇA,"R$ 53.000,00"
+BBFO11,Montante final no FUNDO,"R$ 54.784,69"
+BBFO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.309,64"
+BBFO11,Valorização patrimonial no fundo,"R$ 49.475,05"
+BBFO11,BBFO11 X POUPANÇA,"3,37%"
+BBGO11,Aplicação em 12 meses,"R$ 50.000,00"
+BBGO11,Montante final na POUPANÇA,"R$ 53.000,00"
+BBGO11,Montante final no FUNDO,"R$ 51.239,49"
+BBGO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.032,90"
+BBGO11,Valorização patrimonial no fundo,"R$ 45.206,59"
+BBGO11,BBGO11 X POUPANÇA,"-3,32%"
+BBIG11,Aplicação em 12 meses,"R$ 50.000,00"
+BBIG11,Montante final na POUPANÇA,"R$ 53.000,00"
+BBIG11,Montante final no FUNDO,"R$ 49.633,17"
+BBIG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.263,12"
+BBIG11,Valorização patrimonial no fundo,"R$ 48.370,05"
+BBIG11,BBIG11 X POUPANÇA,"-6,35%"
+BBIM11,Aplicação em 12 meses,"R$ 50.000,00"
+BBIM11,Montante final na POUPANÇA,N/A
+BBIM11,Montante final no FUNDO,N/A
+BBIM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BBIM11,Valorização patrimonial no fundo,N/A
+BBIM11,BBIM11 X POUPANÇA,N/A
+BBPO11,Aplicação em 12 meses,"R$ 50.000,00"
+BBPO11,Montante final na POUPANÇA,"R$ 53.000,00"
+BBPO11,Montante final no FUNDO,"R$ 58.851,64"
+BBPO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.846,28"
+BBPO11,Valorização patrimonial no fundo,"R$ 53.005,36"
+BBPO11,BBPO11 X POUPANÇA,"11,04%"
+BBRC11,Aplicação em 12 meses,"R$ 50.000,00"
+BBRC11,Montante final na POUPANÇA,"R$ 53.000,00"
+BBRC11,Montante final no FUNDO,"R$ 56.076,75"
+BBRC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.886,99"
+BBRC11,Valorização patrimonial no fundo,"R$ 50.189,76"
+BBRC11,BBRC11 X POUPANÇA,"5,81%"
+BBVJ11,Aplicação em 12 meses,"R$ 50.000,00"
+BBVJ11,Montante final na POUPANÇA,N/A
+BBVJ11,Montante final no FUNDO,N/A
+BBVJ11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BBVJ11,Valorização patrimonial no fundo,N/A
+BBVJ11,BBVJ11 X POUPANÇA,N/A
+BCFF11,Aplicação em 12 meses,"R$ 50.000,00"
+BCFF11,Montante final na POUPANÇA,"R$ 53.000,00"
+BCFF11,Montante final no FUNDO,"R$ 51.442,19"
+BCFF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.142,02"
+BCFF11,Valorização patrimonial no fundo,"R$ 46.300,16"
+BCFF11,BCFF11 X POUPANÇA,"-2,94%"
+BCFF11B,Aplicação em 12 meses,"R$ 50.000,00"
+BCFF11B,Montante final na POUPANÇA,N/A
+BCFF11B,Montante final no FUNDO,N/A
+BCFF11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BCFF11B,Valorização patrimonial no fundo,N/A
+BCFF11B,BCFF11B X POUPANÇA,N/A
+BCIA11,Aplicação em 12 meses,"R$ 50.000,00"
+BCIA11,Montante final na POUPANÇA,"R$ 53.000,00"
+BCIA11,Montante final no FUNDO,"R$ 56.551,46"
+BCIA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.933,70"
+BCIA11,Valorização patrimonial no fundo,"R$ 51.617,76"
+BCIA11,BCIA11 X POUPANÇA,"6,70%"
+BCRI11,Aplicação em 12 meses,"R$ 50.000,00"
+BCRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+BCRI11,Montante final no FUNDO,"R$ 56.339,12"
+BCRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.617,52"
+BCRI11,Valorização patrimonial no fundo,"R$ 48.721,60"
+BCRI11,BCRI11 X POUPANÇA,"6,30%"
+BDIF11,Aplicação em 12 meses,"R$ 50.000,00"
+BDIF11,Montante final na POUPANÇA,"R$ 53.000,00"
+BDIF11,Montante final no FUNDO,"R$ 53.986,82"
+BDIF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.210,20"
+BDIF11,Valorização patrimonial no fundo,"R$ 46.776,62"
+BDIF11,BDIF11 X POUPANÇA,"1,86%"
+BDIV11,Aplicação em 12 meses,"R$ 50.000,00"
+BDIV11,Montante final na POUPANÇA,"R$ 53.000,00"
+BDIV11,Montante final no FUNDO,N/A
+BDIV11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BDIV11,Valorização patrimonial no fundo,"R$ 54.348,24"
+BDIV11,BDIV11 X POUPANÇA,N/A
+BETW11,Aplicação em 12 meses,"R$ 50.000,00"
+BETW11,Montante final na POUPANÇA,N/A
+BETW11,Montante final no FUNDO,N/A
+BETW11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BETW11,Valorização patrimonial no fundo,N/A
+BETW11,BETW11 X POUPANÇA,N/A
+BICE11,Aplicação em 12 meses,"R$ 50.000,00"
+BICE11,Montante final na POUPANÇA,"R$ 53.000,00"
+BICE11,Montante final no FUNDO,"R$ 52.973,89"
+BICE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.204,52"
+BICE11,Valorização patrimonial no fundo,"R$ 47.769,37"
+BICE11,BICE11 X POUPANÇA,"-0,05%"
+BICR11,Aplicação em 12 meses,"R$ 50.000,00"
+BICR11,Montante final na POUPANÇA,"R$ 53.000,00"
+BICR11,Montante final no FUNDO,"R$ 27.645,77"
+BICR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.602,20"
+BICR11,Valorização patrimonial no fundo,"R$ 24.043,57"
+BICR11,BICR11 X POUPANÇA,"-47,84%"
+BIDB11,Aplicação em 12 meses,"R$ 50.000,00"
+BIDB11,Montante final na POUPANÇA,"R$ 53.000,00"
+BIDB11,Montante final no FUNDO,"R$ 58.994,45"
+BIDB11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.384,87"
+BIDB11,Valorização patrimonial no fundo,"R$ 52.609,58"
+BIDB11,BIDB11 X POUPANÇA,"11,31%"
+BIME11,Aplicação em 12 meses,"R$ 50.000,00"
+BIME11,Montante final na POUPANÇA,"R$ 53.000,00"
+BIME11,Montante final no FUNDO,"R$ 55.519,30"
+BIME11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.664,29"
+BIME11,Valorização patrimonial no fundo,"R$ 48.855,01"
+BIME11,BIME11 X POUPANÇA,"4,75%"
+BIPD11,Aplicação em 12 meses,"R$ 50.000,00"
+BIPD11,Montante final na POUPANÇA,"R$ 53.000,00"
+BIPD11,Montante final no FUNDO,"R$ 49.750,41"
+BIPD11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.945,78"
+BIPD11,Valorização patrimonial no fundo,"R$ 45.804,63"
+BIPD11,BIPD11 X POUPANÇA,"-6,13%"
+BIPE11,Aplicação em 12 meses,"R$ 50.000,00"
+BIPE11,Montante final na POUPANÇA,N/A
+BIPE11,Montante final no FUNDO,N/A
+BIPE11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BIPE11,Valorização patrimonial no fundo,N/A
+BIPE11,BIPE11 X POUPANÇA,N/A
+BLCA11,Aplicação em 12 meses,"R$ 50.000,00"
+BLCA11,Montante final na POUPANÇA,"R$ 53.000,00"
+BLCA11,Montante final no FUNDO,"R$ 48.437,37"
+BLCA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 9.212,00"
+BLCA11,Valorização patrimonial no fundo,"R$ 39.225,37"
+BLCA11,BLCA11 X POUPANÇA,"-8,61%"
+BLCP11,Aplicação em 12 meses,"R$ 50.000,00"
+BLCP11,Montante final na POUPANÇA,"R$ 53.000,00"
+BLCP11,Montante final no FUNDO,"R$ 50.284,34"
+BLCP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 309,32"
+BLCP11,Valorização patrimonial no fundo,"R$ 49.975,02"
+BLCP11,BLCP11 X POUPANÇA,"-5,12%"
+BLMC11,Aplicação em 12 meses,"R$ 50.000,00"
+BLMC11,Montante final na POUPANÇA,"R$ 53.000,00"
+BLMC11,Montante final no FUNDO,"R$ 55.443,63"
+BLMC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.599,07"
+BLMC11,Valorização patrimonial no fundo,"R$ 52.844,56"
+BLMC11,BLMC11 X POUPANÇA,"4,61%"
+BLMG11,Aplicação em 12 meses,"R$ 50.000,00"
+BLMG11,Montante final na POUPANÇA,"R$ 53.000,00"
+BLMG11,Montante final no FUNDO,"R$ 37.630,02"
+BLMG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.968,50"
+BLMG11,Valorização patrimonial no fundo,"R$ 30.661,52"
+BLMG11,BLMG11 X POUPANÇA,"-29,00%"
+BLMO11,Aplicação em 12 meses,"R$ 50.000,00"
+BLMO11,Montante final na POUPANÇA,"R$ 53.000,00"
+BLMO11,Montante final no FUNDO,"R$ 325.852,56"
+BLMO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 271.482,73"
+BLMO11,Valorização patrimonial no fundo,"R$ 54.369,83"
+BLMO11,BLMO11 X POUPANÇA,"514,82%"
+BLMR11,Aplicação em 12 meses,"R$ 50.000,00"
+BLMR11,Montante final na POUPANÇA,"R$ 53.000,00"
+BLMR11,Montante final no FUNDO,"R$ 47.284,42"
+BLMR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.224,08"
+BLMR11,Valorização patrimonial no fundo,"R$ 46.060,34"
+BLMR11,BLMR11 X POUPANÇA,"-10,78%"
+BLOG11,Aplicação em 12 meses,"R$ 50.000,00"
+BLOG11,Montante final na POUPANÇA,N/A
+BLOG11,Montante final no FUNDO,N/A
+BLOG11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BLOG11,Valorização patrimonial no fundo,N/A
+BLOG11,BLOG11 X POUPANÇA,N/A
+BLUR11,Aplicação em 12 meses,"R$ 50.000,00"
+BLUR11,Montante final na POUPANÇA,"R$ 53.000,00"
+BLUR11,Montante final no FUNDO,"R$ 54.245,23"
+BLUR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.752,80"
+BLUR11,Valorização patrimonial no fundo,"R$ 48.492,43"
+BLUR11,BLUR11 X POUPANÇA,"2,35%"
+BMII11,Aplicação em 12 meses,"R$ 50.000,00"
+BMII11,Montante final na POUPANÇA,N/A
+BMII11,Montante final no FUNDO,N/A
+BMII11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BMII11,Valorização patrimonial no fundo,N/A
+BMII11,BMII11 X POUPANÇA,N/A
+BMLC11,Aplicação em 12 meses,"R$ 50.000,00"
+BMLC11,Montante final na POUPANÇA,"R$ 53.000,00"
+BMLC11,Montante final no FUNDO,"R$ 53.119,75"
+BMLC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.533,90"
+BMLC11,Valorização patrimonial no fundo,"R$ 48.585,85"
+BMLC11,BMLC11 X POUPANÇA,"0,23%"
+BMLC11B,Aplicação em 12 meses,"R$ 50.000,00"
+BMLC11B,Montante final na POUPANÇA,N/A
+BMLC11B,Montante final no FUNDO,N/A
+BMLC11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BMLC11B,Valorização patrimonial no fundo,N/A
+BMLC11B,BMLC11B X POUPANÇA,N/A
+BNFS11,Aplicação em 12 meses,"R$ 50.000,00"
+BNFS11,Montante final na POUPANÇA,"R$ 53.000,00"
+BNFS11,Montante final no FUNDO,"R$ 57.709,46"
+BNFS11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.874,97"
+BNFS11,Valorização patrimonial no fundo,"R$ 50.834,50"
+BNFS11,BNFS11 X POUPANÇA,"8,89%"
+BODB11,Aplicação em 12 meses,"R$ 50.000,00"
+BODB11,Montante final na POUPANÇA,"R$ 53.000,00"
+BODB11,Montante final no FUNDO,"R$ 53.536,54"
+BODB11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.001,29"
+BODB11,Valorização patrimonial no fundo,"R$ 48.535,25"
+BODB11,BODB11 X POUPANÇA,"1,01%"
+BPFF11,Aplicação em 12 meses,"R$ 50.000,00"
+BPFF11,Montante final na POUPANÇA,"R$ 53.000,00"
+BPFF11,Montante final no FUNDO,"R$ 53.324,06"
+BPFF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.408,88"
+BPFF11,Valorização patrimonial no fundo,"R$ 47.915,18"
+BPFF11,BPFF11 X POUPANÇA,"0,61%"
+BPLC11,Aplicação em 12 meses,"R$ 50.000,00"
+BPLC11,Montante final na POUPANÇA,N/A
+BPLC11,Montante final no FUNDO,N/A
+BPLC11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BPLC11,Valorização patrimonial no fundo,N/A
+BPLC11,BPLC11 X POUPANÇA,N/A
+BPML11,Aplicação em 12 meses,"R$ 50.000,00"
+BPML11,Montante final na POUPANÇA,"R$ 53.000,00"
+BPML11,Montante final no FUNDO,"R$ 72.106,30"
+BPML11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.673,46"
+BPML11,Valorização patrimonial no fundo,"R$ 67.432,84"
+BPML11,BPML11 X POUPANÇA,"36,05%"
+BPRP11,Aplicação em 12 meses,"R$ 50.000,00"
+BPRP11,Montante final na POUPANÇA,"R$ 53.000,00"
+BPRP11,Montante final no FUNDO,"R$ 61.697,56"
+BPRP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.125,33"
+BPRP11,Valorização patrimonial no fundo,"R$ 56.572,23"
+BPRP11,BPRP11 X POUPANÇA,"16,41%"
+BRCO11,Aplicação em 12 meses,"R$ 50.000,00"
+BRCO11,Montante final na POUPANÇA,"R$ 53.000,00"
+BRCO11,Montante final no FUNDO,"R$ 52.679,08"
+BRCO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.556,09"
+BRCO11,Valorização patrimonial no fundo,"R$ 48.122,99"
+BRCO11,BRCO11 X POUPANÇA,"-0,61%"
+BRCR11,Aplicação em 12 meses,"R$ 50.000,00"
+BRCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+BRCR11,Montante final no FUNDO,"R$ 46.027,87"
+BRCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.332,41"
+BRCR11,Valorização patrimonial no fundo,"R$ 40.695,46"
+BRCR11,BRCR11 X POUPANÇA,"-13,15%"
+BREV11,Aplicação em 12 meses,"R$ 50.000,00"
+BREV11,Montante final na POUPANÇA,"R$ 53.000,00"
+BREV11,Montante final no FUNDO,"R$ 50.515,98"
+BREV11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 276,08"
+BREV11,Valorização patrimonial no fundo,"R$ 50.239,90"
+BREV11,BREV11 X POUPANÇA,"-4,69%"
+BRFT11,Aplicação em 12 meses,"R$ 50.000,00"
+BRFT11,Montante final na POUPANÇA,"R$ 53.000,00"
+BRFT11,Montante final no FUNDO,"R$ 46.461,41"
+BRFT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.247,75"
+BRFT11,Valorização patrimonial no fundo,"R$ 45.213,66"
+BRFT11,BRFT11 X POUPANÇA,"-12,34%"
+BRHT11B,Aplicação em 12 meses,"R$ 50.000,00"
+BRHT11B,Montante final na POUPANÇA,"R$ 53.000,00"
+BRHT11B,Montante final no FUNDO,N/A
+BRHT11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BRHT11B,Valorização patrimonial no fundo,"R$ 50.000,00"
+BRHT11B,BRHT11B X POUPANÇA,N/A
+BRIM11,Aplicação em 12 meses,"R$ 50.000,00"
+BRIM11,Montante final na POUPANÇA,"R$ 53.000,00"
+BRIM11,Montante final no FUNDO,"R$ 87.859,54"
+BRIM11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 13.326,53"
+BRIM11,Valorização patrimonial no fundo,"R$ 74.533,01"
+BRIM11,BRIM11 X POUPANÇA,"65,77%"
+BRIP11,Aplicação em 12 meses,"R$ 50.000,00"
+BRIP11,Montante final na POUPANÇA,"R$ 53.000,00"
+BRIP11,Montante final no FUNDO,"R$ 66.534,21"
+BRIP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 12.908,10"
+BRIP11,Valorização patrimonial no fundo,"R$ 53.626,11"
+BRIP11,BRIP11 X POUPANÇA,"25,54%"
+BRIX11,Aplicação em 12 meses,"R$ 50.000,00"
+BRIX11,Montante final na POUPANÇA,"R$ 53.000,00"
+BRIX11,Montante final no FUNDO,N/A
+BRIX11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BRIX11,Valorização patrimonial no fundo,"R$ 50.000,00"
+BRIX11,BRIX11 X POUPANÇA,N/A
+BRLA11,Aplicação em 12 meses,"R$ 50.000,00"
+BRLA11,Montante final na POUPANÇA,"R$ 53.000,00"
+BRLA11,Montante final no FUNDO,"R$ 57.880,68"
+BRLA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.357,04"
+BRLA11,Valorização patrimonial no fundo,"R$ 53.523,65"
+BRLA11,BRLA11 X POUPANÇA,"9,21%"
+BROF11,Aplicação em 12 meses,"R$ 50.000,00"
+BROF11,Montante final na POUPANÇA,"R$ 53.000,00"
+BROF11,Montante final no FUNDO,"R$ 41.733,63"
+BROF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.605,16"
+BROF11,Valorização patrimonial no fundo,"R$ 35.128,47"
+BROF11,BROF11 X POUPANÇA,"-21,26%"
+BROL11,Aplicação em 12 meses,"R$ 50.000,00"
+BROL11,Montante final na POUPANÇA,N/A
+BROL11,Montante final no FUNDO,N/A
+BROL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BROL11,Valorização patrimonial no fundo,N/A
+BROL11,BROL11 X POUPANÇA,N/A
+BRSE11,Aplicação em 12 meses,"R$ 50.000,00"
+BRSE11,Montante final na POUPANÇA,N/A
+BRSE11,Montante final no FUNDO,N/A
+BRSE11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BRSE11,Valorização patrimonial no fundo,N/A
+BRSE11,BRSE11 X POUPANÇA,N/A
+BRZD11,Aplicação em 12 meses,"R$ 50.000,00"
+BRZD11,Montante final na POUPANÇA,N/A
+BRZD11,Montante final no FUNDO,N/A
+BRZD11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BRZD11,Valorização patrimonial no fundo,N/A
+BRZD11,BRZD11 X POUPANÇA,N/A
+BRZP11,Aplicação em 12 meses,"R$ 50.000,00"
+BRZP11,Montante final na POUPANÇA,"R$ 53.000,00"
+BRZP11,Montante final no FUNDO,N/A
+BRZP11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BRZP11,Valorização patrimonial no fundo,"R$ 58.338,42"
+BRZP11,BRZP11 X POUPANÇA,N/A
+BTAG11,Aplicação em 12 meses,"R$ 50.000,00"
+BTAG11,Montante final na POUPANÇA,"R$ 53.000,00"
+BTAG11,Montante final no FUNDO,N/A
+BTAG11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BTAG11,Valorização patrimonial no fundo,"R$ 49.880,19"
+BTAG11,BTAG11 X POUPANÇA,N/A
+BTAL11,Aplicação em 12 meses,"R$ 50.000,00"
+BTAL11,Montante final na POUPANÇA,"R$ 53.000,00"
+BTAL11,Montante final no FUNDO,"R$ 50.188,85"
+BTAL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.403,11"
+BTAL11,Valorização patrimonial no fundo,"R$ 44.785,74"
+BTAL11,BTAL11 X POUPANÇA,"-5,30%"
+BTCI11,Aplicação em 12 meses,"R$ 50.000,00"
+BTCI11,Montante final na POUPANÇA,"R$ 53.000,00"
+BTCI11,Montante final no FUNDO,"R$ 58.976,63"
+BTCI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.751,95"
+BTCI11,Valorização patrimonial no fundo,"R$ 53.224,68"
+BTCI11,BTCI11 X POUPANÇA,"11,28%"
+BTCR11,Aplicação em 12 meses,"R$ 50.000,00"
+BTCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+BTCR11,Montante final no FUNDO,"R$ 52.000,72"
+BTCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 511,20"
+BTCR11,Valorização patrimonial no fundo,"R$ 51.489,52"
+BTCR11,BTCR11 X POUPANÇA,"-1,89%"
+BTGM11,Aplicação em 12 meses,"R$ 50.000,00"
+BTGM11,Montante final na POUPANÇA,N/A
+BTGM11,Montante final no FUNDO,N/A
+BTGM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BTGM11,Valorização patrimonial no fundo,N/A
+BTGM11,BTGM11 X POUPANÇA,N/A
+BTHI11,Aplicação em 12 meses,"R$ 50.000,00"
+BTHI11,Montante final na POUPANÇA,"R$ 53.000,00"
+BTHI11,Montante final no FUNDO,"R$ 50.731,56"
+BTHI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.899,81"
+BTHI11,Valorização patrimonial no fundo,"R$ 45.831,75"
+BTHI11,BTHI11 X POUPANÇA,"-4,28%"
+BTLG11,Aplicação em 12 meses,"R$ 50.000,00"
+BTLG11,Montante final na POUPANÇA,"R$ 53.000,00"
+BTLG11,Montante final no FUNDO,"R$ 55.596,01"
+BTLG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.457,15"
+BTLG11,Valorização patrimonial no fundo,"R$ 51.138,86"
+BTLG11,BTLG11 X POUPANÇA,"4,90%"
+BTML11,Aplicação em 12 meses,"R$ 50.000,00"
+BTML11,Montante final na POUPANÇA,"R$ 53.000,00"
+BTML11,Montante final no FUNDO,"R$ 54.661,15"
+BTML11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.148,20"
+BTML11,Valorização patrimonial no fundo,"R$ 51.512,95"
+BTML11,BTML11 X POUPANÇA,"3,13%"
+BTSG11,Aplicação em 12 meses,"R$ 50.000,00"
+BTSG11,Montante final na POUPANÇA,"R$ 53.000,00"
+BTSG11,Montante final no FUNDO,"R$ 61.914,66"
+BTSG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.438,24"
+BTSG11,Valorização patrimonial no fundo,"R$ 58.476,42"
+BTSG11,BTSG11 X POUPANÇA,"16,82%"
+BTSI11,Aplicação em 12 meses,"R$ 50.000,00"
+BTSI11,Montante final na POUPANÇA,"R$ 53.000,00"
+BTSI11,Montante final no FUNDO,"R$ 96.280,02"
+BTSI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.836,56"
+BTSI11,Valorização patrimonial no fundo,"R$ 92.443,46"
+BTSI11,BTSI11 X POUPANÇA,"81,66%"
+BTWR11,Aplicação em 12 meses,"R$ 50.000,00"
+BTWR11,Montante final na POUPANÇA,"R$ 53.000,00"
+BTWR11,Montante final no FUNDO,"R$ 59.668,71"
+BTWR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.049,32"
+BTWR11,Valorização patrimonial no fundo,"R$ 56.619,39"
+BTWR11,BTWR11 X POUPANÇA,"12,58%"
+BTYU11,Aplicação em 12 meses,"R$ 50.000,00"
+BTYU11,Montante final na POUPANÇA,"R$ 53.000,00"
+BTYU11,Montante final no FUNDO,"R$ 52.248,80"
+BTYU11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.593,81"
+BTYU11,Valorização patrimonial no fundo,"R$ 50.655,00"
+BTYU11,BTYU11 X POUPANÇA,"-1,42%"
+BVAR11,Aplicação em 12 meses,"R$ 50.000,00"
+BVAR11,Montante final na POUPANÇA,"R$ 53.000,00"
+BVAR11,Montante final no FUNDO,"R$ 321.578.825,24"
+BVAR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.007,04"
+BVAR11,Valorização patrimonial no fundo,"R$ 321.571.818,20"
+BVAR11,BVAR11 X POUPANÇA,"606.652,50%"
+BZEL11,Aplicação em 12 meses,"R$ 50.000,00"
+BZEL11,Montante final na POUPANÇA,N/A
+BZEL11,Montante final no FUNDO,N/A
+BZEL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BZEL11,Valorização patrimonial no fundo,N/A
+BZEL11,BZEL11 X POUPANÇA,N/A
+BZLI11,Aplicação em 12 meses,"R$ 50.000,00"
+BZLI11,Montante final na POUPANÇA,"R$ 53.000,00"
+BZLI11,Montante final no FUNDO,N/A
+BZLI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+BZLI11,Valorização patrimonial no fundo,"R$ 58.172,39"
+BZLI11,BZLI11 X POUPANÇA,N/A
+CACR11,Aplicação em 12 meses,"R$ 50.000,00"
+CACR11,Montante final na POUPANÇA,"R$ 53.000,00"
+CACR11,Montante final no FUNDO,"R$ 59.660,01"
+CACR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.936,94"
+CACR11,Valorização patrimonial no fundo,"R$ 51.723,07"
+CACR11,CACR11 X POUPANÇA,"12,57%"
+CAFE11,Aplicação em 12 meses,"R$ 50.000,00"
+CAFE11,Montante final na POUPANÇA,N/A
+CAFE11,Montante final no FUNDO,N/A
+CAFE11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CAFE11,Valorização patrimonial no fundo,N/A
+CAFE11,CAFE11 X POUPANÇA,N/A
+CARE11,Aplicação em 12 meses,"R$ 50.000,00"
+CARE11,Montante final na POUPANÇA,"R$ 53.000,00"
+CARE11,Montante final no FUNDO,N/A
+CARE11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CARE11,Valorização patrimonial no fundo,"R$ 41.835,22"
+CARE11,CARE11 X POUPANÇA,N/A
+CBOP11,Aplicação em 12 meses,"R$ 50.000,00"
+CBOP11,Montante final na POUPANÇA,"R$ 53.000,00"
+CBOP11,Montante final no FUNDO,"R$ 45.008,43"
+CBOP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.570,40"
+CBOP11,Valorização patrimonial no fundo,"R$ 42.438,03"
+CBOP11,CBOP11 X POUPANÇA,"-15,08%"
+CCFA11,Aplicação em 12 meses,"R$ 50.000,00"
+CCFA11,Montante final na POUPANÇA,N/A
+CCFA11,Montante final no FUNDO,N/A
+CCFA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CCFA11,Valorização patrimonial no fundo,N/A
+CCFA11,CCFA11 X POUPANÇA,N/A
+CCLB11,Aplicação em 12 meses,"R$ 50.000,00"
+CCLB11,Montante final na POUPANÇA,N/A
+CCLB11,Montante final no FUNDO,N/A
+CCLB11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CCLB11,Valorização patrimonial no fundo,N/A
+CCLB11,CCLB11 X POUPANÇA,N/A
+CCME11,Aplicação em 12 meses,"R$ 50.000,00"
+CCME11,Montante final na POUPANÇA,"R$ 53.000,00"
+CCME11,Montante final no FUNDO,"R$ 54.835,96"
+CCME11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.975,95"
+CCME11,Valorização patrimonial no fundo,"R$ 49.860,01"
+CCME11,CCME11 X POUPANÇA,"3,46%"
+CCRF11,Aplicação em 12 meses,"R$ 50.000,00"
+CCRF11,Montante final na POUPANÇA,"R$ 53.000,00"
+CCRF11,Montante final no FUNDO,"R$ 51.823,96"
+CCRF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.174,61"
+CCRF11,Valorização patrimonial no fundo,"R$ 50.649,35"
+CCRF11,CCRF11 X POUPANÇA,"-2,22%"
+CCVA11,Aplicação em 12 meses,"R$ 50.000,00"
+CCVA11,Montante final na POUPANÇA,N/A
+CCVA11,Montante final no FUNDO,N/A
+CCVA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CCVA11,Valorização patrimonial no fundo,N/A
+CCVA11,CCVA11 X POUPANÇA,N/A
+CDII11,Aplicação em 12 meses,"R$ 50.000,00"
+CDII11,Montante final na POUPANÇA,"R$ 53.000,00"
+CDII11,Montante final no FUNDO,"R$ 62.290,10"
+CDII11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.602,92"
+CDII11,Valorização patrimonial no fundo,"R$ 55.687,18"
+CDII11,CDII11 X POUPANÇA,"17,53%"
+CENU11,Aplicação em 12 meses,"R$ 50.000,00"
+CENU11,Montante final na POUPANÇA,"R$ 53.000,00"
+CENU11,Montante final no FUNDO,N/A
+CENU11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CENU11,Valorização patrimonial no fundo,"R$ 50.000,00"
+CENU11,CENU11 X POUPANÇA,N/A
+CEOC11,Aplicação em 12 meses,"R$ 50.000,00"
+CEOC11,Montante final na POUPANÇA,"R$ 53.000,00"
+CEOC11,Montante final no FUNDO,"R$ 49.510,13"
+CEOC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.909,95"
+CEOC11,Valorização patrimonial no fundo,"R$ 43.600,18"
+CEOC11,CEOC11 X POUPANÇA,"-6,58%"
+CEOC11B,Aplicação em 12 meses,"R$ 50.000,00"
+CEOC11B,Montante final na POUPANÇA,N/A
+CEOC11B,Montante final no FUNDO,N/A
+CEOC11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CEOC11B,Valorização patrimonial no fundo,N/A
+CEOC11B,CEOC11B X POUPANÇA,N/A
+CFHI11,Aplicação em 12 meses,"R$ 50.000,00"
+CFHI11,Montante final na POUPANÇA,"R$ 53.000,00"
+CFHI11,Montante final no FUNDO,"R$ 67.344,74"
+CFHI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 14.090,46"
+CFHI11,Valorização patrimonial no fundo,"R$ 53.254,28"
+CFHI11,CFHI11 X POUPANÇA,"27,07%"
+CFII11,Aplicação em 12 meses,"R$ 50.000,00"
+CFII11,Montante final na POUPANÇA,"R$ 53.000,00"
+CFII11,Montante final no FUNDO,"R$ 54.149,71"
+CFII11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.824,00"
+CFII11,Valorização patrimonial no fundo,"R$ 48.325,71"
+CFII11,CFII11 X POUPANÇA,"2,17%"
+CIXM11,Aplicação em 12 meses,"R$ 50.000,00"
+CIXM11,Montante final na POUPANÇA,"R$ 53.000,00"
+CIXM11,Montante final no FUNDO,"R$ 53.492,92"
+CIXM11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.202,80"
+CIXM11,Valorização patrimonial no fundo,"R$ 49.290,12"
+CIXM11,CIXM11 X POUPANÇA,"0,93%"
+CIXR11,Aplicação em 12 meses,"R$ 50.000,00"
+CIXR11,Montante final na POUPANÇA,N/A
+CIXR11,Montante final no FUNDO,N/A
+CIXR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CIXR11,Valorização patrimonial no fundo,N/A
+CIXR11,CIXR11 X POUPANÇA,N/A
+CJCT11,Aplicação em 12 meses,"R$ 50.000,00"
+CJCT11,Montante final na POUPANÇA,"R$ 53.000,00"
+CJCT11,Montante final no FUNDO,"R$ 48.586,56"
+CJCT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.324,31"
+CJCT11,Valorização patrimonial no fundo,"R$ 47.262,25"
+CJCT11,CJCT11 X POUPANÇA,"-8,33%"
+CJFI11,Aplicação em 12 meses,"R$ 50.000,00"
+CJFI11,Montante final na POUPANÇA,N/A
+CJFI11,Montante final no FUNDO,N/A
+CJFI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CJFI11,Valorização patrimonial no fundo,N/A
+CJFI11,CJFI11 X POUPANÇA,N/A
+CLIN11,Aplicação em 12 meses,"R$ 50.000,00"
+CLIN11,Montante final na POUPANÇA,"R$ 53.000,00"
+CLIN11,Montante final no FUNDO,"R$ 52.766,70"
+CLIN11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.343,25"
+CLIN11,Valorização patrimonial no fundo,"R$ 47.423,44"
+CLIN11,CLIN11 X POUPANÇA,"-0,44%"
+CNES11,Aplicação em 12 meses,"R$ 50.000,00"
+CNES11,Montante final na POUPANÇA,"R$ 53.000,00"
+CNES11,Montante final no FUNDO,"R$ 35.104,79"
+CNES11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.094,38"
+CNES11,Valorização patrimonial no fundo,"R$ 32.010,41"
+CNES11,CNES11 X POUPANÇA,"-33,76%"
+CNES11B,Aplicação em 12 meses,"R$ 50.000,00"
+CNES11B,Montante final na POUPANÇA,N/A
+CNES11B,Montante final no FUNDO,N/A
+CNES11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CNES11B,Valorização patrimonial no fundo,N/A
+CNES11B,CNES11B X POUPANÇA,N/A
+COPP11,Aplicação em 12 meses,"R$ 50.000,00"
+COPP11,Montante final na POUPANÇA,"R$ 53.000,00"
+COPP11,Montante final no FUNDO,"R$ 51.862,40"
+COPP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 363,75"
+COPP11,Valorização patrimonial no fundo,"R$ 51.498,65"
+COPP11,COPP11 X POUPANÇA,"-2,15%"
+CORM11,Aplicação em 12 meses,"R$ 50.000,00"
+CORM11,Montante final na POUPANÇA,N/A
+CORM11,Montante final no FUNDO,N/A
+CORM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CORM11,Valorização patrimonial no fundo,N/A
+CORM11,CORM11 X POUPANÇA,N/A
+CPFF11,Aplicação em 12 meses,"R$ 50.000,00"
+CPFF11,Montante final na POUPANÇA,"R$ 53.000,00"
+CPFF11,Montante final no FUNDO,"R$ 51.415,03"
+CPFF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.560,73"
+CPFF11,Valorização patrimonial no fundo,"R$ 45.854,30"
+CPFF11,CPFF11 X POUPANÇA,"-2,99%"
+CPFO11,Aplicação em 12 meses,"R$ 50.000,00"
+CPFO11,Montante final na POUPANÇA,N/A
+CPFO11,Montante final no FUNDO,N/A
+CPFO11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CPFO11,Valorização patrimonial no fundo,N/A
+CPFO11,CPFO11 X POUPANÇA,N/A
+CPLG11,Aplicação em 12 meses,"R$ 50.000,00"
+CPLG11,Montante final na POUPANÇA,"R$ 53.000,00"
+CPLG11,Montante final no FUNDO,N/A
+CPLG11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CPLG11,Valorização patrimonial no fundo,"R$ 52.999,38"
+CPLG11,CPLG11 X POUPANÇA,N/A
+CPOF11,Aplicação em 12 meses,"R$ 50.000,00"
+CPOF11,Montante final na POUPANÇA,"R$ 53.000,00"
+CPOF11,Montante final no FUNDO,"R$ 60.163,75"
+CPOF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.861,12"
+CPOF11,Valorização patrimonial no fundo,"R$ 57.302,63"
+CPOF11,CPOF11 X POUPANÇA,"13,52%"
+CPSH11,Aplicação em 12 meses,"R$ 50.000,00"
+CPSH11,Montante final na POUPANÇA,"R$ 53.000,00"
+CPSH11,Montante final no FUNDO,"R$ 52.036,61"
+CPSH11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.021,53"
+CPSH11,Valorização patrimonial no fundo,"R$ 46.015,08"
+CPSH11,CPSH11 X POUPANÇA,"-1,82%"
+CPTI11,Aplicação em 12 meses,"R$ 50.000,00"
+CPTI11,Montante final na POUPANÇA,"R$ 53.000,00"
+CPTI11,Montante final no FUNDO,"R$ 55.644,97"
+CPTI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.327,20"
+CPTI11,Valorização patrimonial no fundo,"R$ 48.317,77"
+CPTI11,CPTI11 X POUPANÇA,"4,99%"
+CPTR11,Aplicação em 12 meses,"R$ 50.000,00"
+CPTR11,Montante final na POUPANÇA,"R$ 53.000,00"
+CPTR11,Montante final no FUNDO,"R$ 51.323,53"
+CPTR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.587,56"
+CPTR11,Valorização patrimonial no fundo,"R$ 43.735,97"
+CPTR11,CPTR11 X POUPANÇA,"-3,16%"
+CPTS11,Aplicação em 12 meses,"R$ 50.000,00"
+CPTS11,Montante final na POUPANÇA,"R$ 53.000,00"
+CPTS11,Montante final no FUNDO,"R$ 54.374,88"
+CPTS11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.204,75"
+CPTS11,Valorização patrimonial no fundo,"R$ 49.170,13"
+CPTS11,CPTS11 X POUPANÇA,"2,59%"
+CPTS11B,Aplicação em 12 meses,"R$ 50.000,00"
+CPTS11B,Montante final na POUPANÇA,N/A
+CPTS11B,Montante final no FUNDO,N/A
+CPTS11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CPTS11B,Valorização patrimonial no fundo,N/A
+CPTS11B,CPTS11B X POUPANÇA,N/A
+CRAA11,Aplicação em 12 meses,"R$ 50.000,00"
+CRAA11,Montante final na POUPANÇA,"R$ 53.000,00"
+CRAA11,Montante final no FUNDO,"R$ 60.174,75"
+CRAA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.176,96"
+CRAA11,Valorização patrimonial no fundo,"R$ 52.997,79"
+CRAA11,CRAA11 X POUPANÇA,"13,54%"
+CRFF11,Aplicação em 12 meses,"R$ 50.000,00"
+CRFF11,Montante final na POUPANÇA,"R$ 53.000,00"
+CRFF11,Montante final no FUNDO,"R$ 53.819,43"
+CRFF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.048,96"
+CRFF11,Valorização patrimonial no fundo,"R$ 48.770,47"
+CRFF11,CRFF11 X POUPANÇA,"1,55%"
+CSMC11,Aplicação em 12 meses,"R$ 50.000,00"
+CSMC11,Montante final na POUPANÇA,N/A
+CSMC11,Montante final no FUNDO,N/A
+CSMC11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CSMC11,Valorização patrimonial no fundo,N/A
+CSMC11,CSMC11 X POUPANÇA,N/A
+CTEM11,Aplicação em 12 meses,"R$ 50.000,00"
+CTEM11,Montante final na POUPANÇA,"R$ 53.000,00"
+CTEM11,Montante final no FUNDO,N/A
+CTEM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CTEM11,Valorização patrimonial no fundo,"R$ 50.000,00"
+CTEM11,CTEM11 X POUPANÇA,N/A
+CTNP11,Aplicação em 12 meses,"R$ 50.000,00"
+CTNP11,Montante final na POUPANÇA,N/A
+CTNP11,Montante final no FUNDO,N/A
+CTNP11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CTNP11,Valorização patrimonial no fundo,N/A
+CTNP11,CTNP11 X POUPANÇA,N/A
+CTXT11,Aplicação em 12 meses,"R$ 50.000,00"
+CTXT11,Montante final na POUPANÇA,"R$ 53.000,00"
+CTXT11,Montante final no FUNDO,N/A
+CTXT11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CTXT11,Valorização patrimonial no fundo,"R$ 32.536,29"
+CTXT11,CTXT11 X POUPANÇA,N/A
+CVBI11,Aplicação em 12 meses,"R$ 50.000,00"
+CVBI11,Montante final na POUPANÇA,"R$ 53.000,00"
+CVBI11,Montante final no FUNDO,"R$ 57.058,49"
+CVBI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.815,26"
+CVBI11,Valorização patrimonial no fundo,"R$ 51.243,23"
+CVBI11,CVBI11 X POUPANÇA,"7,66%"
+CVPR11,Aplicação em 12 meses,"R$ 50.000,00"
+CVPR11,Montante final na POUPANÇA,N/A
+CVPR11,Montante final no FUNDO,N/A
+CVPR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CVPR11,Valorização patrimonial no fundo,N/A
+CVPR11,CVPR11 X POUPANÇA,N/A
+CXAG11,Aplicação em 12 meses,"R$ 50.000,00"
+CXAG11,Montante final na POUPANÇA,"R$ 53.000,00"
+CXAG11,Montante final no FUNDO,"R$ 52.516,86"
+CXAG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.934,50"
+CXAG11,Valorização patrimonial no fundo,"R$ 46.582,36"
+CXAG11,CXAG11 X POUPANÇA,"-0,91%"
+CXCE11B,Aplicação em 12 meses,"R$ 50.000,00"
+CXCE11B,Montante final na POUPANÇA,"R$ 53.000,00"
+CXCE11B,Montante final no FUNDO,"R$ 56.479,52"
+CXCE11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.669,59"
+CXCE11B,Valorização patrimonial no fundo,"R$ 50.809,92"
+CXCE11B,CXCE11B X POUPANÇA,"6,57%"
+CXCI11,Aplicação em 12 meses,"R$ 50.000,00"
+CXCI11,Montante final na POUPANÇA,"R$ 53.000,00"
+CXCI11,Montante final no FUNDO,"R$ 53.082,50"
+CXCI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.790,78"
+CXCI11,Valorização patrimonial no fundo,"R$ 47.291,72"
+CXCI11,CXCI11 X POUPANÇA,"0,16%"
+CXCO11,Aplicação em 12 meses,"R$ 50.000,00"
+CXCO11,Montante final na POUPANÇA,"R$ 53.000,00"
+CXCO11,Montante final no FUNDO,"R$ 51.563,49"
+CXCO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.056,56"
+CXCO11,Valorização patrimonial no fundo,"R$ 45.506,93"
+CXCO11,CXCO11 X POUPANÇA,"-2,71%"
+CXRI11,Aplicação em 12 meses,"R$ 50.000,00"
+CXRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+CXRI11,Montante final no FUNDO,"R$ 52.690,46"
+CXRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.813,30"
+CXRI11,Valorização patrimonial no fundo,"R$ 47.877,16"
+CXRI11,CXRI11 X POUPANÇA,"-0,58%"
+CXTL11,Aplicação em 12 meses,"R$ 50.000,00"
+CXTL11,Montante final na POUPANÇA,"R$ 53.000,00"
+CXTL11,Montante final no FUNDO,"R$ 44.072,58"
+CXTL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.734,97"
+CXTL11,Valorização patrimonial no fundo,"R$ 38.337,61"
+CXTL11,CXTL11 X POUPANÇA,"-16,84%"
+CYCR11,Aplicação em 12 meses,"R$ 50.000,00"
+CYCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+CYCR11,Montante final no FUNDO,"R$ 59.396,82"
+CYCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.536,96"
+CYCR11,Valorização patrimonial no fundo,"R$ 52.859,86"
+CYCR11,CYCR11 X POUPANÇA,"12,07%"
+CYLD11,Aplicação em 12 meses,"R$ 50.000,00"
+CYLD11,Montante final na POUPANÇA,"R$ 53.000,00"
+CYLD11,Montante final no FUNDO,N/A
+CYLD11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+CYLD11,Valorização patrimonial no fundo,"R$ 49.500,00"
+CYLD11,CYLD11 X POUPANÇA,N/A
+DAMA11,Aplicação em 12 meses,"R$ 50.000,00"
+DAMA11,Montante final na POUPANÇA,"R$ 53.000,00"
+DAMA11,Montante final no FUNDO,"R$ 52.468,97"
+DAMA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.194,00"
+DAMA11,Valorização patrimonial no fundo,"R$ 51.274,97"
+DAMA11,DAMA11 X POUPANÇA,"-1,00%"
+DAMT11B,Aplicação em 12 meses,"R$ 50.000,00"
+DAMT11B,Montante final na POUPANÇA,"R$ 53.000,00"
+DAMT11B,Montante final no FUNDO,"R$ 36.905,94"
+DAMT11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.343,26"
+DAMT11B,Valorização patrimonial no fundo,"R$ 35.562,69"
+DAMT11B,DAMT11B X POUPANÇA,"-30,37%"
+DCRA11,Aplicação em 12 meses,"R$ 50.000,00"
+DCRA11,Montante final na POUPANÇA,"R$ 53.000,00"
+DCRA11,Montante final no FUNDO,N/A
+DCRA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+DCRA11,Valorização patrimonial no fundo,"R$ 47.560,19"
+DCRA11,DCRA11 X POUPANÇA,N/A
+DEVA11,Aplicação em 12 meses,"R$ 50.000,00"
+DEVA11,Montante final na POUPANÇA,"R$ 53.000,00"
+DEVA11,Montante final no FUNDO,"R$ 48.982,39"
+DEVA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.321,67"
+DEVA11,Valorização patrimonial no fundo,"R$ 40.660,72"
+DEVA11,DEVA11 X POUPANÇA,"-7,58%"
+DLMT11,Aplicação em 12 meses,"R$ 50.000,00"
+DLMT11,Montante final na POUPANÇA,N/A
+DLMT11,Montante final no FUNDO,N/A
+DLMT11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+DLMT11,Valorização patrimonial no fundo,N/A
+DLMT11,DLMT11 X POUPANÇA,N/A
+DMAC11,Aplicação em 12 meses,"R$ 50.000,00"
+DMAC11,Montante final na POUPANÇA,"R$ 53.000,00"
+DMAC11,Montante final no FUNDO,N/A
+DMAC11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+DMAC11,Valorização patrimonial no fundo,"R$ 50.000,00"
+DMAC11,DMAC11 X POUPANÇA,N/A
+DOMC11,Aplicação em 12 meses,"R$ 50.000,00"
+DOMC11,Montante final na POUPANÇA,"R$ 53.000,00"
+DOMC11,Montante final no FUNDO,N/A
+DOMC11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+DOMC11,Valorização patrimonial no fundo,"R$ 50.000,00"
+DOMC11,DOMC11 X POUPANÇA,N/A
+DOVL11B,Aplicação em 12 meses,"R$ 50.000,00"
+DOVL11B,Montante final na POUPANÇA,"R$ 53.000,00"
+DOVL11B,Montante final no FUNDO,"R$ 53.624,34"
+DOVL11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.821,25"
+DOVL11B,Valorização patrimonial no fundo,"R$ 49.803,09"
+DOVL11B,DOVL11B X POUPANÇA,"1,18%"
+DPRO11,Aplicação em 12 meses,"R$ 50.000,00"
+DPRO11,Montante final na POUPANÇA,"R$ 53.000,00"
+DPRO11,Montante final no FUNDO,"R$ 41.608,12"
+DPRO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.668,11"
+DPRO11,Valorização patrimonial no fundo,"R$ 36.940,01"
+DPRO11,DPRO11 X POUPANÇA,"-21,49%"
+DRIT11B,Aplicação em 12 meses,"R$ 50.000,00"
+DRIT11B,Montante final na POUPANÇA,"R$ 53.000,00"
+DRIT11B,Montante final no FUNDO,"R$ 52.843,13"
+DRIT11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.166,00"
+DRIT11B,Valorização patrimonial no fundo,"R$ 44.677,13"
+DRIT11B,DRIT11B X POUPANÇA,"-0,30%"
+DVFF11,Aplicação em 12 meses,"R$ 50.000,00"
+DVFF11,Montante final na POUPANÇA,"R$ 53.000,00"
+DVFF11,Montante final no FUNDO,"R$ 51.567,04"
+DVFF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.831,53"
+DVFF11,Valorização patrimonial no fundo,"R$ 45.735,51"
+DVFF11,DVFF11 X POUPANÇA,"-2,70%"
+DVLP11,Aplicação em 12 meses,"R$ 50.000,00"
+DVLP11,Montante final na POUPANÇA,N/A
+DVLP11,Montante final no FUNDO,N/A
+DVLP11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+DVLP11,Valorização patrimonial no fundo,N/A
+DVLP11,DVLP11 X POUPANÇA,N/A
+EDFO11B,Aplicação em 12 meses,"R$ 50.000,00"
+EDFO11B,Montante final na POUPANÇA,"R$ 53.000,00"
+EDFO11B,Montante final no FUNDO,"R$ 63.558,25"
+EDFO11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.605,17"
+EDFO11B,Valorização patrimonial no fundo,"R$ 58.953,08"
+EDFO11B,EDFO11B X POUPANÇA,"19,92%"
+EDGA11,Aplicação em 12 meses,"R$ 50.000,00"
+EDGA11,Montante final na POUPANÇA,"R$ 53.000,00"
+EDGA11,Montante final no FUNDO,"R$ 46.186,60"
+EDGA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.545,23"
+EDGA11,Valorização patrimonial no fundo,"R$ 43.641,37"
+EDGA11,EDGA11 X POUPANÇA,"-12,86%"
+EDGA11B,Aplicação em 12 meses,"R$ 50.000,00"
+EDGA11B,Montante final na POUPANÇA,N/A
+EDGA11B,Montante final no FUNDO,N/A
+EDGA11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+EDGA11B,Valorização patrimonial no fundo,N/A
+EDGA11B,EDGA11B X POUPANÇA,N/A
+EDGE11,Aplicação em 12 meses,"R$ 50.000,00"
+EDGE11,Montante final na POUPANÇA,N/A
+EDGE11,Montante final no FUNDO,N/A
+EDGE11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+EDGE11,Valorização patrimonial no fundo,N/A
+EDGE11,EDGE11 X POUPANÇA,N/A
+EGAF11,Aplicação em 12 meses,"R$ 50.000,00"
+EGAF11,Montante final na POUPANÇA,"R$ 53.000,00"
+EGAF11,Montante final no FUNDO,"R$ 54.731,42"
+EGAF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.895,99"
+EGAF11,Valorização patrimonial no fundo,"R$ 46.835,43"
+EGAF11,EGAF11 X POUPANÇA,"3,27%"
+EGDB11,Aplicação em 12 meses,"R$ 50.000,00"
+EGDB11,Montante final na POUPANÇA,"R$ 53.000,00"
+EGDB11,Montante final no FUNDO,N/A
+EGDB11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+EGDB11,Valorização patrimonial no fundo,"R$ 50.462,37"
+EGDB11,EGDB11 X POUPANÇA,N/A
+EGYR11,Aplicação em 12 meses,"R$ 50.000,00"
+EGYR11,Montante final na POUPANÇA,"R$ 53.000,00"
+EGYR11,Montante final no FUNDO,N/A
+EGYR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+EGYR11,Valorização patrimonial no fundo,"R$ 24.941,92"
+EGYR11,EGYR11 X POUPANÇA,N/A
+ELDO11B,Aplicação em 12 meses,"R$ 50.000,00"
+ELDO11B,Montante final na POUPANÇA,"R$ 53.000,00"
+ELDO11B,Montante final no FUNDO,"R$ 58.157,50"
+ELDO11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.157,50"
+ELDO11B,Valorização patrimonial no fundo,"R$ 50.000,00"
+ELDO11B,ELDO11B X POUPANÇA,"9,73%"
+EMET11,Aplicação em 12 meses,"R$ 50.000,00"
+EMET11,Montante final na POUPANÇA,N/A
+EMET11,Montante final no FUNDO,N/A
+EMET11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+EMET11,Valorização patrimonial no fundo,N/A
+EMET11,EMET11 X POUPANÇA,N/A
+ENDD11,Aplicação em 12 meses,"R$ 50.000,00"
+ENDD11,Montante final na POUPANÇA,"R$ 53.000,00"
+ENDD11,Montante final no FUNDO,N/A
+ENDD11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ENDD11,Valorização patrimonial no fundo,"R$ 59.056,59"
+ENDD11,ENDD11 X POUPANÇA,N/A
+EQIA11,Aplicação em 12 meses,"R$ 50.000,00"
+EQIA11,Montante final na POUPANÇA,N/A
+EQIA11,Montante final no FUNDO,N/A
+EQIA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+EQIA11,Valorização patrimonial no fundo,N/A
+EQIA11,EQIA11 X POUPANÇA,N/A
+EQIN11,Aplicação em 12 meses,"R$ 50.000,00"
+EQIN11,Montante final na POUPANÇA,N/A
+EQIN11,Montante final no FUNDO,N/A
+EQIN11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+EQIN11,Valorização patrimonial no fundo,N/A
+EQIN11,EQIN11 X POUPANÇA,N/A
+EQIR11,Aplicação em 12 meses,"R$ 50.000,00"
+EQIR11,Montante final na POUPANÇA,"R$ 53.000,00"
+EQIR11,Montante final no FUNDO,"R$ 58.695,23"
+EQIR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.515,43"
+EQIR11,Valorização patrimonial no fundo,"R$ 52.179,80"
+EQIR11,EQIR11 X POUPANÇA,"10,75%"
+ERCR11,Aplicação em 12 meses,"R$ 50.000,00"
+ERCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+ERCR11,Montante final no FUNDO,"R$ 53.737,50"
+ERCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.737,50"
+ERCR11,Valorização patrimonial no fundo,"R$ 50.000,00"
+ERCR11,ERCR11 X POUPANÇA,"1,39%"
+ERPA11,Aplicação em 12 meses,"R$ 50.000,00"
+ERPA11,Montante final na POUPANÇA,"R$ 53.000,00"
+ERPA11,Montante final no FUNDO,"R$ 60.790,22"
+ERPA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.427,87"
+ERPA11,Valorização patrimonial no fundo,"R$ 57.362,35"
+ERPA11,ERPA11 X POUPANÇA,"14,70%"
+ESTQ11,Aplicação em 12 meses,"R$ 50.000,00"
+ESTQ11,Montante final na POUPANÇA,N/A
+ESTQ11,Montante final no FUNDO,N/A
+ESTQ11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ESTQ11,Valorização patrimonial no fundo,N/A
+ESTQ11,ESTQ11 X POUPANÇA,N/A
+ESUD11,Aplicação em 12 meses,"R$ 50.000,00"
+ESUD11,Montante final na POUPANÇA,N/A
+ESUD11,Montante final no FUNDO,N/A
+ESUD11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ESUD11,Valorização patrimonial no fundo,N/A
+ESUD11,ESUD11 X POUPANÇA,N/A
+ESUT11,Aplicação em 12 meses,"R$ 50.000,00"
+ESUT11,Montante final na POUPANÇA,"R$ 53.000,00"
+ESUT11,Montante final no FUNDO,N/A
+ESUT11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ESUT11,Valorização patrimonial no fundo,"R$ 88.877,56"
+ESUT11,ESUT11 X POUPANÇA,N/A
+ESUU11,Aplicação em 12 meses,"R$ 50.000,00"
+ESUU11,Montante final na POUPANÇA,"R$ 53.000,00"
+ESUU11,Montante final no FUNDO,N/A
+ESUU11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ESUU11,Valorização patrimonial no fundo,"R$ 40.952,90"
+ESUU11,ESUU11 X POUPANÇA,N/A
+EURO11,Aplicação em 12 meses,"R$ 50.000,00"
+EURO11,Montante final na POUPANÇA,"R$ 53.000,00"
+EURO11,Montante final no FUNDO,"R$ 55.152,00"
+EURO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.602,24"
+EURO11,Valorização patrimonial no fundo,"R$ 50.549,76"
+EURO11,EURO11 X POUPANÇA,"4,06%"
+EVBI11,Aplicação em 12 meses,"R$ 50.000,00"
+EVBI11,Montante final na POUPANÇA,"R$ 53.000,00"
+EVBI11,Montante final no FUNDO,"R$ 9.737,88"
+EVBI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.522,83"
+EVBI11,Valorização patrimonial no fundo,"R$ 5.215,04"
+EVBI11,EVBI11 X POUPANÇA,"-81,63%"
+EXES11,Aplicação em 12 meses,"R$ 50.000,00"
+EXES11,Montante final na POUPANÇA,"R$ 53.000,00"
+EXES11,Montante final no FUNDO,"R$ 10.546,59"
+EXES11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.369,31"
+EXES11,Valorização patrimonial no fundo,"R$ 5.177,28"
+EXES11,EXES11 X POUPANÇA,"-80,10%"
+FAED11,Aplicação em 12 meses,"R$ 50.000,00"
+FAED11,Montante final na POUPANÇA,"R$ 53.000,00"
+FAED11,Montante final no FUNDO,"R$ 50.291,74"
+FAED11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.073,18"
+FAED11,Valorização patrimonial no fundo,"R$ 44.218,56"
+FAED11,FAED11 X POUPANÇA,"-5,11%"
+FAED11B,Aplicação em 12 meses,"R$ 50.000,00"
+FAED11B,Montante final na POUPANÇA,N/A
+FAED11B,Montante final no FUNDO,N/A
+FAED11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FAED11B,Valorização patrimonial no fundo,N/A
+FAED11B,FAED11B X POUPANÇA,N/A
+FAGL11,Aplicação em 12 meses,"R$ 50.000,00"
+FAGL11,Montante final na POUPANÇA,N/A
+FAGL11,Montante final no FUNDO,N/A
+FAGL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FAGL11,Valorização patrimonial no fundo,N/A
+FAGL11,FAGL11 X POUPANÇA,N/A
+FAMB11B,Aplicação em 12 meses,"R$ 50.000,00"
+FAMB11B,Montante final na POUPANÇA,"R$ 53.000,00"
+FAMB11B,Montante final no FUNDO,N/A
+FAMB11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FAMB11B,Valorização patrimonial no fundo,"R$ 37.346,31"
+FAMB11B,FAMB11B X POUPANÇA,N/A
+FAOE11,Aplicação em 12 meses,"R$ 50.000,00"
+FAOE11,Montante final na POUPANÇA,"R$ 53.000,00"
+FAOE11,Montante final no FUNDO,"R$ 51.121,53"
+FAOE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.121,53"
+FAOE11,Valorização patrimonial no fundo,"R$ 50.000,00"
+FAOE11,FAOE11 X POUPANÇA,"-3,54%"
+FARM11,Aplicação em 12 meses,"R$ 50.000,00"
+FARM11,Montante final na POUPANÇA,N/A
+FARM11,Montante final no FUNDO,N/A
+FARM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FARM11,Valorização patrimonial no fundo,N/A
+FARM11,FARM11 X POUPANÇA,N/A
+FARU11,Aplicação em 12 meses,"R$ 50.000,00"
+FARU11,Montante final na POUPANÇA,N/A
+FARU11,Montante final no FUNDO,N/A
+FARU11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FARU11,Valorização patrimonial no fundo,N/A
+FARU11,FARU11 X POUPANÇA,N/A
+FATN11,Aplicação em 12 meses,"R$ 50.000,00"
+FATN11,Montante final na POUPANÇA,"R$ 53.000,00"
+FATN11,Montante final no FUNDO,"R$ 55.713,43"
+FATN11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.538,60"
+FATN11,Valorização patrimonial no fundo,"R$ 50.174,83"
+FATN11,FATN11 X POUPANÇA,"5,12%"
+FCAS11,Aplicação em 12 meses,"R$ 50.000,00"
+FCAS11,Montante final na POUPANÇA,N/A
+FCAS11,Montante final no FUNDO,N/A
+FCAS11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FCAS11,Valorização patrimonial no fundo,N/A
+FCAS11,FCAS11 X POUPANÇA,N/A
+FCFL11,Aplicação em 12 meses,"R$ 50.000,00"
+FCFL11,Montante final na POUPANÇA,"R$ 53.000,00"
+FCFL11,Montante final no FUNDO,"R$ 55.094,96"
+FCFL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.685,49"
+FCFL11,Valorização patrimonial no fundo,"R$ 50.409,47"
+FCFL11,FCFL11 X POUPANÇA,"3,95%"
+FCFL11B,Aplicação em 12 meses,"R$ 50.000,00"
+FCFL11B,Montante final na POUPANÇA,N/A
+FCFL11B,Montante final no FUNDO,N/A
+FCFL11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FCFL11B,Valorização patrimonial no fundo,N/A
+FCFL11B,FCFL11B X POUPANÇA,N/A
+FEXC11,Aplicação em 12 meses,"R$ 50.000,00"
+FEXC11,Montante final na POUPANÇA,"R$ 53.000,00"
+FEXC11,Montante final no FUNDO,N/A
+FEXC11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FEXC11,Valorização patrimonial no fundo,"R$ 49.400,80"
+FEXC11,FEXC11 X POUPANÇA,N/A
+FEXC11B,Aplicação em 12 meses,"R$ 50.000,00"
+FEXC11B,Montante final na POUPANÇA,N/A
+FEXC11B,Montante final no FUNDO,N/A
+FEXC11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FEXC11B,Valorização patrimonial no fundo,N/A
+FEXC11B,FEXC11B X POUPANÇA,N/A
+FFCI11,Aplicação em 12 meses,"R$ 50.000,00"
+FFCI11,Montante final na POUPANÇA,N/A
+FFCI11,Montante final no FUNDO,N/A
+FFCI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FFCI11,Valorização patrimonial no fundo,N/A
+FFCI11,FFCI11 X POUPANÇA,N/A
+FGAA11,Aplicação em 12 meses,"R$ 50.000,00"
+FGAA11,Montante final na POUPANÇA,"R$ 53.000,00"
+FGAA11,Montante final no FUNDO,"R$ 53.234,70"
+FGAA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.459,14"
+FGAA11,Valorização patrimonial no fundo,"R$ 45.775,56"
+FGAA11,FGAA11 X POUPANÇA,"0,44%"
+FGPM11,Aplicação em 12 meses,"R$ 50.000,00"
+FGPM11,Montante final na POUPANÇA,N/A
+FGPM11,Montante final no FUNDO,N/A
+FGPM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FGPM11,Valorização patrimonial no fundo,N/A
+FGPM11,FGPM11 X POUPANÇA,N/A
+FIGS11,Aplicação em 12 meses,"R$ 50.000,00"
+FIGS11,Montante final na POUPANÇA,"R$ 53.000,00"
+FIGS11,Montante final no FUNDO,"R$ 49.127,59"
+FIGS11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.797,12"
+FIGS11,Valorização patrimonial no fundo,"R$ 44.330,47"
+FIGS11,FIGS11 X POUPANÇA,"-7,31%"
+FIIB11,Aplicação em 12 meses,"R$ 50.000,00"
+FIIB11,Montante final na POUPANÇA,"R$ 53.000,00"
+FIIB11,Montante final no FUNDO,"R$ 54.859,14"
+FIIB11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.199,30"
+FIIB11,Valorização patrimonial no fundo,"R$ 50.659,84"
+FIIB11,FIIB11 X POUPANÇA,"3,51%"
+FIIP11B,Aplicação em 12 meses,"R$ 50.000,00"
+FIIP11B,Montante final na POUPANÇA,"R$ 53.000,00"
+FIIP11B,Montante final no FUNDO,"R$ 54.726,57"
+FIIP11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.011,20"
+FIIP11B,Valorização patrimonial no fundo,"R$ 49.715,37"
+FIIP11B,FIIP11B X POUPANÇA,"3,26%"
+FINF11,Aplicação em 12 meses,"R$ 50.000,00"
+FINF11,Montante final na POUPANÇA,N/A
+FINF11,Montante final no FUNDO,N/A
+FINF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FINF11,Valorização patrimonial no fundo,N/A
+FINF11,FINF11 X POUPANÇA,N/A
+FISC11,Aplicação em 12 meses,"R$ 50.000,00"
+FISC11,Montante final na POUPANÇA,"R$ 53.000,00"
+FISC11,Montante final no FUNDO,"R$ 23.082,44"
+FISC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.715,18"
+FISC11,Valorização patrimonial no fundo,"R$ 19.367,26"
+FISC11,FISC11 X POUPANÇA,"-56,45%"
+FISD11,Aplicação em 12 meses,"R$ 50.000,00"
+FISD11,Montante final na POUPANÇA,"R$ 53.000,00"
+FISD11,Montante final no FUNDO,N/A
+FISD11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FISD11,Valorização patrimonial no fundo,"R$ 50.000,00"
+FISD11,FISD11 X POUPANÇA,N/A
+FIVN11,Aplicação em 12 meses,"R$ 50.000,00"
+FIVN11,Montante final na POUPANÇA,"R$ 53.000,00"
+FIVN11,Montante final no FUNDO,N/A
+FIVN11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FIVN11,Valorização patrimonial no fundo,"R$ 36.180,09"
+FIVN11,FIVN11 X POUPANÇA,N/A
+FIXX11,Aplicação em 12 meses,"R$ 50.000,00"
+FIXX11,Montante final na POUPANÇA,N/A
+FIXX11,Montante final no FUNDO,N/A
+FIXX11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FIXX11,Valorização patrimonial no fundo,N/A
+FIXX11,FIXX11 X POUPANÇA,N/A
+FLCI11,Aplicação em 12 meses,"R$ 50.000,00"
+FLCI11,Montante final na POUPANÇA,N/A
+FLCI11,Montante final no FUNDO,N/A
+FLCI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FLCI11,Valorização patrimonial no fundo,N/A
+FLCI11,FLCI11 X POUPANÇA,N/A
+FLCR11,Aplicação em 12 meses,"R$ 50.000,00"
+FLCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+FLCR11,Montante final no FUNDO,"R$ 59.921,75"
+FLCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.696,96"
+FLCR11,Valorização patrimonial no fundo,"R$ 53.224,79"
+FLCR11,FLCR11 X POUPANÇA,"13,06%"
+FLEM11,Aplicação em 12 meses,"R$ 50.000,00"
+FLEM11,Montante final na POUPANÇA,"R$ 53.000,00"
+FLEM11,Montante final no FUNDO,N/A
+FLEM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FLEM11,Valorização patrimonial no fundo,"R$ 50.000,00"
+FLEM11,FLEM11 X POUPANÇA,N/A
+FLFL11,Aplicação em 12 meses,"R$ 50.000,00"
+FLFL11,Montante final na POUPANÇA,N/A
+FLFL11,Montante final no FUNDO,N/A
+FLFL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FLFL11,Valorização patrimonial no fundo,N/A
+FLFL11,FLFL11 X POUPANÇA,N/A
+FLMA11,Aplicação em 12 meses,"R$ 50.000,00"
+FLMA11,Montante final na POUPANÇA,"R$ 53.000,00"
+FLMA11,Montante final no FUNDO,"R$ 54.678,79"
+FLMA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.159,50"
+FLMA11,Valorização patrimonial no fundo,"R$ 50.519,29"
+FLMA11,FLMA11 X POUPANÇA,"3,17%"
+FLNR11,Aplicação em 12 meses,"R$ 50.000,00"
+FLNR11,Montante final na POUPANÇA,"R$ 53.000,00"
+FLNR11,Montante final no FUNDO,N/A
+FLNR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FLNR11,Valorização patrimonial no fundo,"R$ 50.000,00"
+FLNR11,FLNR11 X POUPANÇA,N/A
+FLRP11,Aplicação em 12 meses,"R$ 50.000,00"
+FLRP11,Montante final na POUPANÇA,"R$ 53.000,00"
+FLRP11,Montante final no FUNDO,"R$ 55.896,80"
+FLRP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.948,00"
+FLRP11,Valorização patrimonial no fundo,"R$ 51.948,80"
+FLRP11,FLRP11 X POUPANÇA,"5,47%"
+FLRP11B,Aplicação em 12 meses,"R$ 50.000,00"
+FLRP11B,Montante final na POUPANÇA,N/A
+FLRP11B,Montante final no FUNDO,N/A
+FLRP11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FLRP11B,Valorização patrimonial no fundo,N/A
+FLRP11B,FLRP11B X POUPANÇA,N/A
+FMOF11,Aplicação em 12 meses,"R$ 50.000,00"
+FMOF11,Montante final na POUPANÇA,"R$ 53.000,00"
+FMOF11,Montante final no FUNDO,"R$ 45.737,73"
+FMOF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 999,36"
+FMOF11,Valorização patrimonial no fundo,"R$ 44.738,37"
+FMOF11,FMOF11 X POUPANÇA,"-13,70%"
+FOEF11,Aplicação em 12 meses,"R$ 50.000,00"
+FOEF11,Montante final na POUPANÇA,N/A
+FOEF11,Montante final no FUNDO,N/A
+FOEF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FOEF11,Valorização patrimonial no fundo,N/A
+FOEF11,FOEF11 X POUPANÇA,N/A
+FOFT11,Aplicação em 12 meses,"R$ 50.000,00"
+FOFT11,Montante final na POUPANÇA,"R$ 53.000,00"
+FOFT11,Montante final no FUNDO,N/A
+FOFT11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FOFT11,Valorização patrimonial no fundo,"R$ 50.000,00"
+FOFT11,FOFT11 X POUPANÇA,N/A
+FPAB11,Aplicação em 12 meses,"R$ 50.000,00"
+FPAB11,Montante final na POUPANÇA,"R$ 53.000,00"
+FPAB11,Montante final no FUNDO,"R$ 65.054,58"
+FPAB11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.371,81"
+FPAB11,Valorização patrimonial no fundo,"R$ 62.682,77"
+FPAB11,FPAB11 X POUPANÇA,"22,74%"
+FPNG11,Aplicação em 12 meses,"R$ 50.000,00"
+FPNG11,Montante final na POUPANÇA,"R$ 53.000,00"
+FPNG11,Montante final no FUNDO,"R$ 117.057,50"
+FPNG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 792,50"
+FPNG11,Valorização patrimonial no fundo,"R$ 116.265,00"
+FPNG11,FPNG11 X POUPANÇA,"120,86%"
+FPOR11,Aplicação em 12 meses,"R$ 50.000,00"
+FPOR11,Montante final na POUPANÇA,"R$ 53.000,00"
+FPOR11,Montante final no FUNDO,N/A
+FPOR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FPOR11,Valorização patrimonial no fundo,"R$ 187.486,25"
+FPOR11,FPOR11 X POUPANÇA,N/A
+FRHY11,Aplicação em 12 meses,"R$ 50.000,00"
+FRHY11,Montante final na POUPANÇA,N/A
+FRHY11,Montante final no FUNDO,N/A
+FRHY11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FRHY11,Valorização patrimonial no fundo,N/A
+FRHY11,FRHY11 X POUPANÇA,N/A
+FTCE11B,Aplicação em 12 meses,"R$ 50.000,00"
+FTCE11B,Montante final na POUPANÇA,"R$ 53.000,00"
+FTCE11B,Montante final no FUNDO,"R$ 52.094,98"
+FTCE11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.562,38"
+FTCE11B,Valorização patrimonial no fundo,"R$ 50.532,60"
+FTCE11B,FTCE11B X POUPANÇA,"-1,71%"
+FTRE11,Aplicação em 12 meses,"R$ 50.000,00"
+FTRE11,Montante final na POUPANÇA,N/A
+FTRE11,Montante final no FUNDO,N/A
+FTRE11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FTRE11,Valorização patrimonial no fundo,N/A
+FTRE11,FTRE11 X POUPANÇA,N/A
+FVBI11,Aplicação em 12 meses,"R$ 50.000,00"
+FVBI11,Montante final na POUPANÇA,"R$ 53.000,00"
+FVBI11,Montante final no FUNDO,N/A
+FVBI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FVBI11,Valorização patrimonial no fundo,"R$ 50.000,00"
+FVBI11,FVBI11 X POUPANÇA,N/A
+FVBI11B,Aplicação em 12 meses,"R$ 50.000,00"
+FVBI11B,Montante final na POUPANÇA,N/A
+FVBI11B,Montante final no FUNDO,N/A
+FVBI11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+FVBI11B,Valorização patrimonial no fundo,N/A
+FVBI11B,FVBI11B X POUPANÇA,N/A
+FVPQ11,Aplicação em 12 meses,"R$ 50.000,00"
+FVPQ11,Montante final na POUPANÇA,"R$ 53.000,00"
+FVPQ11,Montante final no FUNDO,"R$ 35.624,64"
+FVPQ11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.806,71"
+FVPQ11,Valorização patrimonial no fundo,"R$ 28.817,93"
+FVPQ11,FVPQ11 X POUPANÇA,"-32,78%"
+FZDA11,Aplicação em 12 meses,"R$ 50.000,00"
+FZDA11,Montante final na POUPANÇA,"R$ 53.000,00"
+FZDA11,Montante final no FUNDO,"R$ 51.121,57"
+FZDA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 432,78"
+FZDA11,Valorização patrimonial no fundo,"R$ 50.688,78"
+FZDA11,FZDA11 X POUPANÇA,"-3,54%"
+FZDB11,Aplicação em 12 meses,"R$ 50.000,00"
+FZDB11,Montante final na POUPANÇA,"R$ 53.000,00"
+FZDB11,Montante final no FUNDO,"R$ 53.400,01"
+FZDB11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.776,96"
+FZDB11,Valorização patrimonial no fundo,"R$ 51.623,05"
+FZDB11,FZDB11 X POUPANÇA,"0,75%"
+GALG11,Aplicação em 12 meses,"R$ 50.000,00"
+GALG11,Montante final na POUPANÇA,"R$ 53.000,00"
+GALG11,Montante final no FUNDO,"R$ 58.188,37"
+GALG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.643,65"
+GALG11,Valorização patrimonial no fundo,"R$ 52.544,72"
+GALG11,GALG11 X POUPANÇA,"9,79%"
+GAME11,Aplicação em 12 meses,"R$ 50.000,00"
+GAME11,Montante final na POUPANÇA,"R$ 53.000,00"
+GAME11,Montante final no FUNDO,"R$ 57.179,23"
+GAME11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.174,32"
+GAME11,Valorização patrimonial no fundo,"R$ 51.004,91"
+GAME11,GAME11 X POUPANÇA,"7,89%"
+GARE11,Aplicação em 12 meses,"R$ 50.000,00"
+GARE11,Montante final na POUPANÇA,"R$ 53.000,00"
+GARE11,Montante final no FUNDO,"R$ 55.454,06"
+GARE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.619,05"
+GARE11,Valorização patrimonial no fundo,"R$ 49.835,01"
+GARE11,GARE11 X POUPANÇA,"4,63%"
+GCFF11,Aplicação em 12 meses,"R$ 50.000,00"
+GCFF11,Montante final na POUPANÇA,"R$ 53.000,00"
+GCFF11,Montante final no FUNDO,"R$ 50.610,70"
+GCFF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 540,75"
+GCFF11,Valorização patrimonial no fundo,"R$ 50.069,95"
+GCFF11,GCFF11 X POUPANÇA,"-4,51%"
+GCOI11,Aplicação em 12 meses,"R$ 50.000,00"
+GCOI11,Montante final na POUPANÇA,"R$ 53.000,00"
+GCOI11,Montante final no FUNDO,"R$ 50.406,96"
+GCOI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 406,96"
+GCOI11,Valorização patrimonial no fundo,"R$ 50.000,00"
+GCOI11,GCOI11 X POUPANÇA,"-4,89%"
+GCRA11,Aplicação em 12 meses,"R$ 50.000,00"
+GCRA11,Montante final na POUPANÇA,"R$ 53.000,00"
+GCRA11,Montante final no FUNDO,"R$ 42.253,78"
+GCRA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 9.087,54"
+GCRA11,Valorização patrimonial no fundo,"R$ 33.166,24"
+GCRA11,GCRA11 X POUPANÇA,"-20,28%"
+GCRI11,Aplicação em 12 meses,"R$ 50.000,00"
+GCRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+GCRI11,Montante final no FUNDO,"R$ 49.003,58"
+GCRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.823,40"
+GCRI11,Valorização patrimonial no fundo,"R$ 41.180,18"
+GCRI11,GCRI11 X POUPANÇA,"-7,54%"
+GESE11B,Aplicação em 12 meses,"R$ 50.000,00"
+GESE11B,Montante final na POUPANÇA,"R$ 53.000,00"
+GESE11B,Montante final no FUNDO,"R$ 89.180,43"
+GESE11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 39.180,43"
+GESE11B,Valorização patrimonial no fundo,"R$ 50.000,00"
+GESE11B,GESE11B X POUPANÇA,"68,26%"
+GGRC11,Aplicação em 12 meses,"R$ 50.000,00"
+GGRC11,Montante final na POUPANÇA,"R$ 53.000,00"
+GGRC11,Montante final no FUNDO,"R$ 52.226,21"
+GGRC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.041,11"
+GGRC11,Valorização patrimonial no fundo,"R$ 47.185,10"
+GGRC11,GGRC11 X POUPANÇA,"-1,46%"
+GLOG11,Aplicação em 12 meses,"R$ 50.000,00"
+GLOG11,Montante final na POUPANÇA,"R$ 53.000,00"
+GLOG11,Montante final no FUNDO,"R$ 51.941,22"
+GLOG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.308,74"
+GLOG11,Valorização patrimonial no fundo,"R$ 46.632,48"
+GLOG11,GLOG11 X POUPANÇA,"-2,00%"
+GLPL11,Aplicação em 12 meses,"R$ 50.000,00"
+GLPL11,Montante final na POUPANÇA,N/A
+GLPL11,Montante final no FUNDO,N/A
+GLPL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+GLPL11,Valorização patrimonial no fundo,N/A
+GLPL11,GLPL11 X POUPANÇA,N/A
+GRLV11,Aplicação em 12 meses,"R$ 50.000,00"
+GRLV11,Montante final na POUPANÇA,"R$ 53.000,00"
+GRLV11,Montante final no FUNDO,N/A
+GRLV11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+GRLV11,Valorização patrimonial no fundo,"R$ 50.000,00"
+GRLV11,GRLV11 X POUPANÇA,N/A
+GRUL11,Aplicação em 12 meses,"R$ 50.000,00"
+GRUL11,Montante final na POUPANÇA,N/A
+GRUL11,Montante final no FUNDO,N/A
+GRUL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+GRUL11,Valorização patrimonial no fundo,N/A
+GRUL11,GRUL11 X POUPANÇA,N/A
+GRWA11,Aplicação em 12 meses,"R$ 50.000,00"
+GRWA11,Montante final na POUPANÇA,"R$ 53.000,00"
+GRWA11,Montante final no FUNDO,"R$ 58.425,00"
+GRWA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.325,00"
+GRWA11,Valorização patrimonial no fundo,"R$ 50.100,00"
+GRWA11,GRWA11 X POUPANÇA,"10,24%"
+GSFI11,Aplicação em 12 meses,"R$ 50.000,00"
+GSFI11,Montante final na POUPANÇA,"R$ 53.000,00"
+GSFI11,Montante final no FUNDO,N/A
+GSFI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+GSFI11,Valorização patrimonial no fundo,"R$ 52.819,92"
+GSFI11,GSFI11 X POUPANÇA,N/A
+GTLG11,Aplicação em 12 meses,"R$ 50.000,00"
+GTLG11,Montante final na POUPANÇA,"R$ 53.000,00"
+GTLG11,Montante final no FUNDO,"R$ 51.755,52"
+GTLG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 656,04"
+GTLG11,Valorização patrimonial no fundo,"R$ 51.099,48"
+GTLG11,GTLG11 X POUPANÇA,"-2,35%"
+GTWR11,Aplicação em 12 meses,"R$ 50.000,00"
+GTWR11,Montante final na POUPANÇA,"R$ 53.000,00"
+GTWR11,Montante final no FUNDO,"R$ 54.093,17"
+GTWR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.792,28"
+GTWR11,Valorização patrimonial no fundo,"R$ 48.300,89"
+GTWR11,GTWR11 X POUPANÇA,"2,06%"
+GURB11,Aplicação em 12 meses,"R$ 50.000,00"
+GURB11,Montante final na POUPANÇA,"R$ 53.000,00"
+GURB11,Montante final no FUNDO,"R$ 53.887,27"
+GURB11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.617,00"
+GURB11,Valorização patrimonial no fundo,"R$ 52.270,27"
+GURB11,GURB11 X POUPANÇA,"1,67%"
+GVBI11,Aplicação em 12 meses,"R$ 50.000,00"
+GVBI11,Montante final na POUPANÇA,N/A
+GVBI11,Montante final no FUNDO,N/A
+GVBI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+GVBI11,Valorização patrimonial no fundo,N/A
+GVBI11,GVBI11 X POUPANÇA,N/A
+GWIR11,Aplicação em 12 meses,"R$ 50.000,00"
+GWIR11,Montante final na POUPANÇA,"R$ 53.000,00"
+GWIR11,Montante final no FUNDO,N/A
+GWIR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+GWIR11,Valorização patrimonial no fundo,"R$ 50.000,00"
+GWIR11,GWIR11 X POUPANÇA,N/A
+GZIT11,Aplicação em 12 meses,"R$ 50.000,00"
+GZIT11,Montante final na POUPANÇA,"R$ 53.000,00"
+GZIT11,Montante final no FUNDO,"R$ 47.441,65"
+GZIT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.042,39"
+GZIT11,Valorização patrimonial no fundo,"R$ 40.399,26"
+GZIT11,GZIT11 X POUPANÇA,"-10,49%"
+HAAA11,Aplicação em 12 meses,"R$ 50.000,00"
+HAAA11,Montante final na POUPANÇA,"R$ 53.000,00"
+HAAA11,Montante final no FUNDO,"R$ 31.636,11"
+HAAA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.097,84"
+HAAA11,Valorização patrimonial no fundo,"R$ 27.538,27"
+HAAA11,HAAA11 X POUPANÇA,"-40,31%"
+HABT11,Aplicação em 12 meses,"R$ 50.000,00"
+HABT11,Montante final na POUPANÇA,"R$ 53.000,00"
+HABT11,Montante final no FUNDO,"R$ 53.820,30"
+HABT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.905,91"
+HABT11,Valorização patrimonial no fundo,"R$ 46.914,39"
+HABT11,HABT11 X POUPANÇA,"1,55%"
+HBCR11,Aplicação em 12 meses,"R$ 50.000,00"
+HBCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+HBCR11,Montante final no FUNDO,"R$ 66.727,89"
+HBCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.401,23"
+HBCR11,Valorização patrimonial no fundo,"R$ 63.326,66"
+HBCR11,HBCR11 X POUPANÇA,"25,90%"
+HBRH11,Aplicação em 12 meses,"R$ 50.000,00"
+HBRH11,Montante final na POUPANÇA,"R$ 53.000,00"
+HBRH11,Montante final no FUNDO,"R$ 54.987,30"
+HBRH11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.082,19"
+HBRH11,Valorização patrimonial no fundo,"R$ 49.905,11"
+HBRH11,HBRH11 X POUPANÇA,"3,75%"
+HBTT11,Aplicação em 12 meses,"R$ 50.000,00"
+HBTT11,Montante final na POUPANÇA,"R$ 53.000,00"
+HBTT11,Montante final no FUNDO,N/A
+HBTT11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HBTT11,Valorização patrimonial no fundo,"R$ 50.000,00"
+HBTT11,HBTT11 X POUPANÇA,N/A
+HCHG11,Aplicação em 12 meses,"R$ 50.000,00"
+HCHG11,Montante final na POUPANÇA,"R$ 53.000,00"
+HCHG11,Montante final no FUNDO,"R$ 49.676,56"
+HCHG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.787,95"
+HCHG11,Valorização patrimonial no fundo,"R$ 43.888,61"
+HCHG11,HCHG11 X POUPANÇA,"-6,27%"
+HCPR11,Aplicação em 12 meses,"R$ 50.000,00"
+HCPR11,Montante final na POUPANÇA,N/A
+HCPR11,Montante final no FUNDO,N/A
+HCPR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HCPR11,Valorização patrimonial no fundo,N/A
+HCPR11,HCPR11 X POUPANÇA,N/A
+HCRA11,Aplicação em 12 meses,"R$ 50.000,00"
+HCRA11,Montante final na POUPANÇA,"R$ 53.000,00"
+HCRA11,Montante final no FUNDO,N/A
+HCRA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HCRA11,Valorização patrimonial no fundo,"R$ 21.451,51"
+HCRA11,HCRA11 X POUPANÇA,N/A
+HCRI11,Aplicação em 12 meses,"R$ 50.000,00"
+HCRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+HCRI11,Montante final no FUNDO,"R$ 55.068,59"
+HCRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.716,99"
+HCRI11,Valorização patrimonial no fundo,"R$ 49.351,60"
+HCRI11,HCRI11 X POUPANÇA,"3,90%"
+HCRI11B,Aplicação em 12 meses,"R$ 50.000,00"
+HCRI11B,Montante final na POUPANÇA,N/A
+HCRI11B,Montante final no FUNDO,N/A
+HCRI11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HCRI11B,Valorização patrimonial no fundo,N/A
+HCRI11B,HCRI11B X POUPANÇA,N/A
+HCST11,Aplicação em 12 meses,"R$ 50.000,00"
+HCST11,Montante final na POUPANÇA,"R$ 53.000,00"
+HCST11,Montante final no FUNDO,N/A
+HCST11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HCST11,Valorização patrimonial no fundo,"R$ 46.295,00"
+HCST11,HCST11 X POUPANÇA,N/A
+HCTR11,Aplicação em 12 meses,"R$ 50.000,00"
+HCTR11,Montante final na POUPANÇA,"R$ 53.000,00"
+HCTR11,Montante final no FUNDO,"R$ 39.488,36"
+HCTR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.124,14"
+HCTR11,Valorização patrimonial no fundo,"R$ 32.364,22"
+HCTR11,HCTR11 X POUPANÇA,"-25,49%"
+HDEL11,Aplicação em 12 meses,"R$ 50.000,00"
+HDEL11,Montante final na POUPANÇA,"R$ 53.000,00"
+HDEL11,Montante final no FUNDO,"R$ 68.296,79"
+HDEL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 9.417,80"
+HDEL11,Valorização patrimonial no fundo,"R$ 58.878,99"
+HDEL11,HDEL11 X POUPANÇA,"28,86%"
+HDOF11,Aplicação em 12 meses,"R$ 50.000,00"
+HDOF11,Montante final na POUPANÇA,"R$ 53.000,00"
+HDOF11,Montante final no FUNDO,N/A
+HDOF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HDOF11,Valorização patrimonial no fundo,"R$ 41.753,22"
+HDOF11,HDOF11 X POUPANÇA,N/A
+HFOF11,Aplicação em 12 meses,"R$ 50.000,00"
+HFOF11,Montante final na POUPANÇA,"R$ 53.000,00"
+HFOF11,Montante final no FUNDO,"R$ 48.689,49"
+HFOF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.367,60"
+HFOF11,Valorização patrimonial no fundo,"R$ 43.321,89"
+HFOF11,HFOF11 X POUPANÇA,"-8,13%"
+HGAG11,Aplicação em 12 meses,"R$ 50.000,00"
+HGAG11,Montante final na POUPANÇA,"R$ 53.000,00"
+HGAG11,Montante final no FUNDO,"R$ 42.052,07"
+HGAG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.998,44"
+HGAG11,Valorização patrimonial no fundo,"R$ 36.053,63"
+HGAG11,HGAG11 X POUPANÇA,"-20,66%"
+HGBL11,Aplicação em 12 meses,"R$ 50.000,00"
+HGBL11,Montante final na POUPANÇA,"R$ 53.000,00"
+HGBL11,Montante final no FUNDO,"R$ 57.665,76"
+HGBL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.916,00"
+HGBL11,Valorização patrimonial no fundo,"R$ 52.749,76"
+HGBL11,HGBL11 X POUPANÇA,"8,80%"
+HGBS11,Aplicação em 12 meses,"R$ 50.000,00"
+HGBS11,Montante final na POUPANÇA,"R$ 53.000,00"
+HGBS11,Montante final no FUNDO,"R$ 52.997,27"
+HGBS11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.149,30"
+HGBS11,Valorização patrimonial no fundo,"R$ 47.847,97"
+HGBS11,HGBS11 X POUPANÇA,"-0,01%"
+HGCR11,Aplicação em 12 meses,"R$ 50.000,00"
+HGCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+HGCR11,Montante final no FUNDO,"R$ 55.125,97"
+HGCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.735,40"
+HGCR11,Valorização patrimonial no fundo,"R$ 49.390,57"
+HGCR11,HGCR11 X POUPANÇA,"4,01%"
+HGFF11,Aplicação em 12 meses,"R$ 50.000,00"
+HGFF11,Montante final na POUPANÇA,"R$ 53.000,00"
+HGFF11,Montante final no FUNDO,"R$ 54.367,59"
+HGFF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.897,20"
+HGFF11,Valorização patrimonial no fundo,"R$ 49.470,39"
+HGFF11,HGFF11 X POUPANÇA,"2,58%"
+HGIC11,Aplicação em 12 meses,"R$ 50.000,00"
+HGIC11,Montante final na POUPANÇA,"R$ 53.000,00"
+HGIC11,Montante final no FUNDO,"R$ 53.669,36"
+HGIC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.693,96"
+HGIC11,Valorização patrimonial no fundo,"R$ 47.975,41"
+HGIC11,HGIC11 X POUPANÇA,"1,26%"
+HGJH11,Aplicação em 12 meses,"R$ 50.000,00"
+HGJH11,Montante final na POUPANÇA,"R$ 53.000,00"
+HGJH11,Montante final no FUNDO,N/A
+HGJH11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HGJH11,Valorização patrimonial no fundo,"R$ 50.000,00"
+HGJH11,HGJH11 X POUPANÇA,N/A
+HGLG11,Aplicação em 12 meses,"R$ 50.000,00"
+HGLG11,Montante final na POUPANÇA,"R$ 53.000,00"
+HGLG11,Montante final no FUNDO,"R$ 55.307,09"
+HGLG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.065,60"
+HGLG11,Valorização patrimonial no fundo,"R$ 51.241,49"
+HGLG11,HGLG11 X POUPANÇA,"4,35%"
+HGPO11,Aplicação em 12 meses,"R$ 50.000,00"
+HGPO11,Montante final na POUPANÇA,"R$ 53.000,00"
+HGPO11,Montante final no FUNDO,"R$ 55.849,59"
+HGPO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.104,20"
+HGPO11,Valorização patrimonial no fundo,"R$ 52.745,39"
+HGPO11,HGPO11 X POUPANÇA,"5,38%"
+HGRE11,Aplicação em 12 meses,"R$ 50.000,00"
+HGRE11,Montante final na POUPANÇA,"R$ 53.000,00"
+HGRE11,Montante final no FUNDO,"R$ 47.356,69"
+HGRE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.525,50"
+HGRE11,Valorização patrimonial no fundo,"R$ 42.831,19"
+HGRE11,HGRE11 X POUPANÇA,"-10,65%"
+HGRS11,Aplicação em 12 meses,"R$ 50.000,00"
+HGRS11,Montante final na POUPANÇA,N/A
+HGRS11,Montante final no FUNDO,N/A
+HGRS11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HGRS11,Valorização patrimonial no fundo,N/A
+HGRS11,HGRS11 X POUPANÇA,N/A
+HGRU11,Aplicação em 12 meses,"R$ 50.000,00"
+HGRU11,Montante final na POUPANÇA,"R$ 53.000,00"
+HGRU11,Montante final no FUNDO,"R$ 54.015,39"
+HGRU11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.723,60"
+HGRU11,Valorização patrimonial no fundo,"R$ 49.291,79"
+HGRU11,HGRU11 X POUPANÇA,"1,92%"
+HILG11,Aplicação em 12 meses,"R$ 50.000,00"
+HILG11,Montante final na POUPANÇA,"R$ 53.000,00"
+HILG11,Montante final no FUNDO,"R$ 54.556,51"
+HILG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.227,58"
+HILG11,Valorização patrimonial no fundo,"R$ 50.328,93"
+HILG11,HILG11 X POUPANÇA,"2,94%"
+HLMB11,Aplicação em 12 meses,"R$ 50.000,00"
+HLMB11,Montante final na POUPANÇA,N/A
+HLMB11,Montante final no FUNDO,N/A
+HLMB11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HLMB11,Valorização patrimonial no fundo,N/A
+HLMB11,HLMB11 X POUPANÇA,N/A
+HLOG11,Aplicação em 12 meses,"R$ 50.000,00"
+HLOG11,Montante final na POUPANÇA,"R$ 53.000,00"
+HLOG11,Montante final no FUNDO,"R$ 47.897,99"
+HLOG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.882,00"
+HLOG11,Valorização patrimonial no fundo,"R$ 44.015,99"
+HLOG11,HLOG11 X POUPANÇA,"-9,63%"
+HMOC11,Aplicação em 12 meses,"R$ 50.000,00"
+HMOC11,Montante final na POUPANÇA,"R$ 53.000,00"
+HMOC11,Montante final no FUNDO,N/A
+HMOC11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HMOC11,Valorização patrimonial no fundo,"R$ 50.000,00"
+HMOC11,HMOC11 X POUPANÇA,N/A
+HOFC11,Aplicação em 12 meses,"R$ 50.000,00"
+HOFC11,Montante final na POUPANÇA,"R$ 53.000,00"
+HOFC11,Montante final no FUNDO,"R$ 63.801,04"
+HOFC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.514,70"
+HOFC11,Valorização patrimonial no fundo,"R$ 62.286,34"
+HOFC11,HOFC11 X POUPANÇA,"20,38%"
+HOMS11,Aplicação em 12 meses,"R$ 50.000,00"
+HOMS11,Montante final na POUPANÇA,N/A
+HOMS11,Montante final no FUNDO,N/A
+HOMS11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HOMS11,Valorização patrimonial no fundo,N/A
+HOMS11,HOMS11 X POUPANÇA,N/A
+HOSI11,Aplicação em 12 meses,"R$ 50.000,00"
+HOSI11,Montante final na POUPANÇA,"R$ 53.000,00"
+HOSI11,Montante final no FUNDO,"R$ 78.664,50"
+HOSI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.283,99"
+HOSI11,Valorização patrimonial no fundo,"R$ 74.380,50"
+HOSI11,HOSI11 X POUPANÇA,"48,42%"
+HPDP11,Aplicação em 12 meses,"R$ 50.000,00"
+HPDP11,Montante final na POUPANÇA,"R$ 53.000,00"
+HPDP11,Montante final no FUNDO,"R$ 57.836,69"
+HPDP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.548,88"
+HPDP11,Valorização patrimonial no fundo,"R$ 54.287,81"
+HPDP11,HPDP11 X POUPANÇA,"9,13%"
+HRDF11,Aplicação em 12 meses,"R$ 50.000,00"
+HRDF11,Montante final na POUPANÇA,"R$ 53.000,00"
+HRDF11,Montante final no FUNDO,N/A
+HRDF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HRDF11,Valorização patrimonial no fundo,"R$ 39.605,19"
+HRDF11,HRDF11 X POUPANÇA,N/A
+HREC11,Aplicação em 12 meses,"R$ 50.000,00"
+HREC11,Montante final na POUPANÇA,"R$ 53.000,00"
+HREC11,Montante final no FUNDO,"R$ 58.046,13"
+HREC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.686,41"
+HREC11,Valorização patrimonial no fundo,"R$ 52.359,73"
+HREC11,HREC11 X POUPANÇA,"9,52%"
+HRES11,Aplicação em 12 meses,"R$ 50.000,00"
+HRES11,Montante final na POUPANÇA,"R$ 53.000,00"
+HRES11,Montante final no FUNDO,"R$ 76.371,00"
+HRES11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.441,55"
+HRES11,Valorização patrimonial no fundo,"R$ 71.929,45"
+HRES11,HRES11 X POUPANÇA,"44,10%"
+HSAF11,Aplicação em 12 meses,"R$ 50.000,00"
+HSAF11,Montante final na POUPANÇA,"R$ 53.000,00"
+HSAF11,Montante final no FUNDO,"R$ 55.464,10"
+HSAF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.118,20"
+HSAF11,Valorização patrimonial no fundo,"R$ 49.345,90"
+HSAF11,HSAF11 X POUPANÇA,"4,65%"
+HSLG11,Aplicação em 12 meses,"R$ 50.000,00"
+HSLG11,Montante final na POUPANÇA,"R$ 53.000,00"
+HSLG11,Montante final no FUNDO,"R$ 49.791,09"
+HSLG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.135,73"
+HSLG11,Valorização patrimonial no fundo,"R$ 44.655,36"
+HSLG11,HSLG11 X POUPANÇA,"-6,05%"
+HSML11,Aplicação em 12 meses,"R$ 50.000,00"
+HSML11,Montante final na POUPANÇA,"R$ 53.000,00"
+HSML11,Montante final no FUNDO,"R$ 55.497,32"
+HSML11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.862,72"
+HSML11,Valorização patrimonial no fundo,"R$ 50.634,60"
+HSML11,HSML11 X POUPANÇA,"4,71%"
+HSRE11,Aplicação em 12 meses,"R$ 50.000,00"
+HSRE11,Montante final na POUPANÇA,"R$ 53.000,00"
+HSRE11,Montante final no FUNDO,"R$ 51.470,50"
+HSRE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.975,00"
+HSRE11,Valorização patrimonial no fundo,"R$ 47.495,50"
+HSRE11,HSRE11 X POUPANÇA,"-2,89%"
+HTMX11,Aplicação em 12 meses,"R$ 50.000,00"
+HTMX11,Montante final na POUPANÇA,"R$ 53.000,00"
+HTMX11,Montante final no FUNDO,"R$ 75.066,09"
+HTMX11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.814,60"
+HTMX11,Valorização patrimonial no fundo,"R$ 67.251,48"
+HTMX11,HTMX11 X POUPANÇA,"41,63%"
+HTMX11B,Aplicação em 12 meses,"R$ 50.000,00"
+HTMX11B,Montante final na POUPANÇA,N/A
+HTMX11B,Montante final no FUNDO,N/A
+HTMX11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+HTMX11B,Valorização patrimonial no fundo,N/A
+HTMX11B,HTMX11B X POUPANÇA,N/A
+HUCG11,Aplicação em 12 meses,"R$ 50.000,00"
+HUCG11,Montante final na POUPANÇA,"R$ 53.000,00"
+HUCG11,Montante final no FUNDO,"R$ 53.042,06"
+HUCG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 595,68"
+HUCG11,Valorização patrimonial no fundo,"R$ 52.446,38"
+HUCG11,HUCG11 X POUPANÇA,"0,08%"
+HUSC11,Aplicação em 12 meses,"R$ 50.000,00"
+HUSC11,Montante final na POUPANÇA,"R$ 53.000,00"
+HUSC11,Montante final no FUNDO,"R$ 58.506,42"
+HUSC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.708,00"
+HUSC11,Valorização patrimonial no fundo,"R$ 53.798,42"
+HUSC11,HUSC11 X POUPANÇA,"10,39%"
+HUSI11,Aplicação em 12 meses,"R$ 50.000,00"
+HUSI11,Montante final na POUPANÇA,"R$ 53.000,00"
+HUSI11,Montante final no FUNDO,"R$ 58.251,79"
+HUSI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.014,87"
+HUSI11,Valorização patrimonial no fundo,"R$ 54.236,92"
+HUSI11,HUSI11 X POUPANÇA,"9,91%"
+IAAG11,Aplicação em 12 meses,"R$ 50.000,00"
+IAAG11,Montante final na POUPANÇA,"R$ 53.000,00"
+IAAG11,Montante final no FUNDO,"R$ 61.397,26"
+IAAG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.507,68"
+IAAG11,Valorização patrimonial no fundo,"R$ 55.889,58"
+IAAG11,IAAG11 X POUPANÇA,"15,84%"
+IAGR11,Aplicação em 12 meses,"R$ 50.000,00"
+IAGR11,Montante final na POUPANÇA,"R$ 53.000,00"
+IAGR11,Montante final no FUNDO,"R$ 5.200,04"
+IAGR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.584,21"
+IAGR11,Valorização patrimonial no fundo,"R$ 1.615,83"
+IAGR11,IAGR11 X POUPANÇA,"-90,19%"
+IBBP11,Aplicação em 12 meses,"R$ 50.000,00"
+IBBP11,Montante final na POUPANÇA,N/A
+IBBP11,Montante final no FUNDO,N/A
+IBBP11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+IBBP11,Valorização patrimonial no fundo,N/A
+IBBP11,IBBP11 X POUPANÇA,N/A
+IBCR11,Aplicação em 12 meses,"R$ 50.000,00"
+IBCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+IBCR11,Montante final no FUNDO,"R$ 55.123,82"
+IBCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.091,00"
+IBCR11,Valorização patrimonial no fundo,"R$ 47.032,82"
+IBCR11,IBCR11 X POUPANÇA,"4,01%"
+IBFF11,Aplicação em 12 meses,"R$ 50.000,00"
+IBFF11,Montante final na POUPANÇA,"R$ 53.000,00"
+IBFF11,Montante final no FUNDO,"R$ 50.213,25"
+IBFF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 223,25"
+IBFF11,Valorização patrimonial no fundo,"R$ 49.990,00"
+IBFF11,IBFF11 X POUPANÇA,"-5,26%"
+ICNE11,Aplicação em 12 meses,"R$ 50.000,00"
+ICNE11,Montante final na POUPANÇA,"R$ 53.000,00"
+ICNE11,Montante final no FUNDO,"R$ 58.564,28"
+ICNE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.564,28"
+ICNE11,Valorização patrimonial no fundo,"R$ 50.000,00"
+ICNE11,ICNE11 X POUPANÇA,"10,50%"
+ICRI11,Aplicação em 12 meses,"R$ 50.000,00"
+ICRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+ICRI11,Montante final no FUNDO,"R$ 53.693,58"
+ICRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.703,64"
+ICRI11,Valorização patrimonial no fundo,"R$ 50.989,94"
+ICRI11,ICRI11 X POUPANÇA,"1,31%"
+IDFI11,Aplicação em 12 meses,"R$ 50.000,00"
+IDFI11,Montante final na POUPANÇA,"R$ 53.000,00"
+IDFI11,Montante final no FUNDO,"R$ 29.785,78"
+IDFI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 11.304,73"
+IDFI11,Valorização patrimonial no fundo,"R$ 18.481,05"
+IDFI11,IDFI11 X POUPANÇA,"-43,80%"
+IDGO11,Aplicação em 12 meses,"R$ 50.000,00"
+IDGO11,Montante final na POUPANÇA,"R$ 53.000,00"
+IDGO11,Montante final no FUNDO,N/A
+IDGO11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+IDGO11,Valorização patrimonial no fundo,"R$ 50.000,00"
+IDGO11,IDGO11 X POUPANÇA,N/A
+IDGR11,Aplicação em 12 meses,"R$ 50.000,00"
+IDGR11,Montante final na POUPANÇA,"R$ 53.000,00"
+IDGR11,Montante final no FUNDO,"R$ 25.106,42"
+IDGR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.298,20"
+IDGR11,Valorização patrimonial no fundo,"R$ 17.808,22"
+IDGR11,IDGR11 X POUPANÇA,"-52,63%"
+IDUA11,Aplicação em 12 meses,"R$ 50.000,00"
+IDUA11,Montante final na POUPANÇA,"R$ 53.000,00"
+IDUA11,Montante final no FUNDO,"R$ 45.702,65"
+IDUA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.389,58"
+IDUA11,Valorização patrimonial no fundo,"R$ 44.313,07"
+IDUA11,IDUA11 X POUPANÇA,"-13,77%"
+IFID11,Aplicação em 12 meses,"R$ 50.000,00"
+IFID11,Montante final na POUPANÇA,N/A
+IFID11,Montante final no FUNDO,N/A
+IFID11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+IFID11,Valorização patrimonial no fundo,N/A
+IFID11,IFID11 X POUPANÇA,N/A
+IFIE11,Aplicação em 12 meses,"R$ 50.000,00"
+IFIE11,Montante final na POUPANÇA,N/A
+IFIE11,Montante final no FUNDO,N/A
+IFIE11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+IFIE11,Valorização patrimonial no fundo,N/A
+IFIE11,IFIE11 X POUPANÇA,N/A
+IFRA11,Aplicação em 12 meses,"R$ 50.000,00"
+IFRA11,Montante final na POUPANÇA,"R$ 53.000,00"
+IFRA11,Montante final no FUNDO,"R$ 60.947,92"
+IFRA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.943,80"
+IFRA11,Valorização patrimonial no fundo,"R$ 55.004,12"
+IFRA11,IFRA11 X POUPANÇA,"15,00%"
+IFRI11,Aplicação em 12 meses,"R$ 50.000,00"
+IFRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+IFRI11,Montante final no FUNDO,N/A
+IFRI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+IFRI11,Valorização patrimonial no fundo,"R$ 53.752,93"
+IFRI11,IFRI11 X POUPANÇA,N/A
+IMOV11,Aplicação em 12 meses,"R$ 50.000,00"
+IMOV11,Montante final na POUPANÇA,N/A
+IMOV11,Montante final no FUNDO,N/A
+IMOV11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+IMOV11,Valorização patrimonial no fundo,N/A
+IMOV11,IMOV11 X POUPANÇA,N/A
+INDE11,Aplicação em 12 meses,"R$ 50.000,00"
+INDE11,Montante final na POUPANÇA,"R$ 53.000,00"
+INDE11,Montante final no FUNDO,N/A
+INDE11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+INDE11,Valorização patrimonial no fundo,"R$ 50.000,00"
+INDE11,INDE11 X POUPANÇA,N/A
+INFA11,Aplicação em 12 meses,"R$ 50.000,00"
+INFA11,Montante final na POUPANÇA,N/A
+INFA11,Montante final no FUNDO,N/A
+INFA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+INFA11,Valorização patrimonial no fundo,N/A
+INFA11,INFA11 X POUPANÇA,N/A
+INFB11,Aplicação em 12 meses,"R$ 50.000,00"
+INFB11,Montante final na POUPANÇA,N/A
+INFB11,Montante final no FUNDO,N/A
+INFB11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+INFB11,Valorização patrimonial no fundo,N/A
+INFB11,INFB11 X POUPANÇA,N/A
+IRDM11,Aplicação em 12 meses,"R$ 50.000,00"
+IRDM11,Montante final na POUPANÇA,"R$ 53.000,00"
+IRDM11,Montante final no FUNDO,"R$ 51.424,12"
+IRDM11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.321,46"
+IRDM11,Valorização patrimonial no fundo,"R$ 45.102,67"
+IRDM11,IRDM11 X POUPANÇA,"-2,97%"
+IRIM11,Aplicação em 12 meses,"R$ 50.000,00"
+IRIM11,Montante final na POUPANÇA,"R$ 53.000,00"
+IRIM11,Montante final no FUNDO,"R$ 46.897,08"
+IRIM11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.734,10"
+IRIM11,Valorização patrimonial no fundo,"R$ 40.162,98"
+IRIM11,IRIM11 X POUPANÇA,"-11,51%"
+ISCJ11,Aplicação em 12 meses,"R$ 50.000,00"
+ISCJ11,Montante final na POUPANÇA,"R$ 53.000,00"
+ISCJ11,Montante final no FUNDO,N/A
+ISCJ11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ISCJ11,Valorização patrimonial no fundo,"R$ 31.041,21"
+ISCJ11,ISCJ11 X POUPANÇA,N/A
+ITIP11,Aplicação em 12 meses,"R$ 50.000,00"
+ITIP11,Montante final na POUPANÇA,"R$ 53.000,00"
+ITIP11,Montante final no FUNDO,"R$ 55.270,32"
+ITIP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.325,32"
+ITIP11,Valorização patrimonial no fundo,"R$ 49.945,00"
+ITIP11,ITIP11 X POUPANÇA,"4,28%"
+ITIT11,Aplicação em 12 meses,"R$ 50.000,00"
+ITIT11,Montante final na POUPANÇA,"R$ 53.000,00"
+ITIT11,Montante final no FUNDO,"R$ 52.487,55"
+ITIT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.921,74"
+ITIT11,Valorização patrimonial no fundo,"R$ 47.565,81"
+ITIT11,ITIT11 X POUPANÇA,"-0,97%"
+ITRI11,Aplicação em 12 meses,"R$ 50.000,00"
+ITRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+ITRI11,Montante final no FUNDO,"R$ 48.682,02"
+ITRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.566,00"
+ITRI11,Valorização patrimonial no fundo,"R$ 47.116,02"
+ITRI11,ITRI11 X POUPANÇA,"-8,15%"
+JASC11,Aplicação em 12 meses,"R$ 50.000,00"
+JASC11,Montante final na POUPANÇA,"R$ 53.000,00"
+JASC11,Montante final no FUNDO,"R$ 61.163,59"
+JASC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.973,52"
+JASC11,Valorização patrimonial no fundo,"R$ 58.190,07"
+JASC11,JASC11 X POUPANÇA,"15,40%"
+JBFO11,Aplicação em 12 meses,"R$ 50.000,00"
+JBFO11,Montante final na POUPANÇA,"R$ 53.000,00"
+JBFO11,Montante final no FUNDO,"R$ 48.819,46"
+JBFO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.981,51"
+JBFO11,Valorização patrimonial no fundo,"R$ 46.837,95"
+JBFO11,JBFO11 X POUPANÇA,"-7,89%"
+JCCJ11,Aplicação em 12 meses,"R$ 50.000,00"
+JCCJ11,Montante final na POUPANÇA,"R$ 53.000,00"
+JCCJ11,Montante final no FUNDO,"R$ 67.699,64"
+JCCJ11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.372,77"
+JCCJ11,Valorização patrimonial no fundo,"R$ 66.326,87"
+JCCJ11,JCCJ11 X POUPANÇA,"27,74%"
+JCDA11,Aplicação em 12 meses,"R$ 50.000,00"
+JCDA11,Montante final na POUPANÇA,N/A
+JCDA11,Montante final no FUNDO,N/A
+JCDA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+JCDA11,Valorização patrimonial no fundo,N/A
+JCDA11,JCDA11 X POUPANÇA,N/A
+JCDB11,Aplicação em 12 meses,"R$ 50.000,00"
+JCDB11,Montante final na POUPANÇA,N/A
+JCDB11,Montante final no FUNDO,N/A
+JCDB11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+JCDB11,Valorização patrimonial no fundo,N/A
+JCDB11,JCDB11 X POUPANÇA,N/A
+JCIN11,Aplicação em 12 meses,"R$ 50.000,00"
+JCIN11,Montante final na POUPANÇA,"R$ 53.000,00"
+JCIN11,Montante final no FUNDO,"R$ 50.214,88"
+JCIN11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 399,40"
+JCIN11,Valorização patrimonial no fundo,"R$ 49.815,49"
+JCIN11,JCIN11 X POUPANÇA,"-5,25%"
+JFLL11,Aplicação em 12 meses,"R$ 50.000,00"
+JFLL11,Montante final na POUPANÇA,"R$ 53.000,00"
+JFLL11,Montante final no FUNDO,"R$ 50.504,18"
+JFLL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.223,68"
+JFLL11,Valorização patrimonial no fundo,"R$ 45.280,50"
+JFLL11,JFLL11 X POUPANÇA,"-4,71%"
+JGPX11,Aplicação em 12 meses,"R$ 50.000,00"
+JGPX11,Montante final na POUPANÇA,"R$ 53.000,00"
+JGPX11,Montante final no FUNDO,"R$ 50.306,53"
+JGPX11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.866,72"
+JGPX11,Valorização patrimonial no fundo,"R$ 42.439,81"
+JGPX11,JGPX11 X POUPANÇA,"-5,08%"
+JMBI11,Aplicação em 12 meses,"R$ 50.000,00"
+JMBI11,Montante final na POUPANÇA,N/A
+JMBI11,Montante final no FUNDO,N/A
+JMBI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+JMBI11,Valorização patrimonial no fundo,N/A
+JMBI11,JMBI11 X POUPANÇA,N/A
+JPPA11,Aplicação em 12 meses,"R$ 50.000,00"
+JPPA11,Montante final na POUPANÇA,"R$ 53.000,00"
+JPPA11,Montante final no FUNDO,"R$ 48.923,52"
+JPPA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.496,22"
+JPPA11,Valorização patrimonial no fundo,"R$ 41.427,30"
+JPPA11,JPPA11 X POUPANÇA,"-7,69%"
+JPPC11,Aplicação em 12 meses,"R$ 50.000,00"
+JPPC11,Montante final na POUPANÇA,"R$ 53.000,00"
+JPPC11,Montante final no FUNDO,"R$ 68,65"
+JPPC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 56,27"
+JPPC11,Valorização patrimonial no fundo,"R$ 12,38"
+JPPC11,JPPC11 X POUPANÇA,"-99,87%"
+JRDM11,Aplicação em 12 meses,"R$ 50.000,00"
+JRDM11,Montante final na POUPANÇA,"R$ 53.000,00"
+JRDM11,Montante final no FUNDO,"R$ 50.762,73"
+JRDM11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 232,80"
+JRDM11,Valorização patrimonial no fundo,"R$ 50.529,93"
+JRDM11,JRDM11 X POUPANÇA,"-4,22%"
+JRDM11B,Aplicação em 12 meses,"R$ 50.000,00"
+JRDM11B,Montante final na POUPANÇA,N/A
+JRDM11B,Montante final no FUNDO,N/A
+JRDM11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+JRDM11B,Valorização patrimonial no fundo,N/A
+JRDM11B,JRDM11B X POUPANÇA,N/A
+JSAF11,Aplicação em 12 meses,"R$ 50.000,00"
+JSAF11,Montante final na POUPANÇA,"R$ 53.000,00"
+JSAF11,Montante final no FUNDO,"R$ 58.160,86"
+JSAF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.953,07"
+JSAF11,Valorização patrimonial no fundo,"R$ 52.207,79"
+JSAF11,JSAF11 X POUPANÇA,"9,74%"
+JSCR11,Aplicação em 12 meses,"R$ 50.000,00"
+JSCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+JSCR11,Montante final no FUNDO,"R$ 53.278,06"
+JSCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 338,35"
+JSCR11,Valorização patrimonial no fundo,"R$ 52.939,71"
+JSCR11,JSCR11 X POUPANÇA,"0,52%"
+JSRE11,Aplicação em 12 meses,"R$ 50.000,00"
+JSRE11,Montante final na POUPANÇA,"R$ 53.000,00"
+JSRE11,Montante final no FUNDO,"R$ 47.975,98"
+JSRE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.282,44"
+JSRE11,Valorização patrimonial no fundo,"R$ 43.693,54"
+JSRE11,JSRE11 X POUPANÇA,"-9,48%"
+JTPR11,Aplicação em 12 meses,"R$ 50.000,00"
+JTPR11,Montante final na POUPANÇA,"R$ 53.000,00"
+JTPR11,Montante final no FUNDO,N/A
+JTPR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+JTPR11,Valorização patrimonial no fundo,"R$ 50.000,00"
+JTPR11,JTPR11 X POUPANÇA,N/A
+JURO11,Aplicação em 12 meses,"R$ 50.000,00"
+JURO11,Montante final na POUPANÇA,"R$ 53.000,00"
+JURO11,Montante final no FUNDO,"R$ 59.321,75"
+JURO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.260,75"
+JURO11,Valorização patrimonial no fundo,"R$ 52.061,00"
+JURO11,JURO11 X POUPANÇA,"11,93%"
+KCRE11,Aplicação em 12 meses,"R$ 50.000,00"
+KCRE11,Montante final na POUPANÇA,"R$ 53.000,00"
+KCRE11,Montante final no FUNDO,"R$ 10.628,35"
+KCRE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.645,47"
+KCRE11,Valorização patrimonial no fundo,"R$ 4.982,88"
+KCRE11,KCRE11 X POUPANÇA,"-79,95%"
+KDIF11,Aplicação em 12 meses,"R$ 50.000,00"
+KDIF11,Montante final na POUPANÇA,"R$ 53.000,00"
+KDIF11,Montante final no FUNDO,"R$ 57.059,07"
+KDIF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.783,25"
+KDIF11,Valorização patrimonial no fundo,"R$ 52.275,82"
+KDIF11,KDIF11 X POUPANÇA,"7,66%"
+KDOL11,Aplicação em 12 meses,"R$ 50.000,00"
+KDOL11,Montante final na POUPANÇA,N/A
+KDOL11,Montante final no FUNDO,N/A
+KDOL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+KDOL11,Valorização patrimonial no fundo,N/A
+KDOL11,KDOL11 X POUPANÇA,N/A
+KEVE11,Aplicação em 12 meses,"R$ 50.000,00"
+KEVE11,Montante final na POUPANÇA,"R$ 53.000,00"
+KEVE11,Montante final no FUNDO,"R$ 55.533,69"
+KEVE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 101,90"
+KEVE11,Valorização patrimonial no fundo,"R$ 55.431,79"
+KEVE11,KEVE11 X POUPANÇA,"4,78%"
+KFEN11,Aplicação em 12 meses,"R$ 50.000,00"
+KFEN11,Montante final na POUPANÇA,N/A
+KFEN11,Montante final no FUNDO,N/A
+KFEN11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+KFEN11,Valorização patrimonial no fundo,N/A
+KFEN11,KFEN11 X POUPANÇA,N/A
+KFOF11,Aplicação em 12 meses,"R$ 50.000,00"
+KFOF11,Montante final na POUPANÇA,"R$ 53.000,00"
+KFOF11,Montante final no FUNDO,"R$ 52.235,29"
+KFOF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.420,80"
+KFOF11,Valorização patrimonial no fundo,"R$ 46.814,49"
+KFOF11,KFOF11 X POUPANÇA,"-1,44%"
+KINP11,Aplicação em 12 meses,"R$ 50.000,00"
+KINP11,Montante final na POUPANÇA,"R$ 53.000,00"
+KINP11,Montante final no FUNDO,"R$ 79.535,07"
+KINP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 30.284,98"
+KINP11,Valorização patrimonial no fundo,"R$ 49.250,10"
+KINP11,KINP11 X POUPANÇA,"50,07%"
+KISU11,Aplicação em 12 meses,"R$ 50.000,00"
+KISU11,Montante final na POUPANÇA,"R$ 53.000,00"
+KISU11,Montante final no FUNDO,"R$ 53.545,24"
+KISU11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.489,93"
+KISU11,Valorização patrimonial no fundo,"R$ 48.055,31"
+KISU11,KISU11 X POUPANÇA,"1,03%"
+KIVO11,Aplicação em 12 meses,"R$ 50.000,00"
+KIVO11,Montante final na POUPANÇA,"R$ 53.000,00"
+KIVO11,Montante final no FUNDO,"R$ 53.995,01"
+KIVO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.934,40"
+KIVO11,Valorização patrimonial no fundo,"R$ 46.060,61"
+KIVO11,KIVO11 X POUPANÇA,"1,88%"
+KLOG11,Aplicação em 12 meses,"R$ 50.000,00"
+KLOG11,Montante final na POUPANÇA,N/A
+KLOG11,Montante final no FUNDO,N/A
+KLOG11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+KLOG11,Valorização patrimonial no fundo,N/A
+KLOG11,KLOG11 X POUPANÇA,N/A
+KNCA11,Aplicação em 12 meses,"R$ 50.000,00"
+KNCA11,Montante final na POUPANÇA,"R$ 53.000,00"
+KNCA11,Montante final no FUNDO,"R$ 55.732,13"
+KNCA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.281,86"
+KNCA11,Valorização patrimonial no fundo,"R$ 49.450,27"
+KNCA11,KNCA11 X POUPANÇA,"5,15%"
+KNCR11,Aplicação em 12 meses,"R$ 50.000,00"
+KNCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+KNCR11,Montante final no FUNDO,"R$ 59.497,77"
+KNCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.928,00"
+KNCR11,Valorização patrimonial no fundo,"R$ 53.569,77"
+KNCR11,KNCR11 X POUPANÇA,"12,26%"
+KNHF11,Aplicação em 12 meses,"R$ 50.000,00"
+KNHF11,Montante final na POUPANÇA,"R$ 53.000,00"
+KNHF11,Montante final no FUNDO,"R$ 53.300,21"
+KNHF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.742,25"
+KNHF11,Valorização patrimonial no fundo,"R$ 47.557,96"
+KNHF11,KNHF11 X POUPANÇA,"0,57%"
+KNHY11,Aplicação em 12 meses,"R$ 50.000,00"
+KNHY11,Montante final na POUPANÇA,"R$ 53.000,00"
+KNHY11,Montante final no FUNDO,"R$ 59.459,37"
+KNHY11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.087,51"
+KNHY11,Valorização patrimonial no fundo,"R$ 53.371,86"
+KNHY11,KNHY11 X POUPANÇA,"12,19%"
+KNIP11,Aplicação em 12 meses,"R$ 50.000,00"
+KNIP11,Montante final na POUPANÇA,"R$ 53.000,00"
+KNIP11,Montante final no FUNDO,"R$ 57.713,47"
+KNIP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.033,60"
+KNIP11,Valorização patrimonial no fundo,"R$ 52.679,87"
+KNIP11,KNIP11 X POUPANÇA,"8,89%"
+KNOX11,Aplicação em 12 meses,"R$ 50.000,00"
+KNOX11,Montante final na POUPANÇA,"R$ 53.000,00"
+KNOX11,Montante final no FUNDO,N/A
+KNOX11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+KNOX11,Valorização patrimonial no fundo,"R$ 50.624,33"
+KNOX11,KNOX11 X POUPANÇA,N/A
+KNPR11,Aplicação em 12 meses,"R$ 50.000,00"
+KNPR11,Montante final na POUPANÇA,N/A
+KNPR11,Montante final no FUNDO,N/A
+KNPR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+KNPR11,Valorização patrimonial no fundo,N/A
+KNPR11,KNPR11 X POUPANÇA,N/A
+KNRE11,Aplicação em 12 meses,"R$ 50.000,00"
+KNRE11,Montante final na POUPANÇA,"R$ 53.000,00"
+KNRE11,Montante final no FUNDO,"R$ 41.333,10"
+KNRE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.493,03"
+KNRE11,Valorização patrimonial no fundo,"R$ 36.840,07"
+KNRE11,KNRE11 X POUPANÇA,"-22,01%"
+KNRI11,Aplicação em 12 meses,"R$ 50.000,00"
+KNRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+KNRI11,Montante final no FUNDO,"R$ 54.134,60"
+KNRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.800,10"
+KNRI11,Valorização patrimonial no fundo,"R$ 50.334,50"
+KNRI11,KNRI11 X POUPANÇA,"2,14%"
+KNSC11,Aplicação em 12 meses,"R$ 50.000,00"
+KNSC11,Montante final na POUPANÇA,"R$ 53.000,00"
+KNSC11,Montante final no FUNDO,"R$ 57.758,76"
+KNSC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.264,03"
+KNSC11,Valorização patrimonial no fundo,"R$ 52.494,74"
+KNSC11,KNSC11 X POUPANÇA,"8,98%"
+KNUQ11,Aplicação em 12 meses,"R$ 50.000,00"
+KNUQ11,Montante final na POUPANÇA,"R$ 53.000,00"
+KNUQ11,Montante final no FUNDO,"R$ 57.902,74"
+KNUQ11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.901,28"
+KNUQ11,Valorização patrimonial no fundo,"R$ 52.001,46"
+KNUQ11,KNUQ11 X POUPANÇA,"9,25%"
+KOPA11,Aplicação em 12 meses,"R$ 50.000,00"
+KOPA11,Montante final na POUPANÇA,"R$ 53.000,00"
+KOPA11,Montante final no FUNDO,"R$ 54.636,47"
+KOPA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.761,50"
+KOPA11,Valorização patrimonial no fundo,"R$ 52.874,97"
+KOPA11,KOPA11 X POUPANÇA,"3,09%"
+KOPI11,Aplicação em 12 meses,"R$ 50.000,00"
+KOPI11,Montante final na POUPANÇA,N/A
+KOPI11,Montante final no FUNDO,N/A
+KOPI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+KOPI11,Valorização patrimonial no fundo,N/A
+KOPI11,KOPI11 X POUPANÇA,N/A
+KORE11,Aplicação em 12 meses,"R$ 50.000,00"
+KORE11,Montante final na POUPANÇA,"R$ 53.000,00"
+KORE11,Montante final no FUNDO,"R$ 55.446,56"
+KORE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.606,72"
+KORE11,Valorização patrimonial no fundo,"R$ 50.839,84"
+KORE11,KORE11 X POUPANÇA,"4,62%"
+KRES11,Aplicação em 12 meses,"R$ 50.000,00"
+KRES11,Montante final na POUPANÇA,N/A
+KRES11,Montante final no FUNDO,N/A
+KRES11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+KRES11,Valorização patrimonial no fundo,N/A
+KRES11,KRES11 X POUPANÇA,N/A
+LAFI11,Aplicação em 12 meses,"R$ 50.000,00"
+LAFI11,Montante final na POUPANÇA,N/A
+LAFI11,Montante final no FUNDO,N/A
+LAFI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+LAFI11,Valorização patrimonial no fundo,N/A
+LAFI11,LAFI11 X POUPANÇA,N/A
+LASC11,Aplicação em 12 meses,"R$ 50.000,00"
+LASC11,Montante final na POUPANÇA,"R$ 53.000,00"
+LASC11,Montante final no FUNDO,"R$ 59.205,43"
+LASC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.267,37"
+LASC11,Valorização patrimonial no fundo,"R$ 55.938,05"
+LASC11,LASC11 X POUPANÇA,"11,71%"
+LATR11B,Aplicação em 12 meses,"R$ 50.000,00"
+LATR11B,Montante final na POUPANÇA,"R$ 53.000,00"
+LATR11B,Montante final no FUNDO,"R$ 151.210,07"
+LATR11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 101.155,08"
+LATR11B,Valorização patrimonial no fundo,"R$ 50.054,99"
+LATR11B,LATR11B X POUPANÇA,"185,30%"
+LAVF11,Aplicação em 12 meses,"R$ 50.000,00"
+LAVF11,Montante final na POUPANÇA,N/A
+LAVF11,Montante final no FUNDO,N/A
+LAVF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+LAVF11,Valorização patrimonial no fundo,N/A
+LAVF11,LAVF11 X POUPANÇA,N/A
+LFTT11,Aplicação em 12 meses,"R$ 50.000,00"
+LFTT11,Montante final na POUPANÇA,"R$ 53.000,00"
+LFTT11,Montante final no FUNDO,"R$ 27.438,37"
+LFTT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 11.283,21"
+LFTT11,Valorização patrimonial no fundo,"R$ 16.155,16"
+LFTT11,LFTT11 X POUPANÇA,"-48,23%"
+LGCP11,Aplicação em 12 meses,"R$ 50.000,00"
+LGCP11,Montante final na POUPANÇA,"R$ 53.000,00"
+LGCP11,Montante final no FUNDO,"R$ 54.523,80"
+LGCP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.963,42"
+LGCP11,Valorização patrimonial no fundo,"R$ 49.560,38"
+LGCP11,LGCP11 X POUPANÇA,"2,88%"
+LKDV11,Aplicação em 12 meses,"R$ 50.000,00"
+LKDV11,Montante final na POUPANÇA,"R$ 53.000,00"
+LKDV11,Montante final no FUNDO,N/A
+LKDV11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+LKDV11,Valorização patrimonial no fundo,"R$ 51.421,05"
+LKDV11,LKDV11 X POUPANÇA,N/A
+LLAO11,Aplicação em 12 meses,"R$ 50.000,00"
+LLAO11,Montante final na POUPANÇA,"R$ 53.000,00"
+LLAO11,Montante final no FUNDO,"R$ 49.149,48"
+LLAO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.144,10"
+LLAO11,Valorização patrimonial no fundo,"R$ 48.005,38"
+LLAO11,LLAO11 X POUPANÇA,"-7,27%"
+LOFT11,Aplicação em 12 meses,"R$ 50.000,00"
+LOFT11,Montante final na POUPANÇA,N/A
+LOFT11,Montante final no FUNDO,N/A
+LOFT11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+LOFT11,Valorização patrimonial no fundo,N/A
+LOFT11,LOFT11 X POUPANÇA,N/A
+LOFT11B,Aplicação em 12 meses,"R$ 50.000,00"
+LOFT11B,Montante final na POUPANÇA,"R$ 53.000,00"
+LOFT11B,Montante final no FUNDO,N/A
+LOFT11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+LOFT11B,Valorização patrimonial no fundo,"R$ 50.000,00"
+LOFT11B,LOFT11B X POUPANÇA,N/A
+LPLP11,Aplicação em 12 meses,"R$ 50.000,00"
+LPLP11,Montante final na POUPANÇA,"R$ 53.000,00"
+LPLP11,Montante final no FUNDO,"R$ 58.945,06"
+LPLP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 9.039,40"
+LPLP11,Valorização patrimonial no fundo,"R$ 49.905,67"
+LPLP11,LPLP11 X POUPANÇA,"11,22%"
+LRDI11,Aplicação em 12 meses,"R$ 50.000,00"
+LRDI11,Montante final na POUPANÇA,"R$ 53.000,00"
+LRDI11,Montante final no FUNDO,N/A
+LRDI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+LRDI11,Valorização patrimonial no fundo,"R$ 50.000,00"
+LRDI11,LRDI11 X POUPANÇA,N/A
+LRED11,Aplicação em 12 meses,"R$ 50.000,00"
+LRED11,Montante final na POUPANÇA,N/A
+LRED11,Montante final no FUNDO,N/A
+LRED11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+LRED11,Valorização patrimonial no fundo,N/A
+LRED11,LRED11 X POUPANÇA,N/A
+LSAG11,Aplicação em 12 meses,"R$ 50.000,00"
+LSAG11,Montante final na POUPANÇA,"R$ 53.000,00"
+LSAG11,Montante final no FUNDO,N/A
+LSAG11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+LSAG11,Valorização patrimonial no fundo,"R$ 40.515,06"
+LSAG11,LSAG11 X POUPANÇA,N/A
+LSOI11,Aplicação em 12 meses,"R$ 50.000,00"
+LSOI11,Montante final na POUPANÇA,"R$ 53.000,00"
+LSOI11,Montante final no FUNDO,N/A
+LSOI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+LSOI11,Valorização patrimonial no fundo,"R$ 50.000,00"
+LSOI11,LSOI11 X POUPANÇA,N/A
+LSPA11,Aplicação em 12 meses,"R$ 50.000,00"
+LSPA11,Montante final na POUPANÇA,"R$ 53.000,00"
+LSPA11,Montante final no FUNDO,"R$ 70.920,90"
+LSPA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 39.542,03"
+LSPA11,Valorização patrimonial no fundo,"R$ 31.378,87"
+LSPA11,LSPA11 X POUPANÇA,"33,81%"
+LTMT11,Aplicação em 12 meses,"R$ 50.000,00"
+LTMT11,Montante final na POUPANÇA,N/A
+LTMT11,Montante final no FUNDO,N/A
+LTMT11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+LTMT11,Valorização patrimonial no fundo,N/A
+LTMT11,LTMT11 X POUPANÇA,N/A
+LUGG11,Aplicação em 12 meses,"R$ 50.000,00"
+LUGG11,Montante final na POUPANÇA,"R$ 53.000,00"
+LUGG11,Montante final no FUNDO,"R$ 44.656,98"
+LUGG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.508,02"
+LUGG11,Valorização patrimonial no fundo,"R$ 40.148,96"
+LUGG11,LUGG11 X POUPANÇA,"-15,74%"
+LVBI11,Aplicação em 12 meses,"R$ 50.000,00"
+LVBI11,Montante final na POUPANÇA,"R$ 53.000,00"
+LVBI11,Montante final no FUNDO,"R$ 53.615,08"
+LVBI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.708,00"
+LVBI11,Valorização patrimonial no fundo,"R$ 48.907,08"
+LVBI11,LVBI11 X POUPANÇA,"1,16%"
+MANA11,Aplicação em 12 meses,"R$ 50.000,00"
+MANA11,Montante final na POUPANÇA,"R$ 53.000,00"
+MANA11,Montante final no FUNDO,"R$ 56.759,98"
+MANA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.655,00"
+MANA11,Valorização patrimonial no fundo,"R$ 50.104,98"
+MANA11,MANA11 X POUPANÇA,"7,09%"
+MATV11,Aplicação em 12 meses,"R$ 50.000,00"
+MATV11,Montante final na POUPANÇA,"R$ 53.000,00"
+MATV11,Montante final no FUNDO,"R$ 50.341,20"
+MATV11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 346,20"
+MATV11,Valorização patrimonial no fundo,"R$ 49.995,00"
+MATV11,MATV11 X POUPANÇA,"-5,02%"
+MAVC11,Aplicação em 12 meses,"R$ 50.000,00"
+MAVC11,Montante final na POUPANÇA,N/A
+MAVC11,Montante final no FUNDO,N/A
+MAVC11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MAVC11,Valorização patrimonial no fundo,N/A
+MAVC11,MAVC11 X POUPANÇA,N/A
+MAXR11,Aplicação em 12 meses,"R$ 50.000,00"
+MAXR11,Montante final na POUPANÇA,"R$ 53.000,00"
+MAXR11,Montante final no FUNDO,"R$ 60.706,50"
+MAXR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.733,23"
+MAXR11,Valorização patrimonial no fundo,"R$ 54.973,27"
+MAXR11,MAXR11 X POUPANÇA,"14,54%"
+MAXR11B,Aplicação em 12 meses,"R$ 50.000,00"
+MAXR11B,Montante final na POUPANÇA,N/A
+MAXR11B,Montante final no FUNDO,N/A
+MAXR11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MAXR11B,Valorização patrimonial no fundo,N/A
+MAXR11B,MAXR11B X POUPANÇA,N/A
+MBRF11,Aplicação em 12 meses,"R$ 50.000,00"
+MBRF11,Montante final na POUPANÇA,N/A
+MBRF11,Montante final no FUNDO,N/A
+MBRF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MBRF11,Valorização patrimonial no fundo,N/A
+MBRF11,MBRF11 X POUPANÇA,N/A
+MCCI11,Aplicação em 12 meses,"R$ 50.000,00"
+MCCI11,Montante final na POUPANÇA,"R$ 53.000,00"
+MCCI11,Montante final no FUNDO,"R$ 54.860,84"
+MCCI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.544,90"
+MCCI11,Valorização patrimonial no fundo,"R$ 49.315,94"
+MCCI11,MCCI11 X POUPANÇA,"3,51%"
+MCEM11,Aplicação em 12 meses,"R$ 50.000,00"
+MCEM11,Montante final na POUPANÇA,"R$ 53.000,00"
+MCEM11,Montante final no FUNDO,N/A
+MCEM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MCEM11,Valorização patrimonial no fundo,"R$ 54.972,22"
+MCEM11,MCEM11 X POUPANÇA,N/A
+MCFF11,Aplicação em 12 meses,"R$ 50.000,00"
+MCFF11,Montante final na POUPANÇA,N/A
+MCFF11,Montante final no FUNDO,N/A
+MCFF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MCFF11,Valorização patrimonial no fundo,N/A
+MCFF11,MCFF11 X POUPANÇA,N/A
+MCHF11,Aplicação em 12 meses,"R$ 50.000,00"
+MCHF11,Montante final na POUPANÇA,"R$ 53.000,00"
+MCHF11,Montante final no FUNDO,"R$ 51.827,19"
+MCHF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.637,12"
+MCHF11,Valorização patrimonial no fundo,"R$ 49.190,07"
+MCHF11,MCHF11 X POUPANÇA,"-2,21%"
+MCHY11,Aplicação em 12 meses,"R$ 50.000,00"
+MCHY11,Montante final na POUPANÇA,"R$ 53.000,00"
+MCHY11,Montante final no FUNDO,"R$ 52.458,59"
+MCHY11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.343,28"
+MCHY11,Valorização patrimonial no fundo,"R$ 45.115,31"
+MCHY11,MCHY11 X POUPANÇA,"-1,02%"
+MFAI11,Aplicação em 12 meses,"R$ 50.000,00"
+MFAI11,Montante final na POUPANÇA,"R$ 53.000,00"
+MFAI11,Montante final no FUNDO,"R$ 52.541,37"
+MFAI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.865,63"
+MFAI11,Valorização patrimonial no fundo,"R$ 47.675,74"
+MFAI11,MFAI11 X POUPANÇA,"-0,87%"
+MFCR11,Aplicação em 12 meses,"R$ 50.000,00"
+MFCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+MFCR11,Montante final no FUNDO,"R$ 28.213,96"
+MFCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 15.120,56"
+MFCR11,Valorização patrimonial no fundo,"R$ 13.093,40"
+MFCR11,MFCR11 X POUPANÇA,"-46,77%"
+MFII11,Aplicação em 12 meses,"R$ 50.000,00"
+MFII11,Montante final na POUPANÇA,"R$ 53.000,00"
+MFII11,Montante final no FUNDO,"R$ 61.512,55"
+MFII11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.798,47"
+MFII11,Valorização patrimonial no fundo,"R$ 54.714,08"
+MFII11,MFII11 X POUPANÇA,"16,06%"
+MFVI11,Aplicação em 12 meses,"R$ 50.000,00"
+MFVI11,Montante final na POUPANÇA,N/A
+MFVI11,Montante final no FUNDO,N/A
+MFVI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MFVI11,Valorização patrimonial no fundo,N/A
+MFVI11,MFVI11 X POUPANÇA,N/A
+MGCR11,Aplicação em 12 meses,"R$ 50.000,00"
+MGCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+MGCR11,Montante final no FUNDO,"R$ 51.286,88"
+MGCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 531,90"
+MGCR11,Valorização patrimonial no fundo,"R$ 50.754,98"
+MGCR11,MGCR11 X POUPANÇA,"-3,23%"
+MGFF11,Aplicação em 12 meses,"R$ 50.000,00"
+MGFF11,Montante final na POUPANÇA,"R$ 53.000,00"
+MGFF11,Montante final no FUNDO,"R$ 52.041,25"
+MGFF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.506,54"
+MGFF11,Valorização patrimonial no fundo,"R$ 50.534,71"
+MGFF11,MGFF11 X POUPANÇA,"-1,81%"
+MGHT11,Aplicação em 12 meses,"R$ 50.000,00"
+MGHT11,Montante final na POUPANÇA,"R$ 53.000,00"
+MGHT11,Montante final no FUNDO,"R$ 28.385,84"
+MGHT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 15.165,24"
+MGHT11,Valorização patrimonial no fundo,"R$ 13.220,60"
+MGHT11,MGHT11 X POUPANÇA,"-46,44%"
+MGLC11,Aplicação em 12 meses,"R$ 50.000,00"
+MGLC11,Montante final na POUPANÇA,N/A
+MGLC11,Montante final no FUNDO,N/A
+MGLC11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MGLC11,Valorização patrimonial no fundo,N/A
+MGLC11,MGLC11 X POUPANÇA,N/A
+MGLG11,Aplicação em 12 meses,"R$ 50.000,00"
+MGLG11,Montante final na POUPANÇA,"R$ 53.000,00"
+MGLG11,Montante final no FUNDO,"R$ 43.330,96"
+MGLG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.278,69"
+MGLG11,Valorização patrimonial no fundo,"R$ 39.052,27"
+MGLG11,MGLG11 X POUPANÇA,"-18,24%"
+MGRI11,Aplicação em 12 meses,"R$ 50.000,00"
+MGRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+MGRI11,Montante final no FUNDO,"R$ 62.497,10"
+MGRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 12.497,10"
+MGRI11,Valorização patrimonial no fundo,"R$ 50.000,00"
+MGRI11,MGRI11 X POUPANÇA,"17,92%"
+MINT11,Aplicação em 12 meses,"R$ 50.000,00"
+MINT11,Montante final na POUPANÇA,"R$ 53.000,00"
+MINT11,Montante final no FUNDO,"R$ 49.657,66"
+MINT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.346,40"
+MINT11,Valorização patrimonial no fundo,"R$ 47.311,26"
+MINT11,MINT11 X POUPANÇA,"-6,31%"
+MMPD11,Aplicação em 12 meses,"R$ 50.000,00"
+MMPD11,Montante final na POUPANÇA,N/A
+MMPD11,Montante final no FUNDO,N/A
+MMPD11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MMPD11,Valorização patrimonial no fundo,N/A
+MMPD11,MMPD11 X POUPANÇA,N/A
+MMVE11,Aplicação em 12 meses,"R$ 50.000,00"
+MMVE11,Montante final na POUPANÇA,"R$ 53.000,00"
+MMVE11,Montante final no FUNDO,N/A
+MMVE11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MMVE11,Valorização patrimonial no fundo,"R$ 49.401,73"
+MMVE11,MMVE11 X POUPANÇA,N/A
+MOFF11,Aplicação em 12 meses,"R$ 50.000,00"
+MOFF11,Montante final na POUPANÇA,N/A
+MOFF11,Montante final no FUNDO,N/A
+MOFF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MOFF11,Valorização patrimonial no fundo,N/A
+MOFF11,MOFF11 X POUPANÇA,N/A
+MORC11,Aplicação em 12 meses,"R$ 50.000,00"
+MORC11,Montante final na POUPANÇA,"R$ 53.000,00"
+MORC11,Montante final no FUNDO,"R$ 52.537,51"
+MORC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.641,80"
+MORC11,Valorização patrimonial no fundo,"R$ 48.895,71"
+MORC11,MORC11 X POUPANÇA,"-0,87%"
+MORE11,Aplicação em 12 meses,"R$ 50.000,00"
+MORE11,Montante final na POUPANÇA,"R$ 53.000,00"
+MORE11,Montante final no FUNDO,"R$ 51.314,20"
+MORE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.279,20"
+MORE11,Valorização patrimonial no fundo,"R$ 50.035,00"
+MORE11,MORE11 X POUPANÇA,"-3,18%"
+MTOF11,Aplicação em 12 meses,"R$ 50.000,00"
+MTOF11,Montante final na POUPANÇA,"R$ 53.000,00"
+MTOF11,Montante final no FUNDO,N/A
+MTOF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MTOF11,Valorização patrimonial no fundo,"R$ 50.000,00"
+MTOF11,MTOF11 X POUPANÇA,N/A
+MTRS11,Aplicação em 12 meses,"R$ 50.000,00"
+MTRS11,Montante final na POUPANÇA,N/A
+MTRS11,Montante final no FUNDO,N/A
+MTRS11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MTRS11,Valorização patrimonial no fundo,N/A
+MTRS11,MTRS11 X POUPANÇA,N/A
+MVFI11,Aplicação em 12 meses,"R$ 50.000,00"
+MVFI11,Montante final na POUPANÇA,N/A
+MVFI11,Montante final no FUNDO,N/A
+MVFI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MVFI11,Valorização patrimonial no fundo,N/A
+MVFI11,MVFI11 X POUPANÇA,N/A
+MXRF11,Aplicação em 12 meses,"R$ 50.000,00"
+MXRF11,Montante final na POUPANÇA,"R$ 53.000,00"
+MXRF11,Montante final no FUNDO,"R$ 54.252,57"
+MXRF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.212,50"
+MXRF11,Valorização patrimonial no fundo,"R$ 48.040,07"
+MXRF11,MXRF11 X POUPANÇA,"2,36%"
+MYDW11,Aplicação em 12 meses,"R$ 50.000,00"
+MYDW11,Montante final na POUPANÇA,N/A
+MYDW11,Montante final no FUNDO,N/A
+MYDW11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+MYDW11,Valorização patrimonial no fundo,N/A
+MYDW11,MYDW11 X POUPANÇA,N/A
+N4V111,Aplicação em 12 meses,"R$ 50.000,00"
+N4V111,Montante final na POUPANÇA,N/A
+N4V111,Montante final no FUNDO,N/A
+N4V111,Rendimento (ISENTO DE IR) no FUNDO,N/A
+N4V111,Valorização patrimonial no fundo,N/A
+N4V111,N4V111 X POUPANÇA,N/A
+NAGR11,Aplicação em 12 meses,"R$ 50.000,00"
+NAGR11,Montante final na POUPANÇA,N/A
+NAGR11,Montante final no FUNDO,N/A
+NAGR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+NAGR11,Valorização patrimonial no fundo,N/A
+NAGR11,NAGR11 X POUPANÇA,N/A
+NAVT11,Aplicação em 12 meses,"R$ 50.000,00"
+NAVT11,Montante final na POUPANÇA,"R$ 53.000,00"
+NAVT11,Montante final no FUNDO,"R$ 58.296,01"
+NAVT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 9.059,99"
+NAVT11,Valorização patrimonial no fundo,"R$ 49.236,01"
+NAVT11,NAVT11 X POUPANÇA,"9,99%"
+NCHB11,Aplicação em 12 meses,"R$ 50.000,00"
+NCHB11,Montante final na POUPANÇA,"R$ 53.000,00"
+NCHB11,Montante final no FUNDO,"R$ 58.548,21"
+NCHB11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.418,35"
+NCHB11,Valorização patrimonial no fundo,"R$ 52.129,86"
+NCHB11,NCHB11 X POUPANÇA,"10,47%"
+NCHB11B,Aplicação em 12 meses,"R$ 50.000,00"
+NCHB11B,Montante final na POUPANÇA,N/A
+NCHB11B,Montante final no FUNDO,N/A
+NCHB11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+NCHB11B,Valorização patrimonial no fundo,N/A
+NCHB11B,NCHB11B X POUPANÇA,N/A
+NCRA11,Aplicação em 12 meses,"R$ 50.000,00"
+NCRA11,Montante final na POUPANÇA,"R$ 53.000,00"
+NCRA11,Montante final no FUNDO,"R$ 48.663,84"
+NCRA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.708,30"
+NCRA11,Valorização patrimonial no fundo,"R$ 40.955,54"
+NCRA11,NCRA11 X POUPANÇA,"-8,18%"
+NCRI11,Aplicação em 12 meses,"R$ 50.000,00"
+NCRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+NCRI11,Montante final no FUNDO,"R$ 55.728,69"
+NCRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.183,61"
+NCRI11,Valorização patrimonial no fundo,"R$ 49.545,07"
+NCRI11,NCRI11 X POUPANÇA,"5,15%"
+NEWL11,Aplicação em 12 meses,"R$ 50.000,00"
+NEWL11,Montante final na POUPANÇA,"R$ 53.000,00"
+NEWL11,Montante final no FUNDO,"R$ 56.480,31"
+NEWL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.187,19"
+NEWL11,Valorização patrimonial no fundo,"R$ 51.293,12"
+NEWL11,NEWL11 X POUPANÇA,"6,57%"
+NEWU11,Aplicação em 12 meses,"R$ 50.000,00"
+NEWU11,Montante final na POUPANÇA,"R$ 53.000,00"
+NEWU11,Montante final no FUNDO,"R$ 56.171,34"
+NEWU11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.272,96"
+NEWU11,Valorização patrimonial no fundo,"R$ 54.898,38"
+NEWU11,NEWU11 X POUPANÇA,"5,98%"
+NEXG11,Aplicação em 12 meses,"R$ 50.000,00"
+NEXG11,Montante final na POUPANÇA,"R$ 53.000,00"
+NEXG11,Montante final no FUNDO,"R$ 59.781,02"
+NEXG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.199,61"
+NEXG11,Valorização patrimonial no fundo,"R$ 58.581,41"
+NEXG11,NEXG11 X POUPANÇA,"12,79%"
+NIVT11,Aplicação em 12 meses,"R$ 50.000,00"
+NIVT11,Montante final na POUPANÇA,N/A
+NIVT11,Montante final no FUNDO,N/A
+NIVT11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+NIVT11,Valorização patrimonial no fundo,N/A
+NIVT11,NIVT11 X POUPANÇA,N/A
+NSLU11,Aplicação em 12 meses,"R$ 50.000,00"
+NSLU11,Montante final na POUPANÇA,"R$ 53.000,00"
+NSLU11,Montante final no FUNDO,"R$ 53.448,95"
+NSLU11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.133,65"
+NSLU11,Valorização patrimonial no fundo,"R$ 48.315,29"
+NSLU11,NSLU11 X POUPANÇA,"0,85%"
+NSLU11B,Aplicação em 12 meses,"R$ 50.000,00"
+NSLU11B,Montante final na POUPANÇA,N/A
+NSLU11B,Montante final no FUNDO,N/A
+NSLU11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+NSLU11B,Valorização patrimonial no fundo,N/A
+NSLU11B,NSLU11B X POUPANÇA,N/A
+NUIF11,Aplicação em 12 meses,"R$ 50.000,00"
+NUIF11,Montante final na POUPANÇA,"R$ 53.000,00"
+NUIF11,Montante final no FUNDO,"R$ 56.456,96"
+NUIF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.184,00"
+NUIF11,Valorização patrimonial no fundo,"R$ 51.272,96"
+NUIF11,NUIF11 X POUPANÇA,"6,52%"
+NVHO11,Aplicação em 12 meses,"R$ 50.000,00"
+NVHO11,Montante final na POUPANÇA,"R$ 53.000,00"
+NVHO11,Montante final no FUNDO,"R$ 67.854,90"
+NVHO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.820,55"
+NVHO11,Valorização patrimonial no fundo,"R$ 64.034,35"
+NVHO11,NVHO11 X POUPANÇA,"28,03%"
+NVIF11B,Aplicação em 12 meses,"R$ 50.000,00"
+NVIF11B,Montante final na POUPANÇA,"R$ 53.000,00"
+NVIF11B,Montante final no FUNDO,"R$ 52.385,37"
+NVIF11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.385,37"
+NVIF11B,Valorização patrimonial no fundo,"R$ 50.000,00"
+NVIF11B,NVIF11B X POUPANÇA,"-1,16%"
+NVRP11,Aplicação em 12 meses,"R$ 50.000,00"
+NVRP11,Montante final na POUPANÇA,"R$ 53.000,00"
+NVRP11,Montante final no FUNDO,N/A
+NVRP11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+NVRP11,Valorização patrimonial no fundo,"R$ 14.707,40"
+NVRP11,NVRP11 X POUPANÇA,N/A
+OBAL11,Aplicação em 12 meses,"R$ 50.000,00"
+OBAL11,Montante final na POUPANÇA,"R$ 53.000,00"
+OBAL11,Montante final no FUNDO,N/A
+OBAL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+OBAL11,Valorização patrimonial no fundo,"R$ 49.990,05"
+OBAL11,OBAL11 X POUPANÇA,N/A
+OCRE11,Aplicação em 12 meses,"R$ 50.000,00"
+OCRE11,Montante final na POUPANÇA,"R$ 53.000,00"
+OCRE11,Montante final no FUNDO,"R$ 44.814,81"
+OCRE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.609,81"
+OCRE11,Valorização patrimonial no fundo,"R$ 39.205,00"
+OCRE11,OCRE11 X POUPANÇA,"-15,44%"
+OGHY11,Aplicação em 12 meses,"R$ 50.000,00"
+OGHY11,Montante final na POUPANÇA,"R$ 53.000,00"
+OGHY11,Montante final no FUNDO,"R$ 45.409,75"
+OGHY11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.038,49"
+OGHY11,Valorização patrimonial no fundo,"R$ 42.371,26"
+OGHY11,OGHY11 X POUPANÇA,"-14,32%"
+OGIN11,Aplicação em 12 meses,"R$ 50.000,00"
+OGIN11,Montante final na POUPANÇA,"R$ 53.000,00"
+OGIN11,Montante final no FUNDO,"R$ 64.262,29"
+OGIN11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.307,30"
+OGIN11,Valorização patrimonial no fundo,"R$ 56.954,99"
+OGIN11,OGIN11 X POUPANÇA,"21,25%"
+OIAG11,Aplicação em 12 meses,"R$ 50.000,00"
+OIAG11,Montante final na POUPANÇA,"R$ 53.000,00"
+OIAG11,Montante final no FUNDO,"R$ 51.535,10"
+OIAG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.039,68"
+OIAG11,Valorização patrimonial no fundo,"R$ 43.495,42"
+OIAG11,OIAG11 X POUPANÇA,"-2,76%"
+ONDV11,Aplicação em 12 meses,"R$ 50.000,00"
+ONDV11,Montante final na POUPANÇA,N/A
+ONDV11,Montante final no FUNDO,N/A
+ONDV11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ONDV11,Valorização patrimonial no fundo,N/A
+ONDV11,ONDV11 X POUPANÇA,N/A
+ONEF11,Aplicação em 12 meses,"R$ 50.000,00"
+ONEF11,Montante final na POUPANÇA,"R$ 53.000,00"
+ONEF11,Montante final no FUNDO,"R$ 59.007,06"
+ONEF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 9.121,62"
+ONEF11,Valorização patrimonial no fundo,"R$ 49.885,44"
+ONEF11,ONEF11 X POUPANÇA,"11,33%"
+OPEQ11,Aplicação em 12 meses,"R$ 50.000,00"
+OPEQ11,Montante final na POUPANÇA,N/A
+OPEQ11,Montante final no FUNDO,N/A
+OPEQ11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+OPEQ11,Valorização patrimonial no fundo,N/A
+OPEQ11,OPEQ11 X POUPANÇA,N/A
+OPHF11,Aplicação em 12 meses,"R$ 50.000,00"
+OPHF11,Montante final na POUPANÇA,N/A
+OPHF11,Montante final no FUNDO,N/A
+OPHF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+OPHF11,Valorização patrimonial no fundo,N/A
+OPHF11,OPHF11 X POUPANÇA,N/A
+OPTM11,Aplicação em 12 meses,"R$ 50.000,00"
+OPTM11,Montante final na POUPANÇA,N/A
+OPTM11,Montante final no FUNDO,N/A
+OPTM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+OPTM11,Valorização patrimonial no fundo,N/A
+OPTM11,OPTM11 X POUPANÇA,N/A
+ORPD11,Aplicação em 12 meses,"R$ 50.000,00"
+ORPD11,Montante final na POUPANÇA,"R$ 53.000,00"
+ORPD11,Montante final no FUNDO,N/A
+ORPD11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+ORPD11,Valorização patrimonial no fundo,"R$ 48.436,85"
+ORPD11,ORPD11 X POUPANÇA,N/A
+OUCY11,Aplicação em 12 meses,"R$ 50.000,00"
+OUCY11,Montante final na POUPANÇA,N/A
+OUCY11,Montante final no FUNDO,N/A
+OUCY11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+OUCY11,Valorização patrimonial no fundo,N/A
+OUCY11,OUCY11 X POUPANÇA,N/A
+OUFF11,Aplicação em 12 meses,"R$ 50.000,00"
+OUFF11,Montante final na POUPANÇA,"R$ 53.000,00"
+OUFF11,Montante final no FUNDO,"R$ 48.572,34"
+OUFF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.074,30"
+OUFF11,Valorização patrimonial no fundo,"R$ 42.498,03"
+OUFF11,OUFF11 X POUPANÇA,"-8,35%"
+OUJP11,Aplicação em 12 meses,"R$ 50.000,00"
+OUJP11,Montante final na POUPANÇA,"R$ 53.000,00"
+OUJP11,Montante final no FUNDO,"R$ 47.671,84"
+OUJP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.915,42"
+OUJP11,Valorização patrimonial no fundo,"R$ 40.756,42"
+OUJP11,OUJP11 X POUPANÇA,"-10,05%"
+OULG11,Aplicação em 12 meses,"R$ 50.000,00"
+OULG11,Montante final na POUPANÇA,"R$ 53.000,00"
+OULG11,Montante final no FUNDO,"R$ 39.370,45"
+OULG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.115,50"
+OULG11,Valorização patrimonial no fundo,"R$ 36.254,95"
+OULG11,OULG11 X POUPANÇA,"-25,72%"
+OULG11B,Aplicação em 12 meses,"R$ 50.000,00"
+OULG11B,Montante final na POUPANÇA,N/A
+OULG11B,Montante final no FUNDO,N/A
+OULG11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+OULG11B,Valorização patrimonial no fundo,N/A
+OULG11B,OULG11B X POUPANÇA,N/A
+OURE11,Aplicação em 12 meses,"R$ 50.000,00"
+OURE11,Montante final na POUPANÇA,"R$ 53.000,00"
+OURE11,Montante final no FUNDO,"R$ 55.123,78"
+OURE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.163,16"
+OURE11,Valorização patrimonial no fundo,"R$ 48.960,63"
+OURE11,OURE11 X POUPANÇA,"4,01%"
+PABY11,Aplicação em 12 meses,"R$ 50.000,00"
+PABY11,Montante final na POUPANÇA,"R$ 53.000,00"
+PABY11,Montante final no FUNDO,N/A
+PABY11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PABY11,Valorização patrimonial no fundo,"R$ 28.231,31"
+PABY11,PABY11 X POUPANÇA,N/A
+PATA11,Aplicação em 12 meses,"R$ 50.000,00"
+PATA11,Montante final na POUPANÇA,N/A
+PATA11,Montante final no FUNDO,N/A
+PATA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PATA11,Valorização patrimonial no fundo,N/A
+PATA11,PATA11 X POUPANÇA,N/A
+PATB11,Aplicação em 12 meses,"R$ 50.000,00"
+PATB11,Montante final na POUPANÇA,N/A
+PATB11,Montante final no FUNDO,N/A
+PATB11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PATB11,Valorização patrimonial no fundo,N/A
+PATB11,PATB11 X POUPANÇA,N/A
+PATC11,Aplicação em 12 meses,"R$ 50.000,00"
+PATC11,Montante final na POUPANÇA,"R$ 53.000,00"
+PATC11,Montante final no FUNDO,"R$ 34.332,57"
+PATC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.798,42"
+PATC11,Valorização patrimonial no fundo,"R$ 25.534,15"
+PATC11,PATC11 X POUPANÇA,"-35,22%"
+PATL11,Aplicação em 12 meses,"R$ 50.000,00"
+PATL11,Montante final na POUPANÇA,"R$ 53.000,00"
+PATL11,Montante final no FUNDO,"R$ 46.597,83"
+PATL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.894,19"
+PATL11,Valorização patrimonial no fundo,"R$ 40.703,64"
+PATL11,PATL11 X POUPANÇA,"-12,08%"
+PBLV11,Aplicação em 12 meses,"R$ 50.000,00"
+PBLV11,Montante final na POUPANÇA,"R$ 53.000,00"
+PBLV11,Montante final no FUNDO,"R$ 56.633,73"
+PBLV11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.633,73"
+PBLV11,Valorização patrimonial no fundo,"R$ 50.000,00"
+PBLV11,PBLV11 X POUPANÇA,"6,86%"
+PCAS11,Aplicação em 12 meses,"R$ 50.000,00"
+PCAS11,Montante final na POUPANÇA,N/A
+PCAS11,Montante final no FUNDO,N/A
+PCAS11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PCAS11,Valorização patrimonial no fundo,N/A
+PCAS11,PCAS11 X POUPANÇA,N/A
+PDDA11B,Aplicação em 12 meses,"R$ 50.000,00"
+PDDA11B,Montante final na POUPANÇA,N/A
+PDDA11B,Montante final no FUNDO,N/A
+PDDA11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PDDA11B,Valorização patrimonial no fundo,N/A
+PDDA11B,PDDA11B X POUPANÇA,N/A
+PEMA11,Aplicação em 12 meses,"R$ 50.000,00"
+PEMA11,Montante final na POUPANÇA,"R$ 53.000,00"
+PEMA11,Montante final no FUNDO,"R$ 43.149,91"
+PEMA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 9.383,41"
+PEMA11,Valorização patrimonial no fundo,"R$ 33.766,50"
+PEMA11,PEMA11 X POUPANÇA,"-18,59%"
+PFIN11,Aplicação em 12 meses,"R$ 50.000,00"
+PFIN11,Montante final na POUPANÇA,"R$ 53.000,00"
+PFIN11,Montante final no FUNDO,N/A
+PFIN11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PFIN11,Valorização patrimonial no fundo,"R$ 54.623,24"
+PFIN11,PFIN11 X POUPANÇA,N/A
+PICE11,Aplicação em 12 meses,"R$ 50.000,00"
+PICE11,Montante final na POUPANÇA,"R$ 53.000,00"
+PICE11,Montante final no FUNDO,N/A
+PICE11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PICE11,Valorização patrimonial no fundo,"R$ 29.432,06"
+PICE11,PICE11 X POUPANÇA,N/A
+PLCA11,Aplicação em 12 meses,"R$ 50.000,00"
+PLCA11,Montante final na POUPANÇA,"R$ 53.000,00"
+PLCA11,Montante final no FUNDO,"R$ 50.996,06"
+PLCA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.614,12"
+PLCA11,Valorização patrimonial no fundo,"R$ 43.381,94"
+PLCA11,PLCA11 X POUPANÇA,"-3,78%"
+PLCR11,Aplicação em 12 meses,"R$ 50.000,00"
+PLCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+PLCR11,Montante final no FUNDO,"R$ 53.801,29"
+PLCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.675,96"
+PLCR11,Valorização patrimonial no fundo,"R$ 48.125,33"
+PLCR11,PLCR11 X POUPANÇA,"1,51%"
+PLOG11,Aplicação em 12 meses,"R$ 50.000,00"
+PLOG11,Montante final na POUPANÇA,"R$ 53.000,00"
+PLOG11,Montante final no FUNDO,"R$ 53.977,94"
+PLOG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.666,10"
+PLOG11,Valorização patrimonial no fundo,"R$ 47.311,84"
+PLOG11,PLOG11 X POUPANÇA,"1,85%"
+PLRI11,Aplicação em 12 meses,"R$ 50.000,00"
+PLRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+PLRI11,Montante final no FUNDO,"R$ 67.889,65"
+PLRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 20.879,35"
+PLRI11,Valorização patrimonial no fundo,"R$ 47.010,30"
+PLRI11,PLRI11 X POUPANÇA,"28,09%"
+PMFO11,Aplicação em 12 meses,"R$ 50.000,00"
+PMFO11,Montante final na POUPANÇA,"R$ 53.000,00"
+PMFO11,Montante final no FUNDO,"R$ 55.366,46"
+PMFO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.927,01"
+PMFO11,Valorização patrimonial no fundo,"R$ 50.439,45"
+PMFO11,PMFO11 X POUPANÇA,"4,47%"
+PMIS11,Aplicação em 12 meses,"R$ 50.000,00"
+PMIS11,Montante final na POUPANÇA,"R$ 53.000,00"
+PMIS11,Montante final no FUNDO,"R$ 55.941,82"
+PMIS11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.311,86"
+PMIS11,Valorização patrimonial no fundo,"R$ 51.629,95"
+PMIS11,PMIS11 X POUPANÇA,"5,55%"
+PNCR11,Aplicação em 12 meses,"R$ 50.000,00"
+PNCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+PNCR11,Montante final no FUNDO,"R$ 57.224,21"
+PNCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 10.358,04"
+PNCR11,Valorização patrimonial no fundo,"R$ 46.866,17"
+PNCR11,PNCR11 X POUPANÇA,"7,97%"
+PNDL11,Aplicação em 12 meses,"R$ 50.000,00"
+PNDL11,Montante final na POUPANÇA,"R$ 53.000,00"
+PNDL11,Montante final no FUNDO,"R$ 46.325,80"
+PNDL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 269,22"
+PNDL11,Valorização patrimonial no fundo,"R$ 46.056,58"
+PNDL11,PNDL11 X POUPANÇA,"-12,59%"
+PNLM11,Aplicação em 12 meses,"R$ 50.000,00"
+PNLM11,Montante final na POUPANÇA,N/A
+PNLM11,Montante final no FUNDO,N/A
+PNLM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PNLM11,Valorização patrimonial no fundo,N/A
+PNLM11,PNLM11 X POUPANÇA,N/A
+PNLN11,Aplicação em 12 meses,"R$ 50.000,00"
+PNLN11,Montante final na POUPANÇA,N/A
+PNLN11,Montante final no FUNDO,N/A
+PNLN11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PNLN11,Valorização patrimonial no fundo,N/A
+PNLN11,PNLN11 X POUPANÇA,N/A
+PNPR11,Aplicação em 12 meses,"R$ 50.000,00"
+PNPR11,Montante final na POUPANÇA,"R$ 53.000,00"
+PNPR11,Montante final no FUNDO,"R$ 38.596,30"
+PNPR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 813,03"
+PNPR11,Valorização patrimonial no fundo,"R$ 37.783,27"
+PNPR11,PNPR11 X POUPANÇA,"-27,18%"
+PNRC11,Aplicação em 12 meses,"R$ 50.000,00"
+PNRC11,Montante final na POUPANÇA,"R$ 53.000,00"
+PNRC11,Montante final no FUNDO,"R$ 7.864,50"
+PNRC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.853,70"
+PNRC11,Valorização patrimonial no fundo,"R$ 10,80"
+PNRC11,PNRC11 X POUPANÇA,"-85,16%"
+PORD11,Aplicação em 12 meses,"R$ 50.000,00"
+PORD11,Montante final na POUPANÇA,"R$ 53.000,00"
+PORD11,Montante final no FUNDO,"R$ 57.321,83"
+PORD11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.466,85"
+PORD11,Valorização patrimonial no fundo,"R$ 50.854,98"
+PORD11,PORD11 X POUPANÇA,"8,15%"
+PPEI11,Aplicação em 12 meses,"R$ 50.000,00"
+PPEI11,Montante final na POUPANÇA,"R$ 53.000,00"
+PPEI11,Montante final no FUNDO,N/A
+PPEI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PPEI11,Valorização patrimonial no fundo,"R$ 55.024,85"
+PPEI11,PPEI11 X POUPANÇA,N/A
+PQAG11,Aplicação em 12 meses,"R$ 50.000,00"
+PQAG11,Montante final na POUPANÇA,"R$ 53.000,00"
+PQAG11,Montante final no FUNDO,"R$ 57.835,72"
+PQAG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.547,84"
+PQAG11,Valorização patrimonial no fundo,"R$ 53.287,88"
+PQAG11,PQAG11 X POUPANÇA,"9,12%"
+PQDP11,Aplicação em 12 meses,"R$ 50.000,00"
+PQDP11,Montante final na POUPANÇA,"R$ 53.000,00"
+PQDP11,Montante final no FUNDO,"R$ 54.206,09"
+PQDP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.203,97"
+PQDP11,Valorização patrimonial no fundo,"R$ 49.002,11"
+PQDP11,PQDP11 X POUPANÇA,"2,28%"
+PRSN11B,Aplicação em 12 meses,"R$ 50.000,00"
+PRSN11B,Montante final na POUPANÇA,"R$ 53.000,00"
+PRSN11B,Montante final no FUNDO,"R$ 62.506,20"
+PRSN11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.016,36"
+PRSN11B,Valorização patrimonial no fundo,"R$ 56.489,85"
+PRSN11B,PRSN11B X POUPANÇA,"17,94%"
+PRSV11,Aplicação em 12 meses,"R$ 50.000,00"
+PRSV11,Montante final na POUPANÇA,"R$ 53.000,00"
+PRSV11,Montante final no FUNDO,N/A
+PRSV11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PRSV11,Valorização patrimonial no fundo,"R$ 36.740,23"
+PRSV11,PRSV11 X POUPANÇA,N/A
+PRTS11,Aplicação em 12 meses,"R$ 50.000,00"
+PRTS11,Montante final na POUPANÇA,"R$ 53.000,00"
+PRTS11,Montante final no FUNDO,"R$ 50.023,27"
+PRTS11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 23,27"
+PRTS11,Valorização patrimonial no fundo,"R$ 50.000,00"
+PRTS11,PRTS11 X POUPANÇA,"-5,62%"
+PRZS11,Aplicação em 12 meses,"R$ 50.000,00"
+PRZS11,Montante final na POUPANÇA,N/A
+PRZS11,Montante final no FUNDO,N/A
+PRZS11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PRZS11,Valorização patrimonial no fundo,N/A
+PRZS11,PRZS11 X POUPANÇA,N/A
+PULV11,Aplicação em 12 meses,"R$ 50.000,00"
+PULV11,Montante final na POUPANÇA,"R$ 53.000,00"
+PULV11,Montante final no FUNDO,"R$ 53.239,00"
+PULV11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.074,00"
+PULV11,Valorização patrimonial no fundo,"R$ 49.165,00"
+PULV11,PULV11 X POUPANÇA,"0,45%"
+PURB11,Aplicação em 12 meses,"R$ 50.000,00"
+PURB11,Montante final na POUPANÇA,N/A
+PURB11,Montante final no FUNDO,N/A
+PURB11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+PURB11,Valorização patrimonial no fundo,N/A
+PURB11,PURB11 X POUPANÇA,N/A
+PVBI11,Aplicação em 12 meses,"R$ 50.000,00"
+PVBI11,Montante final na POUPANÇA,"R$ 53.000,00"
+PVBI11,Montante final no FUNDO,"R$ 50.627,43"
+PVBI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.301,31"
+PVBI11,Valorização patrimonial no fundo,"R$ 46.326,12"
+PVBI11,PVBI11 X POUPANÇA,"-4,48%"
+QAGR11,Aplicação em 12 meses,"R$ 50.000,00"
+QAGR11,Montante final na POUPANÇA,"R$ 53.000,00"
+QAGR11,Montante final no FUNDO,"R$ 53.305,91"
+QAGR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.619,17"
+QAGR11,Valorização patrimonial no fundo,"R$ 47.686,74"
+QAGR11,QAGR11 X POUPANÇA,"0,58%"
+QAMI11,Aplicação em 12 meses,"R$ 50.000,00"
+QAMI11,Montante final na POUPANÇA,"R$ 53.000,00"
+QAMI11,Montante final no FUNDO,"R$ 54.140,56"
+QAMI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.003,00"
+QAMI11,Valorização patrimonial no fundo,"R$ 53.137,56"
+QAMI11,QAMI11 X POUPANÇA,"2,15%"
+QIFF11,Aplicação em 12 meses,"R$ 50.000,00"
+QIFF11,Montante final na POUPANÇA,N/A
+QIFF11,Montante final no FUNDO,N/A
+QIFF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+QIFF11,Valorização patrimonial no fundo,N/A
+QIFF11,QIFF11 X POUPANÇA,N/A
+QIRI11,Aplicação em 12 meses,"R$ 50.000,00"
+QIRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+QIRI11,Montante final no FUNDO,"R$ 49.813,06"
+QIRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 422,40"
+QIRI11,Valorização patrimonial no fundo,"R$ 49.390,66"
+QIRI11,QIRI11 X POUPANÇA,"-6,01%"
+QMFF11,Aplicação em 12 meses,"R$ 50.000,00"
+QMFF11,Montante final na POUPANÇA,N/A
+QMFF11,Montante final no FUNDO,N/A
+QMFF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+QMFF11,Valorização patrimonial no fundo,N/A
+QMFF11,QMFF11 X POUPANÇA,N/A
+QTZD11,Aplicação em 12 meses,"R$ 50.000,00"
+QTZD11,Montante final na POUPANÇA,N/A
+QTZD11,Montante final no FUNDO,N/A
+QTZD11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+QTZD11,Valorização patrimonial no fundo,N/A
+QTZD11,QTZD11 X POUPANÇA,N/A
+RBBV11,Aplicação em 12 meses,"R$ 50.000,00"
+RBBV11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBBV11,Montante final no FUNDO,N/A
+RBBV11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RBBV11,Valorização patrimonial no fundo,"R$ 50.000,00"
+RBBV11,RBBV11 X POUPANÇA,N/A
+RBCB11,Aplicação em 12 meses,"R$ 50.000,00"
+RBCB11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBCB11,Montante final no FUNDO,N/A
+RBCB11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RBCB11,Valorização patrimonial no fundo,"R$ 50.000,00"
+RBCB11,RBCB11 X POUPANÇA,N/A
+RBCO11,Aplicação em 12 meses,"R$ 50.000,00"
+RBCO11,Montante final na POUPANÇA,N/A
+RBCO11,Montante final no FUNDO,N/A
+RBCO11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RBCO11,Valorização patrimonial no fundo,N/A
+RBCO11,RBCO11 X POUPANÇA,N/A
+RBDS11,Aplicação em 12 meses,"R$ 50.000,00"
+RBDS11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBDS11,Montante final no FUNDO,N/A
+RBDS11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RBDS11,Valorização patrimonial no fundo,"R$ 54.299,83"
+RBDS11,RBDS11 X POUPANÇA,N/A
+RBED11,Aplicação em 12 meses,"R$ 50.000,00"
+RBED11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBED11,Montante final no FUNDO,"R$ 55.550,87"
+RBED11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.029,80"
+RBED11,Valorização patrimonial no fundo,"R$ 49.521,07"
+RBED11,RBED11 X POUPANÇA,"4,81%"
+RBFF11,Aplicação em 12 meses,"R$ 50.000,00"
+RBFF11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBFF11,Montante final no FUNDO,"R$ 55.100,51"
+RBFF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.975,53"
+RBFF11,Valorização patrimonial no fundo,"R$ 50.124,98"
+RBFF11,RBFF11 X POUPANÇA,"3,96%"
+RBGS11,Aplicação em 12 meses,"R$ 50.000,00"
+RBGS11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBGS11,Montante final no FUNDO,N/A
+RBGS11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RBGS11,Valorização patrimonial no fundo,"R$ 50.000,00"
+RBGS11,RBGS11 X POUPANÇA,N/A
+RBHG11,Aplicação em 12 meses,"R$ 50.000,00"
+RBHG11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBHG11,Montante final no FUNDO,"R$ 55.054,62"
+RBHG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.932,50"
+RBHG11,Valorização patrimonial no fundo,"R$ 48.122,12"
+RBHG11,RBHG11 X POUPANÇA,"3,88%"
+RBHY11,Aplicação em 12 meses,"R$ 50.000,00"
+RBHY11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBHY11,Montante final no FUNDO,"R$ 55.044,41"
+RBHY11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.570,20"
+RBHY11,Valorização patrimonial no fundo,"R$ 47.474,21"
+RBHY11,RBHY11 X POUPANÇA,"3,86%"
+RBIF11,Aplicação em 12 meses,"R$ 50.000,00"
+RBIF11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBIF11,Montante final no FUNDO,"R$ 54.476,58"
+RBIF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.501,41"
+RBIF11,Valorização patrimonial no fundo,"R$ 47.975,17"
+RBIF11,RBIF11 X POUPANÇA,"2,79%"
+RBIR11,Aplicação em 12 meses,"R$ 50.000,00"
+RBIR11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBIR11,Montante final no FUNDO,"R$ 50.980,70"
+RBIR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.619,87"
+RBIR11,Valorização patrimonial no fundo,"R$ 49.360,83"
+RBIR11,RBIR11 X POUPANÇA,"-3,81%"
+RBIV11,Aplicação em 12 meses,"R$ 50.000,00"
+RBIV11,Montante final na POUPANÇA,N/A
+RBIV11,Montante final no FUNDO,N/A
+RBIV11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RBIV11,Valorização patrimonial no fundo,N/A
+RBIV11,RBIV11 X POUPANÇA,N/A
+RBLG11,Aplicação em 12 meses,"R$ 50.000,00"
+RBLG11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBLG11,Montante final no FUNDO,"R$ 42.615,31"
+RBLG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.379,00"
+RBLG11,Valorização patrimonial no fundo,"R$ 34.236,31"
+RBLG11,RBLG11 X POUPANÇA,"-19,59%"
+RBOP11,Aplicação em 12 meses,"R$ 50.000,00"
+RBOP11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBOP11,Montante final no FUNDO,"R$ 67.145,01"
+RBOP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.308,90"
+RBOP11,Valorização patrimonial no fundo,"R$ 59.836,11"
+RBOP11,RBOP11 X POUPANÇA,"26,69%"
+RBRD11,Aplicação em 12 meses,"R$ 50.000,00"
+RBRD11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBRD11,Montante final no FUNDO,"R$ 60.390,33"
+RBRD11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.363,60"
+RBRD11,Valorização patrimonial no fundo,"R$ 55.026,73"
+RBRD11,RBRD11 X POUPANÇA,"13,94%"
+RBRF11,Aplicação em 12 meses,"R$ 50.000,00"
+RBRF11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBRF11,Montante final no FUNDO,"R$ 50.153,51"
+RBRF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.387,92"
+RBRF11,Valorização patrimonial no fundo,"R$ 45.765,59"
+RBRF11,RBRF11 X POUPANÇA,"-5,37%"
+RBRI11,Aplicação em 12 meses,"R$ 50.000,00"
+RBRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBRI11,Montante final no FUNDO,"R$ 73.233,28"
+RBRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.404,00"
+RBRI11,Valorização patrimonial no fundo,"R$ 71.829,28"
+RBRI11,RBRI11 X POUPANÇA,"38,18%"
+RBRL11,Aplicação em 12 meses,"R$ 50.000,00"
+RBRL11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBRL11,Montante final no FUNDO,"R$ 49.875,03"
+RBRL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.118,20"
+RBRL11,Valorização patrimonial no fundo,"R$ 44.756,83"
+RBRL11,RBRL11 X POUPANÇA,"-5,90%"
+RBRM11,Aplicação em 12 meses,"R$ 50.000,00"
+RBRM11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBRM11,Montante final no FUNDO,"R$ 50.000,00"
+RBRM11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 0,00"
+RBRM11,Valorização patrimonial no fundo,"R$ 50.000,00"
+RBRM11,RBRM11 X POUPANÇA,"-5,66%"
+RBRP11,Aplicação em 12 meses,"R$ 50.000,00"
+RBRP11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBRP11,Montante final no FUNDO,"R$ 56.170,32"
+RBRP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.286,43"
+RBRP11,Valorização patrimonial no fundo,"R$ 51.883,89"
+RBRP11,RBRP11 X POUPANÇA,"5,98%"
+RBRR11,Aplicação em 12 meses,"R$ 50.000,00"
+RBRR11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBRR11,Montante final no FUNDO,"R$ 57.237,57"
+RBRR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.095,27"
+RBRR11,Valorização patrimonial no fundo,"R$ 52.142,30"
+RBRR11,RBRR11 X POUPANÇA,"8,00%"
+RBRS11,Aplicação em 12 meses,"R$ 50.000,00"
+RBRS11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBRS11,Montante final no FUNDO,"R$ 41.265,30"
+RBRS11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.861,38"
+RBRS11,Valorização patrimonial no fundo,"R$ 39.403,92"
+RBRS11,RBRS11 X POUPANÇA,"-22,14%"
+RBRX11,Aplicação em 12 meses,"R$ 50.000,00"
+RBRX11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBRX11,Montante final no FUNDO,"R$ 57.005,18"
+RBRX11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.675,21"
+RBRX11,Valorização patrimonial no fundo,"R$ 50.329,97"
+RBRX11,RBRX11 X POUPANÇA,"7,56%"
+RBRY11,Aplicação em 12 meses,"R$ 50.000,00"
+RBRY11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBRY11,Montante final no FUNDO,"R$ 55.346,49"
+RBRY11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.439,56"
+RBRY11,Valorização patrimonial no fundo,"R$ 48.906,93"
+RBRY11,RBRY11 X POUPANÇA,"4,43%"
+RBTS11,Aplicação em 12 meses,"R$ 50.000,00"
+RBTS11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBTS11,Montante final no FUNDO,"R$ 44.656,94"
+RBTS11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 11.783,76"
+RBTS11,Valorização patrimonial no fundo,"R$ 32.873,18"
+RBTS11,RBTS11 X POUPANÇA,"-15,74%"
+RBVA11,Aplicação em 12 meses,"R$ 50.000,00"
+RBVA11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBVA11,Montante final no FUNDO,"R$ 54.188,79"
+RBVA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.676,00"
+RBVA11,Valorização patrimonial no fundo,"R$ 48.512,79"
+RBVA11,RBVA11 X POUPANÇA,"2,24%"
+RBVO11,Aplicação em 12 meses,"R$ 50.000,00"
+RBVO11,Montante final na POUPANÇA,"R$ 53.000,00"
+RBVO11,Montante final no FUNDO,"R$ 123.736,03"
+RBVO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.760,32"
+RBVO11,Valorização patrimonial no fundo,"R$ 116.975,71"
+RBVO11,RBVO11 X POUPANÇA,"133,46%"
+RCFA11,Aplicação em 12 meses,"R$ 50.000,00"
+RCFA11,Montante final na POUPANÇA,"R$ 53.000,00"
+RCFA11,Montante final no FUNDO,N/A
+RCFA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RCFA11,Valorização patrimonial no fundo,"R$ 21.220,55"
+RCFA11,RCFA11 X POUPANÇA,N/A
+RCFF11,Aplicação em 12 meses,"R$ 50.000,00"
+RCFF11,Montante final na POUPANÇA,"R$ 53.000,00"
+RCFF11,Montante final no FUNDO,"R$ 54.183,73"
+RCFF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.006,91"
+RCFF11,Valorização patrimonial no fundo,"R$ 53.176,82"
+RCFF11,RCFF11 X POUPANÇA,"2,23%"
+RCKF11,Aplicação em 12 meses,"R$ 50.000,00"
+RCKF11,Montante final na POUPANÇA,N/A
+RCKF11,Montante final no FUNDO,N/A
+RCKF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RCKF11,Valorização patrimonial no fundo,N/A
+RCKF11,RCKF11 X POUPANÇA,N/A
+RCRB11,Aplicação em 12 meses,"R$ 50.000,00"
+RCRB11,Montante final na POUPANÇA,"R$ 53.000,00"
+RCRB11,Montante final no FUNDO,"R$ 49.724,14"
+RCRB11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.940,02"
+RCRB11,Valorização patrimonial no fundo,"R$ 45.784,12"
+RCRB11,RCRB11 X POUPANÇA,"-6,18%"
+RDCI11,Aplicação em 12 meses,"R$ 50.000,00"
+RDCI11,Montante final na POUPANÇA,N/A
+RDCI11,Montante final no FUNDO,N/A
+RDCI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RDCI11,Valorização patrimonial no fundo,N/A
+RDCI11,RDCI11 X POUPANÇA,N/A
+RDES11,Aplicação em 12 meses,"R$ 50.000,00"
+RDES11,Montante final na POUPANÇA,N/A
+RDES11,Montante final no FUNDO,N/A
+RDES11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RDES11,Valorização patrimonial no fundo,N/A
+RDES11,RDES11 X POUPANÇA,N/A
+RDLI11,Aplicação em 12 meses,"R$ 50.000,00"
+RDLI11,Montante final na POUPANÇA,"R$ 53.000,00"
+RDLI11,Montante final no FUNDO,N/A
+RDLI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RDLI11,Valorização patrimonial no fundo,"R$ 50.000,00"
+RDLI11,RDLI11 X POUPANÇA,N/A
+RDLS11,Aplicação em 12 meses,"R$ 50.000,00"
+RDLS11,Montante final na POUPANÇA,N/A
+RDLS11,Montante final no FUNDO,N/A
+RDLS11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RDLS11,Valorização patrimonial no fundo,N/A
+RDLS11,RDLS11 X POUPANÇA,N/A
+RDPD11,Aplicação em 12 meses,"R$ 50.000,00"
+RDPD11,Montante final na POUPANÇA,"R$ 53.000,00"
+RDPD11,Montante final no FUNDO,"R$ 32.639,42"
+RDPD11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 10.950,31"
+RDPD11,Valorização patrimonial no fundo,"R$ 21.689,11"
+RDPD11,RDPD11 X POUPANÇA,"-38,42%"
+RECH11,Aplicação em 12 meses,"R$ 50.000,00"
+RECH11,Montante final na POUPANÇA,N/A
+RECH11,Montante final no FUNDO,N/A
+RECH11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RECH11,Valorização patrimonial no fundo,N/A
+RECH11,RECH11 X POUPANÇA,N/A
+RECT11,Aplicação em 12 meses,"R$ 50.000,00"
+RECT11,Montante final na POUPANÇA,"R$ 53.000,00"
+RECT11,Montante final no FUNDO,"R$ 42.099,58"
+RECT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.695,26"
+RECT11,Valorização patrimonial no fundo,"R$ 35.404,32"
+RECT11,RECT11 X POUPANÇA,"-20,57%"
+RECX11,Aplicação em 12 meses,"R$ 50.000,00"
+RECX11,Montante final na POUPANÇA,"R$ 53.000,00"
+RECX11,Montante final no FUNDO,"R$ 53.128,05"
+RECX11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.872,52"
+RECX11,Valorização patrimonial no fundo,"R$ 48.255,52"
+RECX11,RECX11 X POUPANÇA,"0,24%"
+REIT11,Aplicação em 12 meses,"R$ 50.000,00"
+REIT11,Montante final na POUPANÇA,"R$ 53.000,00"
+REIT11,Montante final no FUNDO,"R$ 42.591,17"
+REIT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.837,20"
+REIT11,Valorização patrimonial no fundo,"R$ 39.753,97"
+REIT11,REIT11 X POUPANÇA,"-19,64%"
+REIT11B,Aplicação em 12 meses,"R$ 50.000,00"
+REIT11B,Montante final na POUPANÇA,N/A
+REIT11B,Montante final no FUNDO,N/A
+REIT11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+REIT11B,Valorização patrimonial no fundo,N/A
+REIT11B,REIT11B X POUPANÇA,N/A
+RELG11,Aplicação em 12 meses,"R$ 50.000,00"
+RELG11,Montante final na POUPANÇA,"R$ 53.000,00"
+RELG11,Montante final no FUNDO,"R$ 50.978,89"
+RELG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 434,20"
+RELG11,Valorização patrimonial no fundo,"R$ 50.544,69"
+RELG11,RELG11 X POUPANÇA,"-3,81%"
+RENV11,Aplicação em 12 meses,"R$ 50.000,00"
+RENV11,Montante final na POUPANÇA,"R$ 53.000,00"
+RENV11,Montante final no FUNDO,N/A
+RENV11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RENV11,Valorização patrimonial no fundo,"R$ 48.265,01"
+RENV11,RENV11 X POUPANÇA,N/A
+REON11,Aplicação em 12 meses,"R$ 50.000,00"
+REON11,Montante final na POUPANÇA,N/A
+REON11,Montante final no FUNDO,N/A
+REON11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+REON11,Valorização patrimonial no fundo,N/A
+REON11,REON11 X POUPANÇA,N/A
+RFOF11,Aplicação em 12 meses,"R$ 50.000,00"
+RFOF11,Montante final na POUPANÇA,"R$ 53.000,00"
+RFOF11,Montante final no FUNDO,"R$ 51.233,01"
+RFOF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.228,67"
+RFOF11,Valorização patrimonial no fundo,"R$ 45.004,34"
+RFOF11,RFOF11 X POUPANÇA,"-3,33%"
+RIFF11,Aplicação em 12 meses,"R$ 50.000,00"
+RIFF11,Montante final na POUPANÇA,N/A
+RIFF11,Montante final no FUNDO,N/A
+RIFF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RIFF11,Valorização patrimonial no fundo,N/A
+RIFF11,RIFF11 X POUPANÇA,N/A
+RINV11,Aplicação em 12 meses,"R$ 50.000,00"
+RINV11,Montante final na POUPANÇA,"R$ 53.000,00"
+RINV11,Montante final no FUNDO,"R$ 58.079,96"
+RINV11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.046,94"
+RINV11,Valorização patrimonial no fundo,"R$ 51.033,02"
+RINV11,RINV11 X POUPANÇA,"9,58%"
+RMAI11,Aplicação em 12 meses,"R$ 50.000,00"
+RMAI11,Montante final na POUPANÇA,"R$ 53.000,00"
+RMAI11,Montante final no FUNDO,"R$ 78.517,03"
+RMAI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.493,91"
+RMAI11,Valorização patrimonial no fundo,"R$ 75.023,12"
+RMAI11,RMAI11 X POUPANÇA,"48,15%"
+RNDP11,Aplicação em 12 meses,"R$ 50.000,00"
+RNDP11,Montante final na POUPANÇA,"R$ 53.000,00"
+RNDP11,Montante final no FUNDO,"R$ 33.155,32"
+RNDP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 10.565,52"
+RNDP11,Valorização patrimonial no fundo,"R$ 22.589,80"
+RNDP11,RNDP11 X POUPANÇA,"-37,44%"
+RNGO11,Aplicação em 12 meses,"R$ 50.000,00"
+RNGO11,Montante final na POUPANÇA,"R$ 53.000,00"
+RNGO11,Montante final no FUNDO,"R$ 54.302,52"
+RNGO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.992,20"
+RNGO11,Valorização patrimonial no fundo,"R$ 49.310,32"
+RNGO11,RNGO11 X POUPANÇA,"2,46%"
+ROOF11,Aplicação em 12 meses,"R$ 50.000,00"
+ROOF11,Montante final na POUPANÇA,"R$ 53.000,00"
+ROOF11,Montante final no FUNDO,"R$ 71.319,93"
+ROOF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.878,36"
+ROOF11,Valorização patrimonial no fundo,"R$ 68.441,57"
+ROOF11,ROOF11 X POUPANÇA,"34,57%"
+RPRI11,Aplicação em 12 meses,"R$ 50.000,00"
+RPRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+RPRI11,Montante final no FUNDO,"R$ 54.118,87"
+RPRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.410,85"
+RPRI11,Valorização patrimonial no fundo,"R$ 47.708,02"
+RPRI11,RPRI11 X POUPANÇA,"2,11%"
+RRCI11,Aplicação em 12 meses,"R$ 50.000,00"
+RRCI11,Montante final na POUPANÇA,"R$ 53.000,00"
+RRCI11,Montante final no FUNDO,"R$ 54.927,51"
+RRCI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.905,74"
+RRCI11,Valorização patrimonial no fundo,"R$ 48.021,77"
+RRCI11,RRCI11 X POUPANÇA,"3,64%"
+RSPD11,Aplicação em 12 meses,"R$ 50.000,00"
+RSPD11,Montante final na POUPANÇA,"R$ 53.000,00"
+RSPD11,Montante final no FUNDO,"R$ 45.547,71"
+RSPD11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.193,39"
+RSPD11,Valorização patrimonial no fundo,"R$ 42.354,33"
+RSPD11,RSPD11 X POUPANÇA,"-14,06%"
+RTEL11,Aplicação em 12 meses,"R$ 50.000,00"
+RTEL11,Montante final na POUPANÇA,N/A
+RTEL11,Montante final no FUNDO,N/A
+RTEL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RTEL11,Valorização patrimonial no fundo,N/A
+RTEL11,RTEL11 X POUPANÇA,N/A
+RURA11,Aplicação em 12 meses,"R$ 50.000,00"
+RURA11,Montante final na POUPANÇA,"R$ 53.000,00"
+RURA11,Montante final no FUNDO,N/A
+RURA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RURA11,Valorização patrimonial no fundo,"R$ 48.000,06"
+RURA11,RURA11 X POUPANÇA,N/A
+RVBI11,Aplicação em 12 meses,"R$ 50.000,00"
+RVBI11,Montante final na POUPANÇA,"R$ 53.000,00"
+RVBI11,Montante final no FUNDO,"R$ 51.901,06"
+RVBI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.980,80"
+RVBI11,Valorização patrimonial no fundo,"R$ 45.920,26"
+RVBI11,RVBI11 X POUPANÇA,"-2,07%"
+RZAG11,Aplicação em 12 meses,"R$ 50.000,00"
+RZAG11,Montante final na POUPANÇA,"R$ 53.000,00"
+RZAG11,Montante final no FUNDO,"R$ 52.882,23"
+RZAG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.941,66"
+RZAG11,Valorização patrimonial no fundo,"R$ 44.940,57"
+RZAG11,RZAG11 X POUPANÇA,"-0,22%"
+RZAK11,Aplicação em 12 meses,"R$ 50.000,00"
+RZAK11,Montante final na POUPANÇA,"R$ 53.000,00"
+RZAK11,Montante final no FUNDO,"R$ 54.515,76"
+RZAK11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.120,40"
+RZAK11,Valorização patrimonial no fundo,"R$ 46.395,36"
+RZAK11,RZAK11 X POUPANÇA,"2,86%"
+RZAT11,Aplicação em 12 meses,"R$ 50.000,00"
+RZAT11,Montante final na POUPANÇA,"R$ 53.000,00"
+RZAT11,Montante final no FUNDO,"R$ 62.839,44"
+RZAT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.370,32"
+RZAT11,Valorização patrimonial no fundo,"R$ 56.469,12"
+RZAT11,RZAT11 X POUPANÇA,"18,56%"
+RZDS11,Aplicação em 12 meses,"R$ 50.000,00"
+RZDS11,Montante final na POUPANÇA,N/A
+RZDS11,Montante final no FUNDO,N/A
+RZDS11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RZDS11,Valorização patrimonial no fundo,N/A
+RZDS11,RZDS11 X POUPANÇA,N/A
+RZEO11,Aplicação em 12 meses,"R$ 50.000,00"
+RZEO11,Montante final na POUPANÇA,"R$ 53.000,00"
+RZEO11,Montante final no FUNDO,"R$ 137.120,03"
+RZEO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.482,30"
+RZEO11,Valorização patrimonial no fundo,"R$ 134.637,73"
+RZEO11,RZEO11 X POUPANÇA,"158,72%"
+RZTR11,Aplicação em 12 meses,"R$ 50.000,00"
+RZTR11,Montante final na POUPANÇA,"R$ 53.000,00"
+RZTR11,Montante final no FUNDO,"R$ 55.488,57"
+RZTR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.398,55"
+RZTR11,Valorização patrimonial no fundo,"R$ 49.090,02"
+RZTR11,RZTR11 X POUPANÇA,"4,70%"
+RZZI11,Aplicação em 12 meses,"R$ 50.000,00"
+RZZI11,Montante final na POUPANÇA,N/A
+RZZI11,Montante final no FUNDO,N/A
+RZZI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+RZZI11,Valorização patrimonial no fundo,N/A
+RZZI11,RZZI11 X POUPANÇA,N/A
+SAAG11,Aplicação em 12 meses,"R$ 50.000,00"
+SAAG11,Montante final na POUPANÇA,"R$ 53.000,00"
+SAAG11,Montante final no FUNDO,N/A
+SAAG11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SAAG11,Valorização patrimonial no fundo,"R$ 50.000,00"
+SAAG11,SAAG11 X POUPANÇA,N/A
+SACL11,Aplicação em 12 meses,"R$ 50.000,00"
+SACL11,Montante final na POUPANÇA,N/A
+SACL11,Montante final no FUNDO,N/A
+SACL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SACL11,Valorização patrimonial no fundo,N/A
+SACL11,SACL11 X POUPANÇA,N/A
+SADI11,Aplicação em 12 meses,"R$ 50.000,00"
+SADI11,Montante final na POUPANÇA,"R$ 53.000,00"
+SADI11,Montante final no FUNDO,"R$ 59.080,23"
+SADI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.331,44"
+SADI11,Valorização patrimonial no fundo,"R$ 52.748,79"
+SADI11,SADI11 X POUPANÇA,"11,47%"
+SAIC11B,Aplicação em 12 meses,"R$ 50.000,00"
+SAIC11B,Montante final na POUPANÇA,"R$ 53.000,00"
+SAIC11B,Montante final no FUNDO,N/A
+SAIC11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SAIC11B,Valorização patrimonial no fundo,"R$ 20,00"
+SAIC11B,SAIC11B X POUPANÇA,N/A
+SALI11,Aplicação em 12 meses,"R$ 50.000,00"
+SALI11,Montante final na POUPANÇA,N/A
+SALI11,Montante final no FUNDO,N/A
+SALI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SALI11,Valorização patrimonial no fundo,N/A
+SALI11,SALI11 X POUPANÇA,N/A
+SAPI11,Aplicação em 12 meses,"R$ 50.000,00"
+SAPI11,Montante final na POUPANÇA,"R$ 53.000,00"
+SAPI11,Montante final no FUNDO,"R$ 51.324,99"
+SAPI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.189,27"
+SAPI11,Valorização patrimonial no fundo,"R$ 47.135,72"
+SAPI11,SAPI11 X POUPANÇA,"-3,16%"
+SARE11,Aplicação em 12 meses,"R$ 50.000,00"
+SARE11,Montante final na POUPANÇA,"R$ 53.000,00"
+SARE11,Montante final no FUNDO,"R$ 41.420,45"
+SARE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.739,68"
+SARE11,Valorização patrimonial no fundo,"R$ 35.680,77"
+SARE11,SARE11 X POUPANÇA,"-21,85%"
+SAUS11,Aplicação em 12 meses,"R$ 50.000,00"
+SAUS11,Montante final na POUPANÇA,N/A
+SAUS11,Montante final no FUNDO,N/A
+SAUS11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SAUS11,Valorização patrimonial no fundo,N/A
+SAUS11,SAUS11 X POUPANÇA,N/A
+SBCL11,Aplicação em 12 meses,"R$ 50.000,00"
+SBCL11,Montante final na POUPANÇA,N/A
+SBCL11,Montante final no FUNDO,N/A
+SBCL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SBCL11,Valorização patrimonial no fundo,N/A
+SBCL11,SBCL11 X POUPANÇA,N/A
+SCPF11,Aplicação em 12 meses,"R$ 50.000,00"
+SCPF11,Montante final na POUPANÇA,"R$ 53.000,00"
+SCPF11,Montante final no FUNDO,"R$ 29.319,45"
+SCPF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.518,56"
+SCPF11,Valorização patrimonial no fundo,"R$ 26.800,89"
+SCPF11,SCPF11 X POUPANÇA,"-44,68%"
+SDIL11,Aplicação em 12 meses,"R$ 50.000,00"
+SDIL11,Montante final na POUPANÇA,"R$ 53.000,00"
+SDIL11,Montante final no FUNDO,"R$ 59.408,64"
+SDIL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.029,78"
+SDIL11,Valorização patrimonial no fundo,"R$ 54.378,86"
+SDIL11,SDIL11 X POUPANÇA,"12,09%"
+SDIP11,Aplicação em 12 meses,"R$ 50.000,00"
+SDIP11,Montante final na POUPANÇA,N/A
+SDIP11,Montante final no FUNDO,N/A
+SDIP11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SDIP11,Valorização patrimonial no fundo,N/A
+SDIP11,SDIP11 X POUPANÇA,N/A
+SEED11,Aplicação em 12 meses,"R$ 50.000,00"
+SEED11,Montante final na POUPANÇA,"R$ 53.000,00"
+SEED11,Montante final no FUNDO,"R$ 57.935,00"
+SEED11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.465,00"
+SEED11,Valorização patrimonial no fundo,"R$ 52.470,00"
+SEED11,SEED11 X POUPANÇA,"9,31%"
+SEQR11,Aplicação em 12 meses,"R$ 50.000,00"
+SEQR11,Montante final na POUPANÇA,"R$ 53.000,00"
+SEQR11,Montante final no FUNDO,"R$ 48.188,37"
+SEQR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.077,45"
+SEQR11,Valorização patrimonial no fundo,"R$ 40.110,92"
+SEQR11,SEQR11 X POUPANÇA,"-9,08%"
+SFND11,Aplicação em 12 meses,"R$ 50.000,00"
+SFND11,Montante final na POUPANÇA,"R$ 53.000,00"
+SFND11,Montante final no FUNDO,"R$ 50.060,10"
+SFND11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 60,10"
+SFND11,Valorização patrimonial no fundo,"R$ 50.000,00"
+SFND11,SFND11 X POUPANÇA,"-5,55%"
+SHDP11B,Aplicação em 12 meses,"R$ 50.000,00"
+SHDP11B,Montante final na POUPANÇA,N/A
+SHDP11B,Montante final no FUNDO,N/A
+SHDP11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SHDP11B,Valorização patrimonial no fundo,N/A
+SHDP11B,SHDP11B X POUPANÇA,N/A
+SHOP11,Aplicação em 12 meses,"R$ 50.000,00"
+SHOP11,Montante final na POUPANÇA,"R$ 53.000,00"
+SHOP11,Montante final no FUNDO,N/A
+SHOP11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SHOP11,Valorização patrimonial no fundo,"R$ 49.255,38"
+SHOP11,SHOP11 X POUPANÇA,N/A
+SHPH11,Aplicação em 12 meses,"R$ 50.000,00"
+SHPH11,Montante final na POUPANÇA,"R$ 53.000,00"
+SHPH11,Montante final no FUNDO,"R$ 59.876,61"
+SHPH11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.113,60"
+SHPH11,Valorização patrimonial no fundo,"R$ 56.763,01"
+SHPH11,SHPH11 X POUPANÇA,"12,97%"
+SHSO11,Aplicação em 12 meses,"R$ 50.000,00"
+SHSO11,Montante final na POUPANÇA,N/A
+SHSO11,Montante final no FUNDO,N/A
+SHSO11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SHSO11,Valorização patrimonial no fundo,N/A
+SHSO11,SHSO11 X POUPANÇA,N/A
+SIGR11,Aplicação em 12 meses,"R$ 50.000,00"
+SIGR11,Montante final na POUPANÇA,"R$ 53.000,00"
+SIGR11,Montante final no FUNDO,"R$ 54.611,33"
+SIGR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.661,28"
+SIGR11,Valorização patrimonial no fundo,"R$ 49.950,05"
+SIGR11,SIGR11 X POUPANÇA,"3,04%"
+SJAU11,Aplicação em 12 meses,"R$ 50.000,00"
+SJAU11,Montante final na POUPANÇA,"R$ 53.000,00"
+SJAU11,Montante final no FUNDO,"R$ 48.183,92"
+SJAU11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 9.979,20"
+SJAU11,Valorização patrimonial no fundo,"R$ 38.204,72"
+SJAU11,SJAU11 X POUPANÇA,"-9,09%"
+SLDZ11,Aplicação em 12 meses,"R$ 50.000,00"
+SLDZ11,Montante final na POUPANÇA,N/A
+SLDZ11,Montante final no FUNDO,N/A
+SLDZ11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SLDZ11,Valorização patrimonial no fundo,N/A
+SLDZ11,SLDZ11 X POUPANÇA,N/A
+SMRE11,Aplicação em 12 meses,"R$ 50.000,00"
+SMRE11,Montante final na POUPANÇA,"R$ 53.000,00"
+SMRE11,Montante final no FUNDO,"R$ 52.763,88"
+SMRE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.638,88"
+SMRE11,Valorização patrimonial no fundo,"R$ 51.125,00"
+SMRE11,SMRE11 X POUPANÇA,"-0,45%"
+SNEL11,Aplicação em 12 meses,"R$ 50.000,00"
+SNEL11,Montante final na POUPANÇA,"R$ 53.000,00"
+SNEL11,Montante final no FUNDO,"R$ 62.502,41"
+SNEL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.507,58"
+SNEL11,Valorização patrimonial no fundo,"R$ 56.994,83"
+SNEL11,SNEL11 X POUPANÇA,"17,93%"
+SNFZ11,Aplicação em 12 meses,"R$ 50.000,00"
+SNFZ11,Montante final na POUPANÇA,"R$ 53.000,00"
+SNFZ11,Montante final no FUNDO,N/A
+SNFZ11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SNFZ11,Valorização patrimonial no fundo,"R$ 50.000,00"
+SNFZ11,SNFZ11 X POUPANÇA,N/A
+SNID11,Aplicação em 12 meses,"R$ 50.000,00"
+SNID11,Montante final na POUPANÇA,"R$ 53.000,00"
+SNID11,Montante final no FUNDO,"R$ 58.858,51"
+SNID11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.394,50"
+SNID11,Valorização patrimonial no fundo,"R$ 52.464,01"
+SNID11,SNID11 X POUPANÇA,"11,05%"
+SNLG11,Aplicação em 12 meses,"R$ 50.000,00"
+SNLG11,Montante final na POUPANÇA,"R$ 53.000,00"
+SNLG11,Montante final no FUNDO,"R$ 53.135,61"
+SNLG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.225,60"
+SNLG11,Valorização patrimonial no fundo,"R$ 49.910,01"
+SNLG11,SNLG11 X POUPANÇA,"0,26%"
+SNME11,Aplicação em 12 meses,"R$ 50.000,00"
+SNME11,Montante final na POUPANÇA,"R$ 53.000,00"
+SNME11,Montante final no FUNDO,"R$ 50.242,50"
+SNME11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.122,02"
+SNME11,Valorização patrimonial no fundo,"R$ 45.120,47"
+SNME11,SNME11 X POUPANÇA,"-5,20%"
+SOLR11,Aplicação em 12 meses,"R$ 50.000,00"
+SOLR11,Montante final na POUPANÇA,"R$ 53.000,00"
+SOLR11,Montante final no FUNDO,"R$ 50.021,63"
+SOLR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 224,23"
+SOLR11,Valorização patrimonial no fundo,"R$ 49.797,40"
+SOLR11,SOLR11 X POUPANÇA,"-5,62%"
+SPAF11,Aplicação em 12 meses,"R$ 50.000,00"
+SPAF11,Montante final na POUPANÇA,N/A
+SPAF11,Montante final no FUNDO,N/A
+SPAF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SPAF11,Valorização patrimonial no fundo,N/A
+SPAF11,SPAF11 X POUPANÇA,N/A
+SPDE11,Aplicação em 12 meses,"R$ 50.000,00"
+SPDE11,Montante final na POUPANÇA,"R$ 53.000,00"
+SPDE11,Montante final no FUNDO,"R$ 62.137,06"
+SPDE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 357,20"
+SPDE11,Valorização patrimonial no fundo,"R$ 61.779,86"
+SPDE11,SPDE11 X POUPANÇA,"17,24%"
+SPGM11,Aplicação em 12 meses,"R$ 50.000,00"
+SPGM11,Montante final na POUPANÇA,"R$ 53.000,00"
+SPGM11,Montante final no FUNDO,N/A
+SPGM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SPGM11,Valorização patrimonial no fundo,"R$ 50.000,00"
+SPGM11,SPGM11 X POUPANÇA,N/A
+SPMO11,Aplicação em 12 meses,"R$ 50.000,00"
+SPMO11,Montante final na POUPANÇA,"R$ 53.000,00"
+SPMO11,Montante final no FUNDO,"R$ 60.192,78"
+SPMO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 149,21"
+SPMO11,Valorização patrimonial no fundo,"R$ 60.043,57"
+SPMO11,SPMO11 X POUPANÇA,"13,57%"
+SPTW11,Aplicação em 12 meses,"R$ 50.000,00"
+SPTW11,Montante final na POUPANÇA,"R$ 53.000,00"
+SPTW11,Montante final no FUNDO,"R$ 56.411,57"
+SPTW11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.766,39"
+SPTW11,Valorização patrimonial no fundo,"R$ 49.645,18"
+SPTW11,SPTW11 X POUPANÇA,"6,44%"
+SPVJ11,Aplicação em 12 meses,"R$ 50.000,00"
+SPVJ11,Montante final na POUPANÇA,N/A
+SPVJ11,Montante final no FUNDO,N/A
+SPVJ11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SPVJ11,Valorização patrimonial no fundo,N/A
+SPVJ11,SPVJ11 X POUPANÇA,N/A
+SPXC11,Aplicação em 12 meses,"R$ 50.000,00"
+SPXC11,Montante final na POUPANÇA,N/A
+SPXC11,Montante final no FUNDO,N/A
+SPXC11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SPXC11,Valorização patrimonial no fundo,N/A
+SPXC11,SPXC11 X POUPANÇA,N/A
+SPXG11,Aplicação em 12 meses,"R$ 50.000,00"
+SPXG11,Montante final na POUPANÇA,N/A
+SPXG11,Montante final no FUNDO,N/A
+SPXG11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SPXG11,Valorização patrimonial no fundo,N/A
+SPXG11,SPXG11 X POUPANÇA,N/A
+SPXL11,Aplicação em 12 meses,"R$ 50.000,00"
+SPXL11,Montante final na POUPANÇA,N/A
+SPXL11,Montante final no FUNDO,N/A
+SPXL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+SPXL11,Valorização patrimonial no fundo,N/A
+SPXL11,SPXL11 X POUPANÇA,N/A
+SPXS11,Aplicação em 12 meses,"R$ 50.000,00"
+SPXS11,Montante final na POUPANÇA,"R$ 53.000,00"
+SPXS11,Montante final no FUNDO,"R$ 55.239,71"
+SPXS11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.339,70"
+SPXS11,Valorização patrimonial no fundo,"R$ 48.900,01"
+SPXS11,SPXS11 X POUPANÇA,"4,23%"
+SRVD11,Aplicação em 12 meses,"R$ 50.000,00"
+SRVD11,Montante final na POUPANÇA,"R$ 53.000,00"
+SRVD11,Montante final no FUNDO,"R$ 29.649,15"
+SRVD11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.333,20"
+SRVD11,Valorização patrimonial no fundo,"R$ 26.315,95"
+SRVD11,SRVD11 X POUPANÇA,"-44,06%"
+STMB11,Aplicação em 12 meses,"R$ 50.000,00"
+STMB11,Montante final na POUPANÇA,N/A
+STMB11,Montante final no FUNDO,N/A
+STMB11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+STMB11,Valorização patrimonial no fundo,N/A
+STMB11,STMB11 X POUPANÇA,N/A
+STRX11,Aplicação em 12 meses,"R$ 50.000,00"
+STRX11,Montante final na POUPANÇA,"R$ 53.000,00"
+STRX11,Montante final no FUNDO,"R$ 53.237,82"
+STRX11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.978,36"
+STRX11,Valorização patrimonial no fundo,"R$ 50.259,46"
+STRX11,STRX11 X POUPANÇA,"0,45%"
+TBOF11,Aplicação em 12 meses,"R$ 50.000,00"
+TBOF11,Montante final na POUPANÇA,"R$ 53.000,00"
+TBOF11,Montante final no FUNDO,"R$ 52.643,46"
+TBOF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.643,46"
+TBOF11,Valorização patrimonial no fundo,"R$ 50.000,00"
+TBOF11,TBOF11 X POUPANÇA,"-0,67%"
+TCIN11,Aplicação em 12 meses,"R$ 50.000,00"
+TCIN11,Montante final na POUPANÇA,"R$ 53.000,00"
+TCIN11,Montante final no FUNDO,N/A
+TCIN11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+TCIN11,Valorização patrimonial no fundo,"R$ 53.463,38"
+TCIN11,TCIN11 X POUPANÇA,N/A
+TCPF11,Aplicação em 12 meses,"R$ 50.000,00"
+TCPF11,Montante final na POUPANÇA,"R$ 53.000,00"
+TCPF11,Montante final no FUNDO,"R$ 62.867,52"
+TCPF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 12.867,52"
+TCPF11,Valorização patrimonial no fundo,"R$ 50.000,00"
+TCPF11,TCPF11 X POUPANÇA,"18,62%"
+TELD11,Aplicação em 12 meses,"R$ 50.000,00"
+TELD11,Montante final na POUPANÇA,N/A
+TELD11,Montante final no FUNDO,N/A
+TELD11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+TELD11,Valorização patrimonial no fundo,N/A
+TELD11,TELD11 X POUPANÇA,N/A
+TELF11,Aplicação em 12 meses,"R$ 50.000,00"
+TELF11,Montante final na POUPANÇA,N/A
+TELF11,Montante final no FUNDO,N/A
+TELF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+TELF11,Valorização patrimonial no fundo,N/A
+TELF11,TELF11 X POUPANÇA,N/A
+TELM11,Aplicação em 12 meses,"R$ 50.000,00"
+TELM11,Montante final na POUPANÇA,N/A
+TELM11,Montante final no FUNDO,N/A
+TELM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+TELM11,Valorização patrimonial no fundo,N/A
+TELM11,TELM11 X POUPANÇA,N/A
+TEPP11,Aplicação em 12 meses,"R$ 50.000,00"
+TEPP11,Montante final na POUPANÇA,"R$ 53.000,00"
+TEPP11,Montante final no FUNDO,"R$ 56.337,50"
+TEPP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.493,60"
+TEPP11,Valorização patrimonial no fundo,"R$ 50.843,90"
+TEPP11,TEPP11 X POUPANÇA,"6,30%"
+TFOF11,Aplicação em 12 meses,"R$ 50.000,00"
+TFOF11,Montante final na POUPANÇA,"R$ 53.000,00"
+TFOF11,Montante final no FUNDO,N/A
+TFOF11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+TFOF11,Valorização patrimonial no fundo,"R$ 50.000,00"
+TFOF11,TFOF11 X POUPANÇA,N/A
+TGAR11,Aplicação em 12 meses,"R$ 50.000,00"
+TGAR11,Montante final na POUPANÇA,"R$ 53.000,00"
+TGAR11,Montante final no FUNDO,"R$ 56.132,33"
+TGAR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.865,94"
+TGAR11,Valorização patrimonial no fundo,"R$ 49.266,39"
+TGAR11,TGAR11 X POUPANÇA,"5,91%"
+THRA11,Aplicação em 12 meses,"R$ 50.000,00"
+THRA11,Montante final na POUPANÇA,"R$ 53.000,00"
+THRA11,Montante final no FUNDO,N/A
+THRA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+THRA11,Valorização patrimonial no fundo,"R$ 50.000,00"
+THRA11,THRA11 X POUPANÇA,N/A
+THRA11B,Aplicação em 12 meses,"R$ 50.000,00"
+THRA11B,Montante final na POUPANÇA,N/A
+THRA11B,Montante final no FUNDO,N/A
+THRA11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+THRA11B,Valorização patrimonial no fundo,N/A
+THRA11B,THRA11B X POUPANÇA,N/A
+TJKB11,Aplicação em 12 meses,"R$ 50.000,00"
+TJKB11,Montante final na POUPANÇA,"R$ 53.000,00"
+TJKB11,Montante final no FUNDO,"R$ 57.957,41"
+TJKB11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.564,80"
+TJKB11,Valorização patrimonial no fundo,"R$ 52.392,61"
+TJKB11,TJKB11 X POUPANÇA,"9,35%"
+TMPS11,Aplicação em 12 meses,"R$ 50.000,00"
+TMPS11,Montante final na POUPANÇA,"R$ 53.000,00"
+TMPS11,Montante final no FUNDO,"R$ 52.353,11"
+TMPS11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.042,75"
+TMPS11,Valorização patrimonial no fundo,"R$ 46.310,36"
+TMPS11,TMPS11 X POUPANÇA,"-1,22%"
+TORD11,Aplicação em 12 meses,"R$ 50.000,00"
+TORD11,Montante final na POUPANÇA,"R$ 53.000,00"
+TORD11,Montante final no FUNDO,"R$ 27.036,87"
+TORD11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.851,85"
+TORD11,Valorização patrimonial no fundo,"R$ 25.185,02"
+TORD11,TORD11 X POUPANÇA,"-48,99%"
+TRBL11,Aplicação em 12 meses,"R$ 50.000,00"
+TRBL11,Montante final na POUPANÇA,"R$ 53.000,00"
+TRBL11,Montante final no FUNDO,"R$ 55.461,09"
+TRBL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.956,45"
+TRBL11,Valorização patrimonial no fundo,"R$ 50.504,64"
+TRBL11,TRBL11 X POUPANÇA,"4,64%"
+TRNT11,Aplicação em 12 meses,"R$ 50.000,00"
+TRNT11,Montante final na POUPANÇA,"R$ 53.000,00"
+TRNT11,Montante final no FUNDO,"R$ 43.526,91"
+TRNT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.209,60"
+TRNT11,Valorização patrimonial no fundo,"R$ 42.317,31"
+TRNT11,TRNT11 X POUPANÇA,"-17,87%"
+TRNT11B,Aplicação em 12 meses,"R$ 50.000,00"
+TRNT11B,Montante final na POUPANÇA,N/A
+TRNT11B,Montante final no FUNDO,N/A
+TRNT11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+TRNT11B,Valorização patrimonial no fundo,N/A
+TRNT11B,TRNT11B X POUPANÇA,N/A
+TRXB11,Aplicação em 12 meses,"R$ 50.000,00"
+TRXB11,Montante final na POUPANÇA,"R$ 53.000,00"
+TRXB11,Montante final no FUNDO,"R$ 75.638,74"
+TRXB11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.309,47"
+TRXB11,Valorização patrimonial no fundo,"R$ 71.329,27"
+TRXB11,TRXB11 X POUPANÇA,"42,71%"
+TRXF11,Aplicação em 12 meses,"R$ 50.000,00"
+TRXF11,Montante final na POUPANÇA,"R$ 53.000,00"
+TRXF11,Montante final no FUNDO,"R$ 53.211,84"
+TRXF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.548,38"
+TRXF11,Valorização patrimonial no fundo,"R$ 47.663,46"
+TRXF11,TRXF11 X POUPANÇA,"0,40%"
+TRXL11,Aplicação em 12 meses,"R$ 50.000,00"
+TRXL11,Montante final na POUPANÇA,N/A
+TRXL11,Montante final no FUNDO,N/A
+TRXL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+TRXL11,Valorização patrimonial no fundo,N/A
+TRXL11,TRXL11 X POUPANÇA,N/A
+TSER11,Aplicação em 12 meses,"R$ 50.000,00"
+TSER11,Montante final na POUPANÇA,"R$ 53.000,00"
+TSER11,Montante final no FUNDO,"R$ 55.189,91"
+TSER11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.694,27"
+TSER11,Valorização patrimonial no fundo,"R$ 49.495,64"
+TSER11,TSER11 X POUPANÇA,"4,13%"
+TSNC11,Aplicação em 12 meses,"R$ 50.000,00"
+TSNC11,Montante final na POUPANÇA,N/A
+TSNC11,Montante final no FUNDO,N/A
+TSNC11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+TSNC11,Valorização patrimonial no fundo,N/A
+TSNC11,TSNC11 X POUPANÇA,N/A
+TSNM11,Aplicação em 12 meses,"R$ 50.000,00"
+TSNM11,Montante final na POUPANÇA,N/A
+TSNM11,Montante final no FUNDO,N/A
+TSNM11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+TSNM11,Valorização patrimonial no fundo,N/A
+TSNM11,TSNM11 X POUPANÇA,N/A
+TVRI11,Aplicação em 12 meses,"R$ 50.000,00"
+TVRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+TVRI11,Montante final no FUNDO,"R$ 58.064,64"
+TVRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.540,37"
+TVRI11,Valorização patrimonial no fundo,"R$ 52.524,27"
+TVRI11,TVRI11 X POUPANÇA,"9,56%"
+UBSR11,Aplicação em 12 meses,"R$ 50.000,00"
+UBSR11,Montante final na POUPANÇA,N/A
+UBSR11,Montante final no FUNDO,N/A
+UBSR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+UBSR11,Valorização patrimonial no fundo,N/A
+UBSR11,UBSR11 X POUPANÇA,N/A
+UMED11,Aplicação em 12 meses,"R$ 50.000,00"
+UMED11,Montante final na POUPANÇA,N/A
+UMED11,Montante final no FUNDO,N/A
+UMED11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+UMED11,Valorização patrimonial no fundo,N/A
+UMED11,UMED11 X POUPANÇA,N/A
+URHF11,Aplicação em 12 meses,"R$ 50.000,00"
+URHF11,Montante final na POUPANÇA,"R$ 53.000,00"
+URHF11,Montante final no FUNDO,"R$ 102.441,61"
+URHF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 593,46"
+URHF11,Valorização patrimonial no fundo,"R$ 101.848,15"
+URHF11,URHF11 X POUPANÇA,"93,29%"
+URPR11,Aplicação em 12 meses,"R$ 50.000,00"
+URPR11,Montante final na POUPANÇA,"R$ 53.000,00"
+URPR11,Montante final no FUNDO,"R$ 51.463,24"
+URPR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.968,90"
+URPR11,Valorização patrimonial no fundo,"R$ 43.494,34"
+URPR11,URPR11 X POUPANÇA,"-2,90%"
+VANG11,Aplicação em 12 meses,"R$ 50.000,00"
+VANG11,Montante final na POUPANÇA,"R$ 53.000,00"
+VANG11,Montante final no FUNDO,N/A
+VANG11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VANG11,Valorização patrimonial no fundo,"R$ 50.998,16"
+VANG11,VANG11 X POUPANÇA,N/A
+VCHG11,Aplicação em 12 meses,"R$ 50.000,00"
+VCHG11,Montante final na POUPANÇA,N/A
+VCHG11,Montante final no FUNDO,N/A
+VCHG11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VCHG11,Valorização patrimonial no fundo,N/A
+VCHG11,VCHG11 X POUPANÇA,N/A
+VCJR11,Aplicação em 12 meses,"R$ 50.000,00"
+VCJR11,Montante final na POUPANÇA,"R$ 53.000,00"
+VCJR11,Montante final no FUNDO,"R$ 57.969,65"
+VCJR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.772,30"
+VCJR11,Valorização patrimonial no fundo,"R$ 52.197,35"
+VCJR11,VCJR11 X POUPANÇA,"9,38%"
+VCRA11,Aplicação em 12 meses,"R$ 50.000,00"
+VCRA11,Montante final na POUPANÇA,"R$ 53.000,00"
+VCRA11,Montante final no FUNDO,"R$ 49.954,46"
+VCRA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 8.391,45"
+VCRA11,Valorização patrimonial no fundo,"R$ 41.563,01"
+VCRA11,VCRA11 X POUPANÇA,"-5,75%"
+VCRI11,Aplicação em 12 meses,"R$ 50.000,00"
+VCRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+VCRI11,Montante final no FUNDO,"R$ 56.933,90"
+VCRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.344,00"
+VCRI11,Valorização patrimonial no fundo,"R$ 50.589,90"
+VCRI11,VCRI11 X POUPANÇA,"7,42%"
+VCRR11,Aplicação em 12 meses,"R$ 50.000,00"
+VCRR11,Montante final na POUPANÇA,"R$ 53.000,00"
+VCRR11,Montante final no FUNDO,"R$ 51.938,60"
+VCRR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.177,69"
+VCRR11,Valorização patrimonial no fundo,"R$ 45.760,91"
+VCRR11,VCRR11 X POUPANÇA,"-2,00%"
+VCTH11,Aplicação em 12 meses,"R$ 50.000,00"
+VCTH11,Montante final na POUPANÇA,N/A
+VCTH11,Montante final no FUNDO,N/A
+VCTH11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VCTH11,Valorização patrimonial no fundo,N/A
+VCTH11,VCTH11 X POUPANÇA,N/A
+VDSV11,Aplicação em 12 meses,"R$ 50.000,00"
+VDSV11,Montante final na POUPANÇA,N/A
+VDSV11,Montante final no FUNDO,N/A
+VDSV11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VDSV11,Valorização patrimonial no fundo,N/A
+VDSV11,VDSV11 X POUPANÇA,N/A
+VERE11,Aplicação em 12 meses,"R$ 50.000,00"
+VERE11,Montante final na POUPANÇA,"R$ 53.000,00"
+VERE11,Montante final no FUNDO,"R$ 53.757,79"
+VERE11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.504,20"
+VERE11,Valorização patrimonial no fundo,"R$ 50.253,59"
+VERE11,VERE11 X POUPANÇA,"1,43%"
+VGHF11,Aplicação em 12 meses,"R$ 50.000,00"
+VGHF11,Montante final na POUPANÇA,"R$ 53.000,00"
+VGHF11,Montante final no FUNDO,"R$ 53.749,94"
+VGHF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.639,75"
+VGHF11,Valorização patrimonial no fundo,"R$ 47.110,19"
+VGHF11,VGHF11 X POUPANÇA,"1,41%"
+VGIA11,Aplicação em 12 meses,"R$ 50.000,00"
+VGIA11,Montante final na POUPANÇA,"R$ 53.000,00"
+VGIA11,Montante final no FUNDO,"R$ 53.932,84"
+VGIA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.752,73"
+VGIA11,Valorização patrimonial no fundo,"R$ 46.180,11"
+VGIA11,VGIA11 X POUPANÇA,"1,76%"
+VGII11,Aplicação em 12 meses,"R$ 50.000,00"
+VGII11,Montante final na POUPANÇA,N/A
+VGII11,Montante final no FUNDO,N/A
+VGII11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VGII11,Valorização patrimonial no fundo,N/A
+VGII11,VGII11 X POUPANÇA,N/A
+VGIP11,Aplicação em 12 meses,"R$ 50.000,00"
+VGIP11,Montante final na POUPANÇA,"R$ 53.000,00"
+VGIP11,Montante final no FUNDO,"R$ 55.794,42"
+VGIP11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.549,76"
+VGIP11,Valorização patrimonial no fundo,"R$ 50.244,66"
+VGIP11,VGIP11 X POUPANÇA,"5,27%"
+VGIR11,Aplicação em 12 meses,"R$ 50.000,00"
+VGIR11,Montante final na POUPANÇA,"R$ 53.000,00"
+VGIR11,Montante final no FUNDO,"R$ 58.602,62"
+VGIR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.757,73"
+VGIR11,Valorização patrimonial no fundo,"R$ 51.844,89"
+VGIR11,VGIR11 X POUPANÇA,"10,57%"
+VGPR11,Aplicação em 12 meses,"R$ 50.000,00"
+VGPR11,Montante final na POUPANÇA,N/A
+VGPR11,Montante final no FUNDO,N/A
+VGPR11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VGPR11,Valorização patrimonial no fundo,N/A
+VGPR11,VGPR11 X POUPANÇA,N/A
+VGRI11,Aplicação em 12 meses,"R$ 50.000,00"
+VGRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+VGRI11,Montante final no FUNDO,"R$ 51.551,11"
+VGRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.800,66"
+VGRI11,Valorização patrimonial no fundo,"R$ 46.750,45"
+VGRI11,VGRI11 X POUPANÇA,"-2,73%"
+VIDS11,Aplicação em 12 meses,"R$ 50.000,00"
+VIDS11,Montante final na POUPANÇA,"R$ 53.000,00"
+VIDS11,Montante final no FUNDO,"R$ 53.897,14"
+VIDS11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.050,41"
+VIDS11,Valorização patrimonial no fundo,"R$ 49.846,72"
+VIDS11,VIDS11 X POUPANÇA,"1,69%"
+VIFI11,Aplicação em 12 meses,"R$ 50.000,00"
+VIFI11,Montante final na POUPANÇA,"R$ 53.000,00"
+VIFI11,Montante final no FUNDO,"R$ 53.084,94"
+VIFI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.389,65"
+VIFI11,Valorização patrimonial no fundo,"R$ 47.695,29"
+VIFI11,VIFI11 X POUPANÇA,"0,16%"
+VIGT11,Aplicação em 12 meses,"R$ 50.000,00"
+VIGT11,Montante final na POUPANÇA,"R$ 53.000,00"
+VIGT11,Montante final no FUNDO,N/A
+VIGT11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VIGT11,Valorização patrimonial no fundo,"R$ 40.742,96"
+VIGT11,VIGT11 X POUPANÇA,N/A
+VILG11,Aplicação em 12 meses,"R$ 50.000,00"
+VILG11,Montante final na POUPANÇA,"R$ 53.000,00"
+VILG11,Montante final no FUNDO,"R$ 45.747,58"
+VILG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.276,82"
+VILG11,Valorização patrimonial no fundo,"R$ 41.470,76"
+VILG11,VILG11 X POUPANÇA,"-13,68%"
+VINO11,Aplicação em 12 meses,"R$ 50.000,00"
+VINO11,Montante final na POUPANÇA,"R$ 53.000,00"
+VINO11,Montante final no FUNDO,"R$ 39.000,35"
+VINO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.828,57"
+VINO11,Valorização patrimonial no fundo,"R$ 33.171,77"
+VINO11,VINO11 X POUPANÇA,"-26,41%"
+VISC11,Aplicação em 12 meses,"R$ 50.000,00"
+VISC11,Montante final na POUPANÇA,"R$ 53.000,00"
+VISC11,Montante final no FUNDO,"R$ 52.684,36"
+VISC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.100,68"
+VISC11,Valorização patrimonial no fundo,"R$ 47.583,68"
+VISC11,VISC11 X POUPANÇA,"-0,60%"
+VIUR11,Aplicação em 12 meses,"R$ 50.000,00"
+VIUR11,Montante final na POUPANÇA,"R$ 53.000,00"
+VIUR11,Montante final no FUNDO,"R$ 45.940,61"
+VIUR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.464,33"
+VIUR11,Valorização patrimonial no fundo,"R$ 39.476,27"
+VIUR11,VIUR11 X POUPANÇA,"-13,32%"
+VJFD11,Aplicação em 12 meses,"R$ 50.000,00"
+VJFD11,Montante final na POUPANÇA,"R$ 53.000,00"
+VJFD11,Montante final no FUNDO,"R$ 53.800,16"
+VJFD11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.800,16"
+VJFD11,Valorização patrimonial no fundo,"R$ 50.000,00"
+VJFD11,VJFD11 X POUPANÇA,"1,51%"
+VLIQ11,Aplicação em 12 meses,"R$ 50.000,00"
+VLIQ11,Montante final na POUPANÇA,N/A
+VLIQ11,Montante final no FUNDO,N/A
+VLIQ11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VLIQ11,Valorização patrimonial no fundo,N/A
+VLIQ11,VLIQ11 X POUPANÇA,N/A
+VLJS11,Aplicação em 12 meses,"R$ 50.000,00"
+VLJS11,Montante final na POUPANÇA,"R$ 53.000,00"
+VLJS11,Montante final no FUNDO,N/A
+VLJS11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VLJS11,Valorização patrimonial no fundo,"R$ 50.000,00"
+VLJS11,VLJS11 X POUPANÇA,N/A
+VLOL11,Aplicação em 12 meses,"R$ 50.000,00"
+VLOL11,Montante final na POUPANÇA,"R$ 53.000,00"
+VLOL11,Montante final no FUNDO,"R$ 51.266,66"
+VLOL11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 946,78"
+VLOL11,Valorização patrimonial no fundo,"R$ 50.319,87"
+VLOL11,VLOL11 X POUPANÇA,"-3,27%"
+VOTS11,Aplicação em 12 meses,"R$ 50.000,00"
+VOTS11,Montante final na POUPANÇA,"R$ 53.000,00"
+VOTS11,Montante final no FUNDO,"R$ 56.481,00"
+VOTS11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.825,96"
+VOTS11,Valorização patrimonial no fundo,"R$ 49.655,04"
+VOTS11,VOTS11 X POUPANÇA,"6,57%"
+VPSI11,Aplicação em 12 meses,"R$ 50.000,00"
+VPSI11,Montante final na POUPANÇA,"R$ 53.000,00"
+VPSI11,Montante final no FUNDO,"R$ 70.771,38"
+VPSI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 11.063,23"
+VPSI11,Valorização patrimonial no fundo,"R$ 59.708,16"
+VPSI11,VPSI11 X POUPANÇA,"33,53%"
+VRTM11,Aplicação em 12 meses,"R$ 50.000,00"
+VRTM11,Montante final na POUPANÇA,"R$ 53.000,00"
+VRTM11,Montante final no FUNDO,"R$ 57.567,31"
+VRTM11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 3.942,96"
+VRTM11,Valorização patrimonial no fundo,"R$ 53.624,35"
+VRTM11,VRTM11 X POUPANÇA,"8,62%"
+VSEC11,Aplicação em 12 meses,"R$ 50.000,00"
+VSEC11,Montante final na POUPANÇA,"R$ 53.000,00"
+VSEC11,Montante final no FUNDO,"R$ 22.057,65"
+VSEC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 19.047,60"
+VSEC11,Valorização patrimonial no fundo,"R$ 3.010,05"
+VSEC11,VSEC11 X POUPANÇA,"-58,38%"
+VSHO11,Aplicação em 12 meses,"R$ 50.000,00"
+VSHO11,Montante final na POUPANÇA,"R$ 53.000,00"
+VSHO11,Montante final no FUNDO,"R$ 52.339,30"
+VSHO11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.428,72"
+VSHO11,Valorização patrimonial no fundo,"R$ 46.910,58"
+VSHO11,VSHO11 X POUPANÇA,"-1,25%"
+VSLH11,Aplicação em 12 meses,"R$ 50.000,00"
+VSLH11,Montante final na POUPANÇA,"R$ 53.000,00"
+VSLH11,Montante final no FUNDO,"R$ 52.339,57"
+VSLH11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.764,30"
+VSLH11,Valorização patrimonial no fundo,"R$ 45.575,27"
+VSLH11,VSLH11 X POUPANÇA,"-1,25%"
+VTLT11,Aplicação em 12 meses,"R$ 50.000,00"
+VTLT11,Montante final na POUPANÇA,"R$ 53.000,00"
+VTLT11,Montante final no FUNDO,"R$ 56.819,83"
+VTLT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.700,24"
+VTLT11,Valorização patrimonial no fundo,"R$ 51.119,59"
+VTLT11,VTLT11 X POUPANÇA,"7,21%"
+VTPA11,Aplicação em 12 meses,"R$ 50.000,00"
+VTPA11,Montante final na POUPANÇA,N/A
+VTPA11,Montante final no FUNDO,N/A
+VTPA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VTPA11,Valorização patrimonial no fundo,N/A
+VTPA11,VTPA11 X POUPANÇA,N/A
+VTPL11,Aplicação em 12 meses,"R$ 50.000,00"
+VTPL11,Montante final na POUPANÇA,"R$ 53.000,00"
+VTPL11,Montante final no FUNDO,N/A
+VTPL11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VTPL11,Valorização patrimonial no fundo,"R$ 50.000,00"
+VTPL11,VTPL11 X POUPANÇA,N/A
+VTVI11,Aplicação em 12 meses,"R$ 50.000,00"
+VTVI11,Montante final na POUPANÇA,N/A
+VTVI11,Montante final no FUNDO,N/A
+VTVI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VTVI11,Valorização patrimonial no fundo,N/A
+VTVI11,VTVI11 X POUPANÇA,N/A
+VTXI11,Aplicação em 12 meses,"R$ 50.000,00"
+VTXI11,Montante final na POUPANÇA,N/A
+VTXI11,Montante final no FUNDO,N/A
+VTXI11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VTXI11,Valorização patrimonial no fundo,N/A
+VTXI11,VTXI11 X POUPANÇA,N/A
+VVCO11,Aplicação em 12 meses,"R$ 50.000,00"
+VVCO11,Montante final na POUPANÇA,"R$ 53.000,00"
+VVCO11,Montante final no FUNDO,N/A
+VVCO11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+VVCO11,Valorização patrimonial no fundo,"R$ 49.580,03"
+VVCO11,VVCO11 X POUPANÇA,N/A
+VVCR11,Aplicação em 12 meses,"R$ 50.000,00"
+VVCR11,Montante final na POUPANÇA,"R$ 53.000,00"
+VVCR11,Montante final no FUNDO,"R$ 50.241,54"
+VVCR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.096,39"
+VVCR11,Valorização patrimonial no fundo,"R$ 44.145,15"
+VVCR11,VVCR11 X POUPANÇA,"-5,20%"
+VVMR11,Aplicação em 12 meses,"R$ 50.000,00"
+VVMR11,Montante final na POUPANÇA,"R$ 53.000,00"
+VVMR11,Montante final no FUNDO,"R$ 52.123,07"
+VVMR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.128,39"
+VVMR11,Valorização patrimonial no fundo,"R$ 46.994,68"
+VVMR11,VVMR11 X POUPANÇA,"-1,65%"
+VVPR11,Aplicação em 12 meses,"R$ 50.000,00"
+VVPR11,Montante final na POUPANÇA,"R$ 53.000,00"
+VVPR11,Montante final no FUNDO,"R$ 50.224,30"
+VVPR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 439,03"
+VVPR11,Valorização patrimonial no fundo,"R$ 49.785,27"
+VVPR11,VVPR11 X POUPANÇA,"-5,24%"
+VVRI11,Aplicação em 12 meses,"R$ 50.000,00"
+VVRI11,Montante final na POUPANÇA,"R$ 53.000,00"
+VVRI11,Montante final no FUNDO,"R$ 59.383,62"
+VVRI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.043,85"
+VVRI11,Valorização patrimonial no fundo,"R$ 52.339,77"
+VVRI11,VVRI11 X POUPANÇA,"12,04%"
+VXXV11,Aplicação em 12 meses,"R$ 50.000,00"
+VXXV11,Montante final na POUPANÇA,"R$ 53.000,00"
+VXXV11,Montante final no FUNDO,"R$ 46.505,59"
+VXXV11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 13.766,96"
+VXXV11,Valorização patrimonial no fundo,"R$ 32.738,63"
+VXXV11,VXXV11 X POUPANÇA,"-12,25%"
+WHGR11,Aplicação em 12 meses,"R$ 50.000,00"
+WHGR11,Montante final na POUPANÇA,"R$ 53.000,00"
+WHGR11,Montante final no FUNDO,"R$ 57.534,62"
+WHGR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.114,82"
+WHGR11,Valorização patrimonial no fundo,"R$ 51.419,80"
+WHGR11,WHGR11 X POUPANÇA,"8,56%"
+WMRB11B,Aplicação em 12 meses,"R$ 50.000,00"
+WMRB11B,Montante final na POUPANÇA,N/A
+WMRB11B,Montante final no FUNDO,N/A
+WMRB11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+WMRB11B,Valorização patrimonial no fundo,N/A
+WMRB11B,WMRB11B X POUPANÇA,N/A
+WPLZ11,Aplicação em 12 meses,"R$ 50.000,00"
+WPLZ11,Montante final na POUPANÇA,"R$ 53.000,00"
+WPLZ11,Montante final no FUNDO,"R$ 45.252,03"
+WPLZ11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.110,28"
+WPLZ11,Valorização patrimonial no fundo,"R$ 41.141,75"
+WPLZ11,WPLZ11 X POUPANÇA,"-14,62%"
+WPLZ11B,Aplicação em 12 meses,"R$ 50.000,00"
+WPLZ11B,Montante final na POUPANÇA,N/A
+WPLZ11B,Montante final no FUNDO,N/A
+WPLZ11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+WPLZ11B,Valorização patrimonial no fundo,N/A
+WPLZ11B,WPLZ11B X POUPANÇA,N/A
+WSEC11,Aplicação em 12 meses,"R$ 50.000,00"
+WSEC11,Montante final na POUPANÇA,"R$ 53.000,00"
+WSEC11,Montante final no FUNDO,"R$ 59.358,34"
+WSEC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.138,51"
+WSEC11,Valorização patrimonial no fundo,"R$ 52.219,83"
+WSEC11,WSEC11 X POUPANÇA,"12,00%"
+WTSP11B,Aplicação em 12 meses,"R$ 50.000,00"
+WTSP11B,Montante final na POUPANÇA,"R$ 53.000,00"
+WTSP11B,Montante final no FUNDO,"R$ 55.461,79"
+WTSP11B,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.146,35"
+WTSP11B,Valorização patrimonial no fundo,"R$ 49.315,44"
+WTSP11B,WTSP11B X POUPANÇA,"4,64%"
+WVSC11,Aplicação em 12 meses,"R$ 50.000,00"
+WVSC11,Montante final na POUPANÇA,N/A
+WVSC11,Montante final no FUNDO,N/A
+WVSC11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+WVSC11,Valorização patrimonial no fundo,N/A
+WVSC11,WVSC11 X POUPANÇA,N/A
+XBXO11,Aplicação em 12 meses,"R$ 50.000,00"
+XBXO11,Montante final na POUPANÇA,N/A
+XBXO11,Montante final no FUNDO,N/A
+XBXO11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+XBXO11,Valorização patrimonial no fundo,N/A
+XBXO11,XBXO11 X POUPANÇA,N/A
+XPCA11,Aplicação em 12 meses,"R$ 50.000,00"
+XPCA11,Montante final na POUPANÇA,"R$ 53.000,00"
+XPCA11,Montante final no FUNDO,"R$ 53.829,73"
+XPCA11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 7.619,30"
+XPCA11,Valorização patrimonial no fundo,"R$ 46.210,43"
+XPCA11,XPCA11 X POUPANÇA,"1,57%"
+XPCI11,Aplicação em 12 meses,"R$ 50.000,00"
+XPCI11,Montante final na POUPANÇA,"R$ 53.000,00"
+XPCI11,Montante final no FUNDO,"R$ 57.008,59"
+XPCI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.099,00"
+XPCI11,Valorização patrimonial no fundo,"R$ 50.909,59"
+XPCI11,XPCI11 X POUPANÇA,"7,56%"
+XPCM11,Aplicação em 12 meses,"R$ 50.000,00"
+XPCM11,Montante final na POUPANÇA,"R$ 53.000,00"
+XPCM11,Montante final no FUNDO,"R$ 35.486,55"
+XPCM11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.824,60"
+XPCM11,Valorização patrimonial no fundo,"R$ 33.661,95"
+XPCM11,XPCM11 X POUPANÇA,"-33,04%"
+XPGA11,Aplicação em 12 meses,"R$ 50.000,00"
+XPGA11,Montante final na POUPANÇA,N/A
+XPGA11,Montante final no FUNDO,N/A
+XPGA11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+XPGA11,Valorização patrimonial no fundo,N/A
+XPGA11,XPGA11 X POUPANÇA,N/A
+XPHT11,Aplicação em 12 meses,"R$ 50.000,00"
+XPHT11,Montante final na POUPANÇA,"R$ 53.000,00"
+XPHT11,Montante final no FUNDO,"R$ 56.455,94"
+XPHT11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.631,93"
+XPHT11,Valorização patrimonial no fundo,"R$ 54.824,01"
+XPHT11,XPHT11 X POUPANÇA,"6,52%"
+XPID11,Aplicação em 12 meses,"R$ 50.000,00"
+XPID11,Montante final na POUPANÇA,"R$ 53.000,00"
+XPID11,Montante final no FUNDO,"R$ 44.116,02"
+XPID11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.386,25"
+XPID11,Valorização patrimonial no fundo,"R$ 39.729,77"
+XPID11,XPID11 X POUPANÇA,"-16,76%"
+XPIE11,Aplicação em 12 meses,"R$ 50.000,00"
+XPIE11,Montante final na POUPANÇA,"R$ 53.000,00"
+XPIE11,Montante final no FUNDO,N/A
+XPIE11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+XPIE11,Valorização patrimonial no fundo,"R$ 47.926,62"
+XPIE11,XPIE11 X POUPANÇA,N/A
+XPIN11,Aplicação em 12 meses,"R$ 50.000,00"
+XPIN11,Montante final na POUPANÇA,"R$ 53.000,00"
+XPIN11,Montante final no FUNDO,"R$ 52.781,09"
+XPIN11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.815,00"
+XPIN11,Valorização patrimonial no fundo,"R$ 47.966,09"
+XPIN11,XPIN11 X POUPANÇA,"-0,41%"
+XPLG11,Aplicação em 12 meses,"R$ 50.000,00"
+XPLG11,Montante final na POUPANÇA,"R$ 53.000,00"
+XPLG11,Montante final no FUNDO,"R$ 50.936,16"
+XPLG11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 4.511,52"
+XPLG11,Valorização patrimonial no fundo,"R$ 46.424,64"
+XPLG11,XPLG11 X POUPANÇA,"-3,89%"
+XPML11,Aplicação em 12 meses,"R$ 50.000,00"
+XPML11,Montante final na POUPANÇA,"R$ 53.000,00"
+XPML11,Montante final no FUNDO,"R$ 58.128,16"
+XPML11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.127,20"
+XPML11,Valorização patrimonial no fundo,"R$ 53.000,96"
+XPML11,XPML11 X POUPANÇA,"9,68%"
+XPPR11,Aplicação em 12 meses,"R$ 50.000,00"
+XPPR11,Montante final na POUPANÇA,"R$ 53.000,00"
+XPPR11,Montante final no FUNDO,"R$ 43.670,24"
+XPPR11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 2.679,93"
+XPPR11,Valorização patrimonial no fundo,"R$ 40.990,31"
+XPPR11,XPPR11 X POUPANÇA,"-17,60%"
+XPSF11,Aplicação em 12 meses,"R$ 50.000,00"
+XPSF11,Montante final na POUPANÇA,"R$ 53.000,00"
+XPSF11,Montante final no FUNDO,"R$ 50.001,25"
+XPSF11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 5.940,75"
+XPSF11,Valorização patrimonial no fundo,"R$ 44.060,50"
+XPSF11,XPSF11 X POUPANÇA,"-5,66%"
+XTED11,Aplicação em 12 meses,"R$ 50.000,00"
+XTED11,Montante final na POUPANÇA,"R$ 53.000,00"
+XTED11,Montante final no FUNDO,N/A
+XTED11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+XTED11,Valorização patrimonial no fundo,"R$ 70.221,67"
+XTED11,XTED11 X POUPANÇA,N/A
+YCHY11,Aplicação em 12 meses,"R$ 50.000,00"
+YCHY11,Montante final na POUPANÇA,N/A
+YCHY11,Montante final no FUNDO,N/A
+YCHY11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+YCHY11,Valorização patrimonial no fundo,N/A
+YCHY11,YCHY11 X POUPANÇA,N/A
+YEES11,Aplicação em 12 meses,"R$ 50.000,00"
+YEES11,Montante final na POUPANÇA,"R$ 53.000,00"
+YEES11,Montante final no FUNDO,N/A
+YEES11,Rendimento (ISENTO DE IR) no FUNDO,N/A
+YEES11,Valorização patrimonial no fundo,"R$ 50.000,00"
+YEES11,YEES11 X POUPANÇA,N/A
+YUFI11,Aplicação em 12 meses,"R$ 50.000,00"
+YUFI11,Montante final na POUPANÇA,"R$ 53.000,00"
+YUFI11,Montante final no FUNDO,"R$ 51.626,26"
+YUFI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.711,13"
+YUFI11,Valorização patrimonial no fundo,"R$ 49.915,13"
+YUFI11,YUFI11 X POUPANÇA,"-2,59%"
+YUFI11B,Aplicação em 12 meses,"R$ 50.000,00"
+YUFI11B,Montante final na POUPANÇA,N/A
+YUFI11B,Montante final no FUNDO,N/A
+YUFI11B,Rendimento (ISENTO DE IR) no FUNDO,N/A
+YUFI11B,Valorização patrimonial no fundo,N/A
+YUFI11B,YUFI11B X POUPANÇA,N/A
+ZAGH11,Aplicação em 12 meses,"R$ 50.000,00"
+ZAGH11,Montante final na POUPANÇA,"R$ 53.000,00"
+ZAGH11,Montante final no FUNDO,"R$ 61.109,89"
+ZAGH11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.291,46"
+ZAGH11,Valorização patrimonial no fundo,"R$ 59.818,43"
+ZAGH11,ZAGH11 X POUPANÇA,"15,30%"
+ZAVC11,Aplicação em 12 meses,"R$ 50.000,00"
+ZAVC11,Montante final na POUPANÇA,"R$ 53.000,00"
+ZAVC11,Montante final no FUNDO,"R$ 55.437,09"
+ZAVC11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 1.477,46"
+ZAVC11,Valorização patrimonial no fundo,"R$ 53.959,63"
+ZAVC11,ZAVC11 X POUPANÇA,"4,60%"
+ZAVI11,Aplicação em 12 meses,"R$ 50.000,00"
+ZAVI11,Montante final na POUPANÇA,"R$ 53.000,00"
+ZAVI11,Montante final no FUNDO,"R$ 52.429,73"
+ZAVI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 6.214,88"
+ZAVI11,Valorização patrimonial no fundo,"R$ 46.214,85"
+ZAVI11,ZAVI11 X POUPANÇA,"-1,08%"
+ZIFI11,Aplicação em 12 meses,"R$ 50.000,00"
+ZIFI11,Montante final na POUPANÇA,"R$ 53.000,00"
+ZIFI11,Montante final no FUNDO,"R$ 42.756,07"
+ZIFI11,Rendimento (ISENTO DE IR) no FUNDO,"R$ 214,82"
+ZIFI11,Valorização patrimonial no fundo,"R$ 42.541,25"
+ZIFI11,ZIFI11 X POUPANÇA,"-19,33%"
