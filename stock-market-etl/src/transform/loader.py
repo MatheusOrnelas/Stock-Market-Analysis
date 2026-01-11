@@ -13,15 +13,9 @@ CSV_TO_TABLE_MAP = {
     "funds_localizacao": "funds_localizacao",
     "funds_rendimentos": "funds_rendimentos",
     "funds_simulacao": "funds_simulacao",
-    
-    # # Oceans14
-    # "ocean_balanco": "ocean_balanco",
-    # "ocean_indicadores": "ocean_indicadores",
-    # "ocean_lucratividade": "ocean_lucratividade",
-    # "ocean_lista_fiis": "ocean_lista_fiis",
-    # "ocean_lista_cri": "ocean_lista_cri",
-    # "ocean_lista_imoveis": "ocean_lista_imoveis",
-    
+    "funds_indicadores_diarios": "funds_indicadores_diarios", # New table
+    "funds_page_snapshots": "funds_page_snapshots",
+
     # Yahoo
     "yahoo_cotacoes": "cotacoes_historico"
 }
@@ -47,14 +41,18 @@ def load_bronze_to_silver(bronze_dir):
                 filepath = os.path.join(bronze_dir, filename)
                 try:
                     logger.info(f"Processando arquivo: {filename} -> Tabela: {table_name}")
-                    # Tentar ler com diferentes encodings se necessário
                     try:
                         df = pd.read_csv(filepath)
                     except UnicodeDecodeError:
                          logger.warning(f"Encoding padrão falhou para {filename}, tentando latin1")
                          df = pd.read_csv(filepath, encoding='latin1')
-                         
-                    insert_dataframe(df, table_name, engine)
+                    
+                    # Special handling for appending history instead of replacing
+                    if table_name == "funds_indicadores_diarios":
+                        # HISTÓRICO: append (não dropa tabela)
+                        insert_dataframe(df, table_name, engine, if_exists="append", drop_existing=False)
+                    else:
+                        insert_dataframe(df, table_name, engine)
                 except Exception as e:
                     logger.error(f"Erro ao carregar {filename}: {e}", exc_info=True)
             else:

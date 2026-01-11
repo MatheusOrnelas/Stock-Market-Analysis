@@ -10,7 +10,6 @@ sys.path.append(os.path.join(project_root, 'stock-market-etl'))
 
 from src.config.logging_config import setup_logging
 from src.extract.funds_explorer import FundsExplorerScraper
-from src.extract.oceans14 import Oceans14Scraper
 from src.extract.yahoo_finance import YahooFinanceScraper
 from src.transform.loader import load_bronze_to_silver
 
@@ -60,15 +59,6 @@ def main():
     
     # Criar DataFrame único para passar para os scrapers
     df_all_tickers = pd.DataFrame({'Ticker': all_tickers})
-    
-    # 2. Oceans14 Scraper (DESATIVADO TEMPORARIAMENTE)
-    # logger.info("=== Iniciando Oceans14 Scraper ===")
-    # try:
-    #     email = os.getenv('OCEANS14_EMAIL', 'matecouzer@gmail.com')
-    #     oceans_scraper = Oceans14Scraper(email=email, headless=False)
-    #     oceans_scraper.scrape_all(df_all_tickers, BRONZE_DIR)
-    # except Exception as e:
-    #     logger.error(f"Erro no Oceans14 Scraper: {e}", exc_info=True)
     
     # 3. Yahoo Finance Scraper
     logger.info("=== Iniciando Yahoo Finance Scraper ===")

@@ -59,7 +59,7 @@ def clean_column_name(column_name):
     column_name = column_name.lower()
     return column_name
 
-def insert_dataframe(df, table_name, engine=None):
+def insert_dataframe(df, table_name, engine=None, *, if_exists: str = "replace", drop_existing: bool = True):
     if engine is None:
         engine = get_db_engine()
 
@@ -78,14 +78,20 @@ def insert_dataframe(df, table_name, engine=None):
         # Padronizar nomes das colunas
         df.columns = [clean_column_name(col) for col in df.columns]
 
-        # Adicionar coluna de ID autoincrement e timestamp
-        df['id'] = range(1, len(df) + 1)
-        df['timestamp'] = datetime.now()
+        # Adicionar colunas técnicas:
+        # - se o dado já tem "timestamp" (ex: snapshot), não sobrescrever; usar "ingested_at"
+        df = df.copy()
+        df["id"] = range(1, len(df) + 1)
+        if "timestamp" in df.columns:
+            df["ingested_at"] = datetime.now()
+        else:
+            df["timestamp"] = datetime.now()
 
-        # Apagar tabela existente
-        logger.info(f"Recriando tabela {table_name}...")
-        with engine.connect() as connection:
-            connection.execute(text(f"DROP TABLE IF EXISTS {table_name}"))
+        # Apagar tabela existente (quando apropriado)
+        if drop_existing and if_exists == "replace":
+            logger.info(f"Recriando tabela {table_name}...")
+            with engine.connect() as connection:
+                connection.execute(text(f"DROP TABLE IF EXISTS {table_name}"))
 
         # Mapear os tipos de dados para as colunas
         dtype_mapping = {}
@@ -105,14 +111,22 @@ def insert_dataframe(df, table_name, engine=None):
                 final_length = max(max_length, 255)
                 # Se for muito grande, usa TEXT (embora String(N) no SQLAlchemy mapeie para VARCHAR ou TEXT dependendo do tamanho)
                 if final_length > 16000:
-                     dtype_mapping[col] = text # Use text type for very long strings
+                    # fallback: mantém como String grande; MySQL pode virar TEXT conforme o driver
+                    dtype_mapping[col] = String(length=final_length)
                 else:
-                     dtype_mapping[col] = String(length=final_length)
+                    dtype_mapping[col] = String(length=final_length)
 
         # Inserir DataFrame na tabela, recriando-a
         # chunksize ajuda em grandes volumes
-        df.to_sql(table_name, con=engine, index=False, if_exists='replace', dtype=dtype_mapping, chunksize=5000)
-        logger.info(f"Tabela {table_name} atualizada com sucesso ({len(df)} registros inseridos).")
+        df.to_sql(
+            table_name,
+            con=engine,
+            index=False,
+            if_exists=if_exists,
+            dtype=dtype_mapping,
+            chunksize=5000,
+        )
+        logger.info(f"Tabela {table_name} atualizada com sucesso ({len(df)} registros inseridos, if_exists={if_exists}).")
     except Exception as e:
         logger.error(f"Erro ao inserir dados na tabela {table_name}: {e}", exc_info=True)
         raise
